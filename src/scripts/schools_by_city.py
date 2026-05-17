@@ -17,7 +17,7 @@ def load_data(file_path: str) -> pd.DataFrame:
 
 def main() -> None:
     
-    FILE_PATH: str = "../data/raw/microdados_saeb_2023/DADOS/TS_ESCOLA.csv"
+    FILE_PATH: str = "data/raw/microdados_saeb_2023/DADOS/TS_ESCOLA.csv"
 
     data: pd.DataFrame = load_data(
         file_path=FILE_PATH,
