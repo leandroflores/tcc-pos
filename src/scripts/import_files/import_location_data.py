@@ -5,35 +5,27 @@ import json
 
 INPUT_FILE_PATH: str = "data/process/location.json"
 
-def import_location_data(file_input_path: Path) -> dict:
+def read_location_data(input_file_path: Path) -> dict:
     
-    with open(file_input_path, "r", encoding="utf-8") as file:
+    with open(input_file_path, "r", encoding="utf-8") as file:
         location_data = json.load(file)
 
     return location_data
 
 
-def main() -> None:
+def import_location_data(
+        file_path: str = INPUT_FILE_PATH,
+) -> dict:
     
-    print("Searching location data JSON file ... ")
-
-    file_input_path: Path = Path(INPUT_FILE_PATH)
+    file_input_path: Path = Path(file_path)
 
     if not file_input_path.exists():
-        raise ValueError(f"Import file {INPUT_FILE_PATH} not found.")
-    
-    print("JSON file exists... ")
-    print("")
-    print("Importing location data ... ")
+        raise FileNotFoundError(f"Import file {file_path} not found.")
 
-    location_data: dict = import_location_data(
-        file_input_path=file_input_path,
+    location_data: dict = read_location_data(
+        input_file_path=file_input_path,
     )
-
-    print("Location data imported... ")
-    print("")
-    print(location_data)
 
     return location_data    
 
-main()
+import_location_data()

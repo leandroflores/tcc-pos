@@ -171,7 +171,11 @@ def save_location_data(location_data: dict, output_file_path: Path) -> None:
         )
 
 
-def main() -> None:
+
+
+def create_location_data(
+        input_file_path: str = INPUT_FILE_PATH,
+) -> None:
     
     print("Loading location data ... ")
 
@@ -214,4 +218,4 @@ def main() -> None:
 
     print("Location data saved... ")
 
-main()
+create_location_data()
