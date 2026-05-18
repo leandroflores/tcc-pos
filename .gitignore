@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Project large data
-data/
+data/raw
 
 # Distribution / packaging
 .Python
