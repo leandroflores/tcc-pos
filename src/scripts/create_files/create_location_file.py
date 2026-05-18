@@ -93,7 +93,6 @@ def filter_location(location_dataframe: pd.DataFrame) -> pd.DataFrame:
     for column in columns:
         if column not in location_dataframe.columns:
             raise ValueError(f"Column {column} not found")
-
     
     return location_dataframe[columns].copy()
 
@@ -177,45 +176,52 @@ def create_location_data(
         input_file_path: str = INPUT_FILE_PATH,
 ) -> None:
     
-    print("Loading location data ... ")
+    try:
+        print("Loading location data ... ")
 
-    location_dataframe: pd.DataFrame = load_location(
-        file_path=Path(INPUT_FILE_PATH),
-    )
+        location_dataframe: pd.DataFrame = load_location(
+            file_path=Path(input_file_path),
+        )
 
-    print("Location data loaded... ")
-    print("")
-    print("Filtering location data ... ")
+        print("Location data loaded... ")
+        print("")
+        print("Filtering location data ... ")
 
-    location_dataframe: pd.DataFrame = filter_location(
-        location_dataframe=location_dataframe,
-    )
+        location_dataframe: pd.DataFrame = filter_location(
+            location_dataframe=location_dataframe,
+        )
 
-    print("Location data filtered... ")
-    print("")
-    print("Normalinzing location data ... ")
+        print("Location data filtered... ")
+        print("")
+        print("Normalinzing location data ... ")
 
-    location_dataframe: pd.DataFrame = normalize_location(
-        location_dataframe=location_dataframe,
-    )
+        location_dataframe: pd.DataFrame = normalize_location(
+            location_dataframe=location_dataframe,
+        )
 
-    print("Location data normalized... ")
-    print("")
-    print("Creating location data ... ")
+        print("Location data normalized... ")
+        print("")
+        print("Creating location data ... ")
 
-    location_data: dict = create_location_data(
-        location_dataframe=location_dataframe,
-    )
+        location_data: dict = create_location_data(
+            location_dataframe=location_dataframe,
+        )
 
-    print("Location data created... ")
-    print("")
-    print("Saving location data ... ")
+        print("Location data created... ")
+        print("")
+        print("Saving location data ... ")
 
-    save_location_data(
-        location_data=location_data,
-        output_file_path=Path(OUTPUT_FILE_PATH),
-    )
+        save_location_data(
+            location_data=location_data,
+            output_file_path=Path(OUTPUT_FILE_PATH),
+        )
 
-    print("Location data saved... ")
+        print("Location data saved... ")
+
+        return True
+    
+    except Exception:
+    
+        return False
 
 create_location_data()
