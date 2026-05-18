@@ -12,7 +12,7 @@ OUTPUT_FILE_PATH: str = "data/process/states"
 
 
 
-def load_school_data(file_path: str) -> pd.DataFrame:
+def load_school_data(file_path: str = FILE_PATH) -> pd.DataFrame:
     
     dataframe: pd.DataFrame = pd.read_csv(
         file_path,
@@ -81,3 +81,49 @@ def get_location_data() -> dict:
         file_path=LOCATION_FILE_PATH,
     )
 
+def create_state_school_data(
+        input_file_path: str = INPUT_FILE_PATH,
+) -> None:
+    
+    try:
+        print("Loading location data ... ")
+
+        school_dataframe: pd.DataFrame = load_school_data(
+            file_path=input_file_path,
+        )
+
+        print("Location data loaded... ")
+        print("")
+        print("Filtering location data ... ")
+
+        school_dataframe: pd.DataFrame = filter_school_data(
+            dataframe=school_dataframe,
+        )
+
+        print("Location data filtered... ")
+        print("")
+        print("Normalinzing location data ... ")
+
+        school_dataframe: pd.DataFrame = normalize_school_data(
+            dataframe=school_dataframe,
+        )
+
+        print("Location data normalized... ")
+        print("")
+        print("Creating location data ... ")
+
+        location_data: dict = get_location_data()
+
+        print("Location data created... ")
+        print("")
+        print(location_data)
+        print("Saving location data ... ")
+
+        
+        return True
+    
+    except Exception:
+    
+        return False
+
+create_state_school_data()
