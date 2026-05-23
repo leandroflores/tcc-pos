@@ -1,0 +1,1505 @@
+[
+    {
+        "city_code": "2400109",
+        "city_name": "Acari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400208",
+        "city_name": "Açu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400307",
+        "city_name": "Afonso Bezerra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400406",
+        "city_name": "Água Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400505",
+        "city_name": "Alexandria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400604",
+        "city_name": "Almino Afonso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400703",
+        "city_name": "Alto do Rodrigues",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400802",
+        "city_name": "Angicos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2400901",
+        "city_name": "Antônio Martins",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401008",
+        "city_name": "Apodi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401107",
+        "city_name": "Areia Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401206",
+        "city_name": "Arês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401404",
+        "city_name": "Baía Formosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401453",
+        "city_name": "Baraúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401503",
+        "city_name": "Barcelona",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401602",
+        "city_name": "Bento Fernandes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401651",
+        "city_name": "Bodó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401701",
+        "city_name": "Bom Jesus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401800",
+        "city_name": "Brejinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401859",
+        "city_name": "Caiçara do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401909",
+        "city_name": "Caiçara do Rio do Vento",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402006",
+        "city_name": "Caicó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2401305",
+        "city_name": "Campo Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402105",
+        "city_name": "Campo Redondo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402204",
+        "city_name": "Canguaretama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402303",
+        "city_name": "Caraúbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402402",
+        "city_name": "Carnaúba dos Dantas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402501",
+        "city_name": "Carnaubais",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402600",
+        "city_name": "Ceará-Mirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402709",
+        "city_name": "Cerro Corá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402808",
+        "city_name": "Coronel Ezequiel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2402907",
+        "city_name": "Coronel João Pessoa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403004",
+        "city_name": "Cruzeta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403103",
+        "city_name": "Currais Novos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403202",
+        "city_name": "Doutor Severiano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403301",
+        "city_name": "Encanto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403400",
+        "city_name": "Equador",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403509",
+        "city_name": "Espírito Santo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403608",
+        "city_name": "Extremoz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403707",
+        "city_name": "Felipe Guerra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403756",
+        "city_name": "Fernando Pedroza",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403806",
+        "city_name": "Florânia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403905",
+        "city_name": "Francisco Dantas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404002",
+        "city_name": "Frutuoso Gomes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404101",
+        "city_name": "Galinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404200",
+        "city_name": "Goianinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404309",
+        "city_name": "Governador Dix-Sept Rosado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404408",
+        "city_name": "Grossos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404507",
+        "city_name": "Guamaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404606",
+        "city_name": "Ielmo Marinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404705",
+        "city_name": "Ipanguaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404804",
+        "city_name": "Ipueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404853",
+        "city_name": "Itajá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2404903",
+        "city_name": "Itaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405009",
+        "city_name": "Jaçanã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405108",
+        "city_name": "Jandaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405207",
+        "city_name": "Janduís",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405306",
+        "city_name": "Januário Cicco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405405",
+        "city_name": "Japi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405504",
+        "city_name": "Jardim de Angicos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405603",
+        "city_name": "Jardim de Piranhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405702",
+        "city_name": "Jardim do Seridó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405801",
+        "city_name": "João Câmara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2405900",
+        "city_name": "João Dias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406007",
+        "city_name": "José da Penha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406106",
+        "city_name": "Jucurutu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406155",
+        "city_name": "Jundiá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406205",
+        "city_name": "Lagoa d'Anta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406304",
+        "city_name": "Lagoa de Pedras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406403",
+        "city_name": "Lagoa de Velhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406502",
+        "city_name": "Lagoa Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406601",
+        "city_name": "Lagoa Salgada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406700",
+        "city_name": "Lajes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406809",
+        "city_name": "Lajes Pintadas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2406908",
+        "city_name": "Lucrécia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407005",
+        "city_name": "Luís Gomes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407104",
+        "city_name": "Macaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407203",
+        "city_name": "Macau",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407252",
+        "city_name": "Major Sales",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407302",
+        "city_name": "Marcelino Vieira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407401",
+        "city_name": "Martins",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407500",
+        "city_name": "Maxaranguape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407609",
+        "city_name": "Messias Targino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407708",
+        "city_name": "Montanhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407807",
+        "city_name": "Monte Alegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2407906",
+        "city_name": "Monte das Gameleiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408003",
+        "city_name": "Mossoró",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408102",
+        "city_name": "Natal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408201",
+        "city_name": "Nísia Floresta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408300",
+        "city_name": "Nova Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408409",
+        "city_name": "Olho d'Água do Borges",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408508",
+        "city_name": "Ouro Branco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408607",
+        "city_name": "Paraná",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408706",
+        "city_name": "Paraú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408805",
+        "city_name": "Parazinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408904",
+        "city_name": "Parelhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2403251",
+        "city_name": "Parnamirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409100",
+        "city_name": "Passa e Fica",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409209",
+        "city_name": "Passagem",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409308",
+        "city_name": "Patu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409407",
+        "city_name": "Pau dos Ferros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409506",
+        "city_name": "Pedra Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409605",
+        "city_name": "Pedra Preta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409704",
+        "city_name": "Pedro Avelino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409803",
+        "city_name": "Pedro Velho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409902",
+        "city_name": "Pendências",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410009",
+        "city_name": "Pilões",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410108",
+        "city_name": "Poço Branco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410207",
+        "city_name": "Portalegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410256",
+        "city_name": "Porto do Mangue",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410405",
+        "city_name": "Pureza",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410504",
+        "city_name": "Rafael Fernandes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410603",
+        "city_name": "Rafael Godeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410702",
+        "city_name": "Riacho da Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410801",
+        "city_name": "Riacho de Santana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410900",
+        "city_name": "Riachuelo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2408953",
+        "city_name": "Rio do Fogo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411007",
+        "city_name": "Rodolfo Fernandes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411106",
+        "city_name": "Ruy Barbosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411205",
+        "city_name": "Santa Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2409332",
+        "city_name": "Santa Maria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411403",
+        "city_name": "Santana do Matos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411429",
+        "city_name": "Santana do Seridó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411502",
+        "city_name": "Santo Antônio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411601",
+        "city_name": "São Bento do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411700",
+        "city_name": "São Bento do Trairí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411809",
+        "city_name": "São Fernando",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411908",
+        "city_name": "São Francisco do Oeste",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412005",
+        "city_name": "São Gonçalo do Amarante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412104",
+        "city_name": "São João do Sabugi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412203",
+        "city_name": "São José de Mipibu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412302",
+        "city_name": "São José do Campestre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412401",
+        "city_name": "São José do Seridó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412500",
+        "city_name": "São Miguel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412559",
+        "city_name": "São Miguel do Gostoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412609",
+        "city_name": "São Paulo do Potengi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412708",
+        "city_name": "São Pedro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412807",
+        "city_name": "São Rafael",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2412906",
+        "city_name": "São Tomé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413003",
+        "city_name": "São Vicente",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413102",
+        "city_name": "Senador Elói de Souza",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413201",
+        "city_name": "Senador Georgino Avelino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2410306",
+        "city_name": "Serra Caiada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413300",
+        "city_name": "Serra de São Bento",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413359",
+        "city_name": "Serra do Mel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413409",
+        "city_name": "Serra Negra do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413508",
+        "city_name": "Serrinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413557",
+        "city_name": "Serrinha dos Pintos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413607",
+        "city_name": "Severiano Melo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413706",
+        "city_name": "Sítio Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413805",
+        "city_name": "Taboleiro Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2413904",
+        "city_name": "Taipu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414001",
+        "city_name": "Tangará",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414100",
+        "city_name": "Tenente Ananias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414159",
+        "city_name": "Tenente Laurentino Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2411056",
+        "city_name": "Tibau",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414209",
+        "city_name": "Tibau do Sul",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414308",
+        "city_name": "Timbaúba dos Batistas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414407",
+        "city_name": "Touros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414456",
+        "city_name": "Triunfo Potiguar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414506",
+        "city_name": "Umarizal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414605",
+        "city_name": "Upanema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414704",
+        "city_name": "Várzea",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414753",
+        "city_name": "Venha-Ver",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414803",
+        "city_name": "Vera Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2414902",
+        "city_name": "Viçosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    },
+    {
+        "city_code": "2415008",
+        "city_name": "Vila Flor",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "RN",
+        "state_code": "24",
+        "state_name": "Rio Grande do Norte"
+    }
+]

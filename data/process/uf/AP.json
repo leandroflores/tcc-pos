@@ -1,0 +1,146 @@
+[
+    {
+        "city_code": "1600105",
+        "city_name": "Amapá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600204",
+        "city_name": "Calçoene",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600212",
+        "city_name": "Cutias",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600238",
+        "city_name": "Ferreira Gomes",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600253",
+        "city_name": "Itaubal",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600279",
+        "city_name": "Laranjal do Jari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600303",
+        "city_name": "Macapá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600402",
+        "city_name": "Mazagão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600501",
+        "city_name": "Oiapoque",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600154",
+        "city_name": "Pedra Branca do Amapari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600535",
+        "city_name": "Porto Grande",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600550",
+        "city_name": "Pracuúba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600600",
+        "city_name": "Santana",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600055",
+        "city_name": "Serra do Navio",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600709",
+        "city_name": "Tartarugalzinho",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    },
+    {
+        "city_code": "1600808",
+        "city_name": "Vitória do Jari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AP",
+        "state_code": "16",
+        "state_name": "Amapá"
+    }
+]

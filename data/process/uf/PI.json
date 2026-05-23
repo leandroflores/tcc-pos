@@ -1,0 +1,2018 @@
+[
+    {
+        "city_code": "2200053",
+        "city_name": "Acauã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200103",
+        "city_name": "Agricolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200202",
+        "city_name": "Água Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200251",
+        "city_name": "Alagoinha do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200277",
+        "city_name": "Alegrete do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200301",
+        "city_name": "Alto Longá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200400",
+        "city_name": "Altos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200459",
+        "city_name": "Alvorada do Gurguéia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200509",
+        "city_name": "Amarante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200608",
+        "city_name": "Angical do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200707",
+        "city_name": "Anísio de Abreu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200806",
+        "city_name": "Antônio Almeida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200905",
+        "city_name": "Aroazes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2200954",
+        "city_name": "Aroeiras do Itaim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201002",
+        "city_name": "Arraial",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201051",
+        "city_name": "Assunção do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201101",
+        "city_name": "Avelino Lopes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201150",
+        "city_name": "Baixa Grande do Ribeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201176",
+        "city_name": "Barra D'Alcântara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201200",
+        "city_name": "Barras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201309",
+        "city_name": "Barreiras do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201408",
+        "city_name": "Barro Duro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201507",
+        "city_name": "Batalha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201556",
+        "city_name": "Bela Vista do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201572",
+        "city_name": "Belém do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201606",
+        "city_name": "Beneditinos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201705",
+        "city_name": "Bertolínia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201739",
+        "city_name": "Betânia do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201770",
+        "city_name": "Boa Hora",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201804",
+        "city_name": "Bocaina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201903",
+        "city_name": "Bom Jesus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201919",
+        "city_name": "Bom Princípio do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201929",
+        "city_name": "Bonfim do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201945",
+        "city_name": "Boqueirão do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201960",
+        "city_name": "Brasileira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2201988",
+        "city_name": "Brejo do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202000",
+        "city_name": "Buriti dos Lopes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202026",
+        "city_name": "Buriti dos Montes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202059",
+        "city_name": "Cabeceiras do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202075",
+        "city_name": "Cajazeiras do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202083",
+        "city_name": "Cajueiro da Praia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202091",
+        "city_name": "Caldeirão Grande do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202109",
+        "city_name": "Campinas do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202117",
+        "city_name": "Campo Alegre do Fidalgo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202133",
+        "city_name": "Campo Grande do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202174",
+        "city_name": "Campo Largo do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202208",
+        "city_name": "Campo Maior",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202251",
+        "city_name": "Canavieira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202307",
+        "city_name": "Canto do Buriti",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202406",
+        "city_name": "Capitão de Campos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202455",
+        "city_name": "Capitão Gervásio Oliveira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202505",
+        "city_name": "Caracol",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202539",
+        "city_name": "Caraúbas do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202554",
+        "city_name": "Caridade do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202604",
+        "city_name": "Castelo do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202653",
+        "city_name": "Caxingó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202703",
+        "city_name": "Cocal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202711",
+        "city_name": "Cocal de Telha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202729",
+        "city_name": "Cocal dos Alves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202737",
+        "city_name": "Coivaras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202752",
+        "city_name": "Colônia do Gurguéia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202778",
+        "city_name": "Colônia do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202802",
+        "city_name": "Conceição do Canindé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202851",
+        "city_name": "Coronel José Dias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2202901",
+        "city_name": "Corrente",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203008",
+        "city_name": "Cristalândia do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203107",
+        "city_name": "Cristino Castro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203206",
+        "city_name": "Curimatá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203230",
+        "city_name": "Currais",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203271",
+        "city_name": "Curral Novo do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203255",
+        "city_name": "Curralinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203305",
+        "city_name": "Demerval Lobão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203354",
+        "city_name": "Dirceu Arcoverde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203404",
+        "city_name": "Dom Expedito Lopes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203453",
+        "city_name": "Dom Inocêncio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203420",
+        "city_name": "Domingos Mourão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203503",
+        "city_name": "Elesbão Veloso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203602",
+        "city_name": "Eliseu Martins",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203701",
+        "city_name": "Esperantina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203750",
+        "city_name": "Fartura do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203800",
+        "city_name": "Flores do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203859",
+        "city_name": "Floresta do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2203909",
+        "city_name": "Floriano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204006",
+        "city_name": "Francinópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204105",
+        "city_name": "Francisco Ayres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204154",
+        "city_name": "Francisco Macedo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204204",
+        "city_name": "Francisco Santos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204303",
+        "city_name": "Fronteiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204352",
+        "city_name": "Geminiano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204402",
+        "city_name": "Gilbués",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204501",
+        "city_name": "Guadalupe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204550",
+        "city_name": "Guaribas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204600",
+        "city_name": "Hugo Napoleão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204659",
+        "city_name": "Ilha Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204709",
+        "city_name": "Inhuma",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204808",
+        "city_name": "Ipiranga do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2204907",
+        "city_name": "Isaías Coelho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205003",
+        "city_name": "Itainópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205102",
+        "city_name": "Itaueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205151",
+        "city_name": "Jacobina do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205201",
+        "city_name": "Jaicós",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205250",
+        "city_name": "Jardim do Mulato",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205276",
+        "city_name": "Jatobá do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205300",
+        "city_name": "Jerumenha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205359",
+        "city_name": "João Costa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205409",
+        "city_name": "Joaquim Pires",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205458",
+        "city_name": "Joca Marques",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205508",
+        "city_name": "José de Freitas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205516",
+        "city_name": "Juazeiro do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205524",
+        "city_name": "Júlio Borges",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205532",
+        "city_name": "Jurema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205557",
+        "city_name": "Lagoa Alegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205573",
+        "city_name": "Lagoa de São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205565",
+        "city_name": "Lagoa do Barro do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205581",
+        "city_name": "Lagoa do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205599",
+        "city_name": "Lagoa do Sítio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205540",
+        "city_name": "Lagoinha do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205607",
+        "city_name": "Landri Sales",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205706",
+        "city_name": "Luís Correia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205805",
+        "city_name": "Luzilândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205854",
+        "city_name": "Madeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205904",
+        "city_name": "Manoel Emídio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2205953",
+        "city_name": "Marcolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206001",
+        "city_name": "Marcos Parente",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206050",
+        "city_name": "Massapê do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206100",
+        "city_name": "Matias Olímpio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206209",
+        "city_name": "Miguel Alves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206308",
+        "city_name": "Miguel Leão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206357",
+        "city_name": "Milton Brandão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206407",
+        "city_name": "Monsenhor Gil",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206506",
+        "city_name": "Monsenhor Hipólito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206605",
+        "city_name": "Monte Alegre do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206654",
+        "city_name": "Morro Cabeça no Tempo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206670",
+        "city_name": "Morro do Chapéu do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206696",
+        "city_name": "Murici dos Portelas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206704",
+        "city_name": "Nazaré do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206720",
+        "city_name": "Nazária",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206753",
+        "city_name": "Nossa Senhora de Nazaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206803",
+        "city_name": "Nossa Senhora dos Remédios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207959",
+        "city_name": "Nova Santa Rita",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206902",
+        "city_name": "Novo Oriente do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2206951",
+        "city_name": "Novo Santo Antônio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207009",
+        "city_name": "Oeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207108",
+        "city_name": "Olho D'Água do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207207",
+        "city_name": "Padre Marcos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207306",
+        "city_name": "Paes Landim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207355",
+        "city_name": "Pajeú do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207405",
+        "city_name": "Palmeira do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207504",
+        "city_name": "Palmeirais",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207553",
+        "city_name": "Paquetá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207603",
+        "city_name": "Parnaguá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207702",
+        "city_name": "Parnaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207751",
+        "city_name": "Passagem Franca do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207777",
+        "city_name": "Patos do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207793",
+        "city_name": "Pau D'Arco do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207801",
+        "city_name": "Paulistana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207850",
+        "city_name": "Pavussu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207900",
+        "city_name": "Pedro II",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2207934",
+        "city_name": "Pedro Laurentino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208007",
+        "city_name": "Picos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208106",
+        "city_name": "Pimenteiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208205",
+        "city_name": "Pio IX",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208304",
+        "city_name": "Piracuruca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208403",
+        "city_name": "Piripiri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208502",
+        "city_name": "Porto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208551",
+        "city_name": "Porto Alegre do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208601",
+        "city_name": "Prata do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208650",
+        "city_name": "Queimada Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208700",
+        "city_name": "Redenção do Gurguéia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208809",
+        "city_name": "Regeneração",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208858",
+        "city_name": "Riacho Frio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208874",
+        "city_name": "Ribeira do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2208908",
+        "city_name": "Ribeiro Gonçalves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209005",
+        "city_name": "Rio Grande do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209104",
+        "city_name": "Santa Cruz do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209153",
+        "city_name": "Santa Cruz dos Milagres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209203",
+        "city_name": "Santa Filomena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209302",
+        "city_name": "Santa Luz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209377",
+        "city_name": "Santa Rosa do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209351",
+        "city_name": "Santana do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209401",
+        "city_name": "Santo Antônio de Lisboa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209450",
+        "city_name": "Santo Antônio dos Milagres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209500",
+        "city_name": "Santo Inácio do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209559",
+        "city_name": "São Braz do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209609",
+        "city_name": "São Félix do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209658",
+        "city_name": "São Francisco de Assis do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209708",
+        "city_name": "São Francisco do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209757",
+        "city_name": "São Gonçalo do Gurguéia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209807",
+        "city_name": "São Gonçalo do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209856",
+        "city_name": "São João da Canabrava",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209872",
+        "city_name": "São João da Fronteira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209906",
+        "city_name": "São João da Serra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209955",
+        "city_name": "São João da Varjota",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2209971",
+        "city_name": "São João do Arraial",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210003",
+        "city_name": "São João do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210052",
+        "city_name": "São José do Divino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210102",
+        "city_name": "São José do Peixe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210201",
+        "city_name": "São José do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210300",
+        "city_name": "São Julião",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210359",
+        "city_name": "São Lourenço do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210375",
+        "city_name": "São Luis do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210383",
+        "city_name": "São Miguel da Baixa Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210391",
+        "city_name": "São Miguel do Fidalgo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210409",
+        "city_name": "São Miguel do Tapuio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210508",
+        "city_name": "São Pedro do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210607",
+        "city_name": "São Raimundo Nonato",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210623",
+        "city_name": "Sebastião Barros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210631",
+        "city_name": "Sebastião Leal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210656",
+        "city_name": "Sigefredo Pacheco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210706",
+        "city_name": "Simões",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210805",
+        "city_name": "Simplício Mendes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210904",
+        "city_name": "Socorro do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210938",
+        "city_name": "Sussuapara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210953",
+        "city_name": "Tamboril do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2210979",
+        "city_name": "Tanque do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211001",
+        "city_name": "Teresina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211100",
+        "city_name": "União",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211209",
+        "city_name": "Uruçuí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211308",
+        "city_name": "Valença do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211357",
+        "city_name": "Várzea Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211407",
+        "city_name": "Várzea Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211506",
+        "city_name": "Vera Mendes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211605",
+        "city_name": "Vila Nova do Piauí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    },
+    {
+        "city_code": "2211704",
+        "city_name": "Wall Ferraz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PI",
+        "state_code": "22",
+        "state_name": "Piauí"
+    }
+]

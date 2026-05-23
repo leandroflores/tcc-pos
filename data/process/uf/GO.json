@@ -1,0 +1,2216 @@
+[
+    {
+        "city_code": "5200050",
+        "city_name": "Abadia de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200100",
+        "city_name": "Abadiânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200134",
+        "city_name": "Acreúna",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200159",
+        "city_name": "Adelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200175",
+        "city_name": "Água Fria de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200209",
+        "city_name": "Água Limpa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200258",
+        "city_name": "Águas Lindas de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200308",
+        "city_name": "Alexânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200506",
+        "city_name": "Aloândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200555",
+        "city_name": "Alto Horizonte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200605",
+        "city_name": "Alto Paraíso de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200803",
+        "city_name": "Alvorada do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200829",
+        "city_name": "Amaralina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200852",
+        "city_name": "Americano do Brasil",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5200902",
+        "city_name": "Amorinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201108",
+        "city_name": "Anápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201207",
+        "city_name": "Anhanguera",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201306",
+        "city_name": "Anicuns",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201405",
+        "city_name": "Aparecida de Goiânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201454",
+        "city_name": "Aparecida do Rio Doce",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201504",
+        "city_name": "Aporé",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201603",
+        "city_name": "Araçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201702",
+        "city_name": "Aragarças",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5201801",
+        "city_name": "Aragoiânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5202155",
+        "city_name": "Araguapaz",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5202353",
+        "city_name": "Arenópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5202502",
+        "city_name": "Aruanã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5202601",
+        "city_name": "Aurilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5202809",
+        "city_name": "Avelinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203104",
+        "city_name": "Baliza",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203203",
+        "city_name": "Barro Alto",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203302",
+        "city_name": "Bela Vista de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203401",
+        "city_name": "Bom Jardim de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203500",
+        "city_name": "Bom Jesus de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203559",
+        "city_name": "Bonfinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203575",
+        "city_name": "Bonópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203609",
+        "city_name": "Brazabrantes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203807",
+        "city_name": "Britânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203906",
+        "city_name": "Buriti Alegre",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203939",
+        "city_name": "Buriti de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5203962",
+        "city_name": "Buritinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204003",
+        "city_name": "Cabeceiras",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204102",
+        "city_name": "Cachoeira Alta",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204201",
+        "city_name": "Cachoeira de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204250",
+        "city_name": "Cachoeira Dourada",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204300",
+        "city_name": "Caçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204409",
+        "city_name": "Caiapônia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204508",
+        "city_name": "Caldas Novas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204557",
+        "city_name": "Caldazinha",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204607",
+        "city_name": "Campestre de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204656",
+        "city_name": "Campinaçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204706",
+        "city_name": "Campinorte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204805",
+        "city_name": "Campo Alegre de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204854",
+        "city_name": "Campo Limpo de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204904",
+        "city_name": "Campos Belos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5204953",
+        "city_name": "Campos Verdes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205000",
+        "city_name": "Carmo do Rio Verde",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205059",
+        "city_name": "Castelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205109",
+        "city_name": "Catalão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205208",
+        "city_name": "Caturaí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205307",
+        "city_name": "Cavalcante",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205406",
+        "city_name": "Ceres",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205455",
+        "city_name": "Cezarina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205471",
+        "city_name": "Chapadão do Céu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205497",
+        "city_name": "Cidade Ocidental",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205513",
+        "city_name": "Cocalzinho de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205521",
+        "city_name": "Colinas do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205703",
+        "city_name": "Córrego do Ouro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205802",
+        "city_name": "Corumbá de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5205901",
+        "city_name": "Corumbaíba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206206",
+        "city_name": "Cristalina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206305",
+        "city_name": "Cristianópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206404",
+        "city_name": "Crixás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206503",
+        "city_name": "Cromínia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206602",
+        "city_name": "Cumari",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206701",
+        "city_name": "Damianópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206800",
+        "city_name": "Damolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5206909",
+        "city_name": "Davinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207105",
+        "city_name": "Diorama",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208301",
+        "city_name": "Divinópolis de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207253",
+        "city_name": "Doverlândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207352",
+        "city_name": "Edealina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207402",
+        "city_name": "Edéia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207501",
+        "city_name": "Estrela do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207535",
+        "city_name": "Faina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207600",
+        "city_name": "Fazenda Nova",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207808",
+        "city_name": "Firminópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5207907",
+        "city_name": "Flores de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208004",
+        "city_name": "Formosa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208103",
+        "city_name": "Formoso",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208152",
+        "city_name": "Gameleira de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208400",
+        "city_name": "Goianápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208509",
+        "city_name": "Goiandira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208608",
+        "city_name": "Goianésia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208707",
+        "city_name": "Goiânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208806",
+        "city_name": "Goianira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5208905",
+        "city_name": "Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209101",
+        "city_name": "Goiatuba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209150",
+        "city_name": "Gouvelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209200",
+        "city_name": "Guapó",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209291",
+        "city_name": "Guaraíta",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209408",
+        "city_name": "Guarani de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209457",
+        "city_name": "Guarinos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209606",
+        "city_name": "Heitoraí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209705",
+        "city_name": "Hidrolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209804",
+        "city_name": "Hidrolina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209903",
+        "city_name": "Iaciara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209937",
+        "city_name": "Inaciolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5209952",
+        "city_name": "Indiara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210000",
+        "city_name": "Inhumas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210109",
+        "city_name": "Ipameri",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210158",
+        "city_name": "Ipiranga de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210208",
+        "city_name": "Iporá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210307",
+        "city_name": "Israelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210406",
+        "city_name": "Itaberaí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210562",
+        "city_name": "Itaguari",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210604",
+        "city_name": "Itaguaru",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210802",
+        "city_name": "Itajá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5210901",
+        "city_name": "Itapaci",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211008",
+        "city_name": "Itapirapuã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211206",
+        "city_name": "Itapuranga",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211305",
+        "city_name": "Itarumã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211404",
+        "city_name": "Itauçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211503",
+        "city_name": "Itumbiara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211602",
+        "city_name": "Ivolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211701",
+        "city_name": "Jandaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211800",
+        "city_name": "Jaraguá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5211909",
+        "city_name": "Jataí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212006",
+        "city_name": "Jaupaci",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212055",
+        "city_name": "Jesúpolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212105",
+        "city_name": "Joviânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212204",
+        "city_name": "Jussara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212253",
+        "city_name": "Lagoa Santa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212303",
+        "city_name": "Leopoldo de Bulhões",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212501",
+        "city_name": "Luziânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212600",
+        "city_name": "Mairipotaba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212709",
+        "city_name": "Mambaí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212808",
+        "city_name": "Mara Rosa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212907",
+        "city_name": "Marzagão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5212956",
+        "city_name": "Matrinchã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213004",
+        "city_name": "Maurilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213053",
+        "city_name": "Mimoso de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213087",
+        "city_name": "Minaçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213103",
+        "city_name": "Mineiros",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213400",
+        "city_name": "Moiporá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213509",
+        "city_name": "Monte Alegre de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213707",
+        "city_name": "Montes Claros de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213756",
+        "city_name": "Montividiu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213772",
+        "city_name": "Montividiu do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213806",
+        "city_name": "Morrinhos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213855",
+        "city_name": "Morro Agudo de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5213905",
+        "city_name": "Mossâmedes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214002",
+        "city_name": "Mozarlândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214051",
+        "city_name": "Mundo Novo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214101",
+        "city_name": "Mutunópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214408",
+        "city_name": "Nazário",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214507",
+        "city_name": "Nerópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214606",
+        "city_name": "Niquelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214705",
+        "city_name": "Nova América",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214804",
+        "city_name": "Nova Aurora",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214838",
+        "city_name": "Nova Crixás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214861",
+        "city_name": "Nova Glória",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214879",
+        "city_name": "Nova Iguaçu de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5214903",
+        "city_name": "Nova Roma",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215009",
+        "city_name": "Nova Veneza",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215207",
+        "city_name": "Novo Brasil",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215231",
+        "city_name": "Novo Gama",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215256",
+        "city_name": "Novo Planalto",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215306",
+        "city_name": "Orizona",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215405",
+        "city_name": "Ouro Verde de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215504",
+        "city_name": "Ouvidor",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215603",
+        "city_name": "Padre Bernardo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215652",
+        "city_name": "Palestina de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215702",
+        "city_name": "Palmeiras de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215801",
+        "city_name": "Palmelo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5215900",
+        "city_name": "Palminópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216007",
+        "city_name": "Panamá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216304",
+        "city_name": "Paranaiguara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216403",
+        "city_name": "Paraúna",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216452",
+        "city_name": "Perolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216809",
+        "city_name": "Petrolina de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5216908",
+        "city_name": "Pilar de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217104",
+        "city_name": "Piracanjuba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217203",
+        "city_name": "Piranhas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217302",
+        "city_name": "Pirenópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217401",
+        "city_name": "Pires do Rio",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217609",
+        "city_name": "Planaltina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5217708",
+        "city_name": "Pontalina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218003",
+        "city_name": "Porangatu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218052",
+        "city_name": "Porteirão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218102",
+        "city_name": "Portelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218300",
+        "city_name": "Posse",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218391",
+        "city_name": "Professor Jamil",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218508",
+        "city_name": "Quirinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218607",
+        "city_name": "Rialma",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218706",
+        "city_name": "Rianápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218789",
+        "city_name": "Rio Quente",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218805",
+        "city_name": "Rio Verde",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5218904",
+        "city_name": "Rubiataba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219001",
+        "city_name": "Sanclerlândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219100",
+        "city_name": "Santa Bárbara de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219209",
+        "city_name": "Santa Cruz de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219258",
+        "city_name": "Santa Fé de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219308",
+        "city_name": "Santa Helena de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219357",
+        "city_name": "Santa Isabel",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219407",
+        "city_name": "Santa Rita do Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219456",
+        "city_name": "Santa Rita do Novo Destino",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219506",
+        "city_name": "Santa Rosa de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219605",
+        "city_name": "Santa Tereza de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219704",
+        "city_name": "Santa Terezinha de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219712",
+        "city_name": "Santo Antônio da Barra",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219738",
+        "city_name": "Santo Antônio de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219753",
+        "city_name": "Santo Antônio do Descoberto",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219803",
+        "city_name": "São Domingos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5219902",
+        "city_name": "São Francisco de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220058",
+        "city_name": "São João da Paraúna",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220009",
+        "city_name": "São João d'Aliança",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220108",
+        "city_name": "São Luís de Montes Belos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220157",
+        "city_name": "São Luiz do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220207",
+        "city_name": "São Miguel do Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220264",
+        "city_name": "São Miguel do Passa Quatro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220280",
+        "city_name": "São Patrício",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220405",
+        "city_name": "São Simão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220454",
+        "city_name": "Senador Canedo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220504",
+        "city_name": "Serranópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220603",
+        "city_name": "Silvânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220686",
+        "city_name": "Simolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5220702",
+        "city_name": "Sítio d'Abadia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221007",
+        "city_name": "Taquaral de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221080",
+        "city_name": "Teresina de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221197",
+        "city_name": "Terezópolis de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221304",
+        "city_name": "Três Ranchos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221403",
+        "city_name": "Trindade",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221452",
+        "city_name": "Trombas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221502",
+        "city_name": "Turvânia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221551",
+        "city_name": "Turvelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221577",
+        "city_name": "Uirapuru",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221601",
+        "city_name": "Uruaçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221700",
+        "city_name": "Uruana",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221809",
+        "city_name": "Urutaí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221858",
+        "city_name": "Valparaíso de Goiás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5221908",
+        "city_name": "Varjão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5222005",
+        "city_name": "Vianópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5222054",
+        "city_name": "Vicentinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5222203",
+        "city_name": "Vila Boa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    },
+    {
+        "city_code": "5222302",
+        "city_name": "Vila Propício",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "GO",
+        "state_code": "52",
+        "state_name": "Goiás"
+    }
+]

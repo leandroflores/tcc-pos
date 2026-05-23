@@ -1,0 +1,677 @@
+[
+    {
+        "city_code": "2800100",
+        "city_name": "Amparo do São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800209",
+        "city_name": "Aquidabã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800308",
+        "city_name": "Aracaju",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800407",
+        "city_name": "Arauá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800506",
+        "city_name": "Areia Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800605",
+        "city_name": "Barra dos Coqueiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800670",
+        "city_name": "Boquim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2800704",
+        "city_name": "Brejo Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801009",
+        "city_name": "Campo do Brito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801108",
+        "city_name": "Canhoba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801207",
+        "city_name": "Canindé de São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801306",
+        "city_name": "Capela",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801405",
+        "city_name": "Carira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801504",
+        "city_name": "Carmópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801603",
+        "city_name": "Cedro de São João",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801702",
+        "city_name": "Cristinápolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2801900",
+        "city_name": "Cumbe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802007",
+        "city_name": "Divina Pastora",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802106",
+        "city_name": "Estância",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802205",
+        "city_name": "Feira Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802304",
+        "city_name": "Frei Paulo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802403",
+        "city_name": "Gararu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802502",
+        "city_name": "General Maynard",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802601",
+        "city_name": "Graccho Cardoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802700",
+        "city_name": "Ilha das Flores",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802809",
+        "city_name": "Indiaroba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2802908",
+        "city_name": "Itabaiana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803005",
+        "city_name": "Itabaianinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803104",
+        "city_name": "Itabi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803203",
+        "city_name": "Itaporanga d'Ajuda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803302",
+        "city_name": "Japaratuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803401",
+        "city_name": "Japoatã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803500",
+        "city_name": "Lagarto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803609",
+        "city_name": "Laranjeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803708",
+        "city_name": "Macambira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803807",
+        "city_name": "Malhada dos Bois",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2803906",
+        "city_name": "Malhador",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804003",
+        "city_name": "Maruim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804102",
+        "city_name": "Moita Bonita",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804201",
+        "city_name": "Monte Alegre de Sergipe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804300",
+        "city_name": "Muribeca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804409",
+        "city_name": "Neópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804458",
+        "city_name": "Nossa Senhora Aparecida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804508",
+        "city_name": "Nossa Senhora da Glória",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804607",
+        "city_name": "Nossa Senhora das Dores",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804706",
+        "city_name": "Nossa Senhora de Lourdes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804805",
+        "city_name": "Nossa Senhora do Socorro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2804904",
+        "city_name": "Pacatuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805000",
+        "city_name": "Pedra Mole",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805109",
+        "city_name": "Pedrinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805208",
+        "city_name": "Pinhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805307",
+        "city_name": "Pirambu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805406",
+        "city_name": "Poço Redondo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805505",
+        "city_name": "Poço Verde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805604",
+        "city_name": "Porto da Folha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805703",
+        "city_name": "Propriá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805802",
+        "city_name": "Riachão do Dantas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2805901",
+        "city_name": "Riachuelo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806008",
+        "city_name": "Ribeirópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806107",
+        "city_name": "Rosário do Catete",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806206",
+        "city_name": "Salgado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806305",
+        "city_name": "Santa Luzia do Itanhy",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806503",
+        "city_name": "Santa Rosa de Lima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806404",
+        "city_name": "Santana do São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806602",
+        "city_name": "Santo Amaro das Brotas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806701",
+        "city_name": "São Cristóvão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806800",
+        "city_name": "São Domingos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2806909",
+        "city_name": "São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807006",
+        "city_name": "São Miguel do Aleixo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807105",
+        "city_name": "Simão Dias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807204",
+        "city_name": "Siriri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807303",
+        "city_name": "Telha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807402",
+        "city_name": "Tobias Barreto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807501",
+        "city_name": "Tomar do Geru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    },
+    {
+        "city_code": "2807600",
+        "city_name": "Umbaúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "SE",
+        "state_code": "28",
+        "state_name": "Sergipe"
+    }
+]

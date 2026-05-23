@@ -1,0 +1,3755 @@
+[
+    {
+        "city_code": "2900108",
+        "city_name": "Abaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900207",
+        "city_name": "Abaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900306",
+        "city_name": "Acajutiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900355",
+        "city_name": "Adustina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900405",
+        "city_name": "Água Fria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900603",
+        "city_name": "Aiquara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900702",
+        "city_name": "Alagoinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900801",
+        "city_name": "Alcobaça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900900",
+        "city_name": "Almadina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901007",
+        "city_name": "Amargosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901106",
+        "city_name": "Amélia Rodrigues",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901155",
+        "city_name": "América Dourada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901205",
+        "city_name": "Anagé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901304",
+        "city_name": "Andaraí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901353",
+        "city_name": "Andorinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901403",
+        "city_name": "Angical",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901502",
+        "city_name": "Anguera",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901601",
+        "city_name": "Antas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901700",
+        "city_name": "Antônio Cardoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901809",
+        "city_name": "Antônio Gonçalves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901908",
+        "city_name": "Aporá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2901957",
+        "city_name": "Apuarema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902054",
+        "city_name": "Araçás",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902005",
+        "city_name": "Aracatu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902104",
+        "city_name": "Araci",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902203",
+        "city_name": "Aramari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902252",
+        "city_name": "Arataca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902302",
+        "city_name": "Aratuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902401",
+        "city_name": "Aurelino Leal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902500",
+        "city_name": "Baianópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902609",
+        "city_name": "Baixa Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902658",
+        "city_name": "Banzaê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902708",
+        "city_name": "Barra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902807",
+        "city_name": "Barra da Estiva",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2902906",
+        "city_name": "Barra do Choça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903003",
+        "city_name": "Barra do Mendes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903102",
+        "city_name": "Barra do Rocha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903201",
+        "city_name": "Barreiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903235",
+        "city_name": "Barro Alto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903300",
+        "city_name": "Barro Preto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903276",
+        "city_name": "Barrocas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903409",
+        "city_name": "Belmonte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903508",
+        "city_name": "Belo Campo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903607",
+        "city_name": "Biritinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903706",
+        "city_name": "Boa Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903805",
+        "city_name": "Boa Vista do Tupim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903904",
+        "city_name": "Bom Jesus da Lapa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2903953",
+        "city_name": "Bom Jesus da Serra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904001",
+        "city_name": "Boninal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904050",
+        "city_name": "Bonito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904100",
+        "city_name": "Boquira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904209",
+        "city_name": "Botuporã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904308",
+        "city_name": "Brejões",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904407",
+        "city_name": "Brejolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904506",
+        "city_name": "Brotas de Macaúbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904605",
+        "city_name": "Brumado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904704",
+        "city_name": "Buerarema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904753",
+        "city_name": "Buritirama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904803",
+        "city_name": "Caatiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904852",
+        "city_name": "Cabaceiras do Paraguaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2904902",
+        "city_name": "Cachoeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905008",
+        "city_name": "Caculé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905107",
+        "city_name": "Caém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905156",
+        "city_name": "Caetanos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905206",
+        "city_name": "Caetité",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905305",
+        "city_name": "Cafarnaum",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905404",
+        "city_name": "Cairu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905503",
+        "city_name": "Caldeirão Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905602",
+        "city_name": "Camacan",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905701",
+        "city_name": "Camaçari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905800",
+        "city_name": "Camamu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2905909",
+        "city_name": "Campo Alegre de Lourdes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906006",
+        "city_name": "Campo Formoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906105",
+        "city_name": "Canápolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906204",
+        "city_name": "Canarana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906303",
+        "city_name": "Canavieiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906402",
+        "city_name": "Candeal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906501",
+        "city_name": "Candeias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906600",
+        "city_name": "Candiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906709",
+        "city_name": "Cândido Sales",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906808",
+        "city_name": "Cansanção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906824",
+        "city_name": "Canudos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906857",
+        "city_name": "Capela do Alto Alegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906873",
+        "city_name": "Capim Grosso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906899",
+        "city_name": "Caraíbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2906907",
+        "city_name": "Caravelas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907004",
+        "city_name": "Cardeal da Silva",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907103",
+        "city_name": "Carinhanha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907202",
+        "city_name": "Casa Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907301",
+        "city_name": "Castro Alves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907400",
+        "city_name": "Catolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907509",
+        "city_name": "Catu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907558",
+        "city_name": "Caturama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907608",
+        "city_name": "Central",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907707",
+        "city_name": "Chorrochó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907806",
+        "city_name": "Cícero Dantas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2907905",
+        "city_name": "Cipó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908002",
+        "city_name": "Coaraci",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908101",
+        "city_name": "Cocos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908200",
+        "city_name": "Conceição da Feira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908309",
+        "city_name": "Conceição do Almeida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908408",
+        "city_name": "Conceição do Coité",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908507",
+        "city_name": "Conceição do Jacuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908606",
+        "city_name": "Conde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908705",
+        "city_name": "Condeúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908804",
+        "city_name": "Contendas do Sincorá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2908903",
+        "city_name": "Coração de Maria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909000",
+        "city_name": "Cordeiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909109",
+        "city_name": "Coribe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909208",
+        "city_name": "Coronel João Sá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909307",
+        "city_name": "Correntina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909406",
+        "city_name": "Cotegipe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909505",
+        "city_name": "Cravolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909604",
+        "city_name": "Crisópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909703",
+        "city_name": "Cristópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909802",
+        "city_name": "Cruz das Almas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2909901",
+        "city_name": "Curaçá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910008",
+        "city_name": "Dário Meira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910057",
+        "city_name": "Dias d'Ávila",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910107",
+        "city_name": "Dom Basílio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910206",
+        "city_name": "Dom Macedo Costa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910305",
+        "city_name": "Elísio Medrado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910404",
+        "city_name": "Encruzilhada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910503",
+        "city_name": "Entre Rios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2900504",
+        "city_name": "Érico Cardoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910602",
+        "city_name": "Esplanada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910701",
+        "city_name": "Euclides da Cunha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910727",
+        "city_name": "Eunápolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910750",
+        "city_name": "Fátima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910776",
+        "city_name": "Feira da Mata",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910800",
+        "city_name": "Feira de Santana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910859",
+        "city_name": "Filadélfia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2910909",
+        "city_name": "Firmino Alves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911006",
+        "city_name": "Floresta Azul",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911105",
+        "city_name": "Formosa do Rio Preto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911204",
+        "city_name": "Gandu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911253",
+        "city_name": "Gavião",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911303",
+        "city_name": "Gentio do Ouro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911402",
+        "city_name": "Glória",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911501",
+        "city_name": "Gongogi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911600",
+        "city_name": "Governador Mangabeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911659",
+        "city_name": "Guajeru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911709",
+        "city_name": "Guanambi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911808",
+        "city_name": "Guaratinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911857",
+        "city_name": "Heliópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2911907",
+        "city_name": "Iaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912004",
+        "city_name": "Ibiassucê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912103",
+        "city_name": "Ibicaraí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912202",
+        "city_name": "Ibicoara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912301",
+        "city_name": "Ibicuí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912400",
+        "city_name": "Ibipeba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912509",
+        "city_name": "Ibipitanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912608",
+        "city_name": "Ibiquera",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912707",
+        "city_name": "Ibirapitanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912806",
+        "city_name": "Ibirapuã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2912905",
+        "city_name": "Ibirataia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913002",
+        "city_name": "Ibitiara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913101",
+        "city_name": "Ibititá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913200",
+        "city_name": "Ibotirama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913309",
+        "city_name": "Ichu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913408",
+        "city_name": "Igaporã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913457",
+        "city_name": "Igrapiúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913507",
+        "city_name": "Iguaí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913606",
+        "city_name": "Ilhéus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913705",
+        "city_name": "Inhambupe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913804",
+        "city_name": "Ipecaetá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2913903",
+        "city_name": "Ipiaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914000",
+        "city_name": "Ipirá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914109",
+        "city_name": "Ipupiara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914208",
+        "city_name": "Irajuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914307",
+        "city_name": "Iramaia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914406",
+        "city_name": "Iraquara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914505",
+        "city_name": "Irará",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914604",
+        "city_name": "Irecê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914653",
+        "city_name": "Itabela",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914703",
+        "city_name": "Itaberaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914802",
+        "city_name": "Itabuna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2914901",
+        "city_name": "Itacaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915007",
+        "city_name": "Itaeté",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915106",
+        "city_name": "Itagi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915205",
+        "city_name": "Itagibá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915304",
+        "city_name": "Itagimirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915353",
+        "city_name": "Itaguaçu da Bahia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915403",
+        "city_name": "Itaju do Colônia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915502",
+        "city_name": "Itajuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915601",
+        "city_name": "Itamaraju",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915700",
+        "city_name": "Itamari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915809",
+        "city_name": "Itambé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2915908",
+        "city_name": "Itanagra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916005",
+        "city_name": "Itanhém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916104",
+        "city_name": "Itaparica",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916203",
+        "city_name": "Itapé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916302",
+        "city_name": "Itapebi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916401",
+        "city_name": "Itapetinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916500",
+        "city_name": "Itapicuru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916609",
+        "city_name": "Itapitanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916708",
+        "city_name": "Itaquara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916807",
+        "city_name": "Itarantim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916856",
+        "city_name": "Itatim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2916906",
+        "city_name": "Itiruçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917003",
+        "city_name": "Itiúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917102",
+        "city_name": "Itororó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917201",
+        "city_name": "Ituaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917300",
+        "city_name": "Ituberá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917334",
+        "city_name": "Iuiu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917359",
+        "city_name": "Jaborandi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917409",
+        "city_name": "Jacaraci",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917508",
+        "city_name": "Jacobina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917607",
+        "city_name": "Jaguaquara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917706",
+        "city_name": "Jaguarari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917805",
+        "city_name": "Jaguaripe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2917904",
+        "city_name": "Jandaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918001",
+        "city_name": "Jequié",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918100",
+        "city_name": "Jeremoabo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918209",
+        "city_name": "Jiquiriçá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918308",
+        "city_name": "Jitaúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918357",
+        "city_name": "João Dourado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918407",
+        "city_name": "Juazeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918456",
+        "city_name": "Jucuruçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918506",
+        "city_name": "Jussara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918555",
+        "city_name": "Jussari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918605",
+        "city_name": "Jussiape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918704",
+        "city_name": "Lafaiete Coutinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918753",
+        "city_name": "Lagoa Real",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918803",
+        "city_name": "Laje",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2918902",
+        "city_name": "Lajedão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919009",
+        "city_name": "Lajedinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919058",
+        "city_name": "Lajedo do Tabocal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919108",
+        "city_name": "Lamarão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919157",
+        "city_name": "Lapão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919207",
+        "city_name": "Lauro de Freitas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919306",
+        "city_name": "Lençóis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919405",
+        "city_name": "Licínio de Almeida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919504",
+        "city_name": "Livramento de Nossa Senhora",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919553",
+        "city_name": "Luís Eduardo Magalhães",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919603",
+        "city_name": "Macajuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919702",
+        "city_name": "Macarani",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919801",
+        "city_name": "Macaúbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919900",
+        "city_name": "Macururé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919926",
+        "city_name": "Madre de Deus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2919959",
+        "city_name": "Maetinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920007",
+        "city_name": "Maiquinique",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920106",
+        "city_name": "Mairi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920205",
+        "city_name": "Malhada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920304",
+        "city_name": "Malhada de Pedras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920403",
+        "city_name": "Manoel Vitorino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920452",
+        "city_name": "Mansidão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920502",
+        "city_name": "Maracás",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920601",
+        "city_name": "Maragogipe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920700",
+        "city_name": "Maraú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920809",
+        "city_name": "Marcionílio Souza",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2920908",
+        "city_name": "Mascote",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921005",
+        "city_name": "Mata de São João",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921054",
+        "city_name": "Matina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921104",
+        "city_name": "Medeiros Neto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921203",
+        "city_name": "Miguel Calmon",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921302",
+        "city_name": "Milagres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921401",
+        "city_name": "Mirangaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921450",
+        "city_name": "Mirante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921500",
+        "city_name": "Monte Santo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921609",
+        "city_name": "Morpará",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921708",
+        "city_name": "Morro do Chapéu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921807",
+        "city_name": "Mortugaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2921906",
+        "city_name": "Mucugê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922003",
+        "city_name": "Mucuri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922052",
+        "city_name": "Mulungu do Morro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922102",
+        "city_name": "Mundo Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922201",
+        "city_name": "Muniz Ferreira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922250",
+        "city_name": "Muquém do São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922300",
+        "city_name": "Muritiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922409",
+        "city_name": "Mutuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922508",
+        "city_name": "Nazaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922607",
+        "city_name": "Nilo Peçanha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922656",
+        "city_name": "Nordestina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922706",
+        "city_name": "Nova Canaã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922730",
+        "city_name": "Nova Fátima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922755",
+        "city_name": "Nova Ibiá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922805",
+        "city_name": "Nova Itarana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922854",
+        "city_name": "Nova Redenção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2922904",
+        "city_name": "Nova Soure",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923001",
+        "city_name": "Nova Viçosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923035",
+        "city_name": "Novo Horizonte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923050",
+        "city_name": "Novo Triunfo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923100",
+        "city_name": "Olindina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923209",
+        "city_name": "Oliveira dos Brejinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923308",
+        "city_name": "Ouriçangas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923357",
+        "city_name": "Ourolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923407",
+        "city_name": "Palmas de Monte Alto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923506",
+        "city_name": "Palmeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923605",
+        "city_name": "Paramirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923704",
+        "city_name": "Paratinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923803",
+        "city_name": "Paripiranga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2923902",
+        "city_name": "Pau Brasil",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924009",
+        "city_name": "Paulo Afonso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924058",
+        "city_name": "Pé de Serra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924108",
+        "city_name": "Pedrão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924207",
+        "city_name": "Pedro Alexandre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924306",
+        "city_name": "Piatã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924405",
+        "city_name": "Pilão Arcado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924504",
+        "city_name": "Pindaí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924603",
+        "city_name": "Pindobaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924652",
+        "city_name": "Pintadas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924678",
+        "city_name": "Piraí do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924702",
+        "city_name": "Piripá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924801",
+        "city_name": "Piritiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2924900",
+        "city_name": "Planaltino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925006",
+        "city_name": "Planalto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925105",
+        "city_name": "Poções",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925204",
+        "city_name": "Pojuca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925253",
+        "city_name": "Ponto Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925303",
+        "city_name": "Porto Seguro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925402",
+        "city_name": "Potiraguá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925501",
+        "city_name": "Prado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925600",
+        "city_name": "Presidente Dutra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925709",
+        "city_name": "Presidente Jânio Quadros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925758",
+        "city_name": "Presidente Tancredo Neves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925808",
+        "city_name": "Queimadas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925907",
+        "city_name": "Quijingue",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925931",
+        "city_name": "Quixabeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2925956",
+        "city_name": "Rafael Jambeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926004",
+        "city_name": "Remanso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926103",
+        "city_name": "Retirolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926202",
+        "city_name": "Riachão das Neves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926301",
+        "city_name": "Riachão do Jacuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926400",
+        "city_name": "Riacho de Santana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926509",
+        "city_name": "Ribeira do Amparo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926608",
+        "city_name": "Ribeira do Pombal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926657",
+        "city_name": "Ribeirão do Largo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926707",
+        "city_name": "Rio de Contas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926806",
+        "city_name": "Rio do Antônio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2926905",
+        "city_name": "Rio do Pires",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927002",
+        "city_name": "Rio Real",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927101",
+        "city_name": "Rodelas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927200",
+        "city_name": "Ruy Barbosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927309",
+        "city_name": "Salinas da Margarida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927408",
+        "city_name": "Salvador",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927507",
+        "city_name": "Santa Bárbara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927606",
+        "city_name": "Santa Brígida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927705",
+        "city_name": "Santa Cruz Cabrália",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927804",
+        "city_name": "Santa Cruz da Vitória",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2927903",
+        "city_name": "Santa Inês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928059",
+        "city_name": "Santa Luzia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928109",
+        "city_name": "Santa Maria da Vitória",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928406",
+        "city_name": "Santa Rita de Cássia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928505",
+        "city_name": "Santa Terezinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928000",
+        "city_name": "Santaluz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928208",
+        "city_name": "Santana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928307",
+        "city_name": "Santanópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928604",
+        "city_name": "Santo Amaro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928703",
+        "city_name": "Santo Antônio de Jesus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928802",
+        "city_name": "Santo Estêvão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928901",
+        "city_name": "São Desidério",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2928950",
+        "city_name": "São Domingos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929107",
+        "city_name": "São Felipe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929008",
+        "city_name": "São Félix",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929057",
+        "city_name": "São Félix do Coribe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929206",
+        "city_name": "São Francisco do Conde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929255",
+        "city_name": "São Gabriel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929305",
+        "city_name": "São Gonçalo dos Campos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929354",
+        "city_name": "São José da Vitória",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929370",
+        "city_name": "São José do Jacuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929404",
+        "city_name": "São Miguel das Matas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929503",
+        "city_name": "São Sebastião do Passé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929602",
+        "city_name": "Sapeaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929701",
+        "city_name": "Sátiro Dias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929750",
+        "city_name": "Saubara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929800",
+        "city_name": "Saúde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2929909",
+        "city_name": "Seabra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930006",
+        "city_name": "Sebastião Laranjeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930105",
+        "city_name": "Senhor do Bonfim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930204",
+        "city_name": "Sento Sé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930154",
+        "city_name": "Serra do Ramalho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930303",
+        "city_name": "Serra Dourada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930402",
+        "city_name": "Serra Preta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930501",
+        "city_name": "Serrinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930600",
+        "city_name": "Serrolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930709",
+        "city_name": "Simões Filho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930758",
+        "city_name": "Sítio do Mato",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930766",
+        "city_name": "Sítio do Quinto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930774",
+        "city_name": "Sobradinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930808",
+        "city_name": "Souto Soares",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2930907",
+        "city_name": "Tabocas do Brejo Velho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931004",
+        "city_name": "Tanhaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931053",
+        "city_name": "Tanque Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931103",
+        "city_name": "Tanquinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931202",
+        "city_name": "Taperoá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931301",
+        "city_name": "Tapiramutá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931350",
+        "city_name": "Teixeira de Freitas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931400",
+        "city_name": "Teodoro Sampaio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931509",
+        "city_name": "Teofilândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931608",
+        "city_name": "Teolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931707",
+        "city_name": "Terra Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931806",
+        "city_name": "Tremedal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2931905",
+        "city_name": "Tucano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932002",
+        "city_name": "Uauá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932101",
+        "city_name": "Ubaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932200",
+        "city_name": "Ubaitaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932309",
+        "city_name": "Ubatã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932408",
+        "city_name": "Uibaí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932457",
+        "city_name": "Umburanas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932507",
+        "city_name": "Una",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932606",
+        "city_name": "Urandi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932705",
+        "city_name": "Uruçuca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932804",
+        "city_name": "Utinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2932903",
+        "city_name": "Valença",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933000",
+        "city_name": "Valente",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933059",
+        "city_name": "Várzea da Roça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933109",
+        "city_name": "Várzea do Poço",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933158",
+        "city_name": "Várzea Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933174",
+        "city_name": "Varzedo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933208",
+        "city_name": "Vera Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933257",
+        "city_name": "Vereda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933307",
+        "city_name": "Vitória da Conquista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933406",
+        "city_name": "Wagner",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933455",
+        "city_name": "Wanderley",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933505",
+        "city_name": "Wenceslau Guimarães",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    },
+    {
+        "city_code": "2933604",
+        "city_name": "Xique-Xique",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "BA",
+        "state_code": "29",
+        "state_name": "Bahia"
+    }
+]

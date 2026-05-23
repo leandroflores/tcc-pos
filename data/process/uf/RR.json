@@ -1,0 +1,137 @@
+[
+    {
+        "city_code": "1400050",
+        "city_name": "Alto Alegre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400027",
+        "city_name": "Amajari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400100",
+        "city_name": "Boa Vista",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400159",
+        "city_name": "Bonfim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400175",
+        "city_name": "Cantá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400209",
+        "city_name": "Caracaraí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400233",
+        "city_name": "Caroebe",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400282",
+        "city_name": "Iracema",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400308",
+        "city_name": "Mucajaí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400407",
+        "city_name": "Normandia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400456",
+        "city_name": "Pacaraima",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400472",
+        "city_name": "Rorainópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400506",
+        "city_name": "São João da Baliza",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400605",
+        "city_name": "São Luiz",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    },
+    {
+        "city_code": "1400704",
+        "city_name": "Uiramutã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RR",
+        "state_code": "14",
+        "state_name": "Roraima"
+    }
+]

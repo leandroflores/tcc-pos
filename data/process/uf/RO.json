@@ -1,0 +1,470 @@
+[
+    {
+        "city_code": "1100015",
+        "city_name": "Alta Floresta D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100379",
+        "city_name": "Alto Alegre dos Parecis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100403",
+        "city_name": "Alto Paraíso",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100346",
+        "city_name": "Alvorada D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100023",
+        "city_name": "Ariquemes",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100452",
+        "city_name": "Buritis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100031",
+        "city_name": "Cabixi",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100601",
+        "city_name": "Cacaulândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100049",
+        "city_name": "Cacoal",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100700",
+        "city_name": "Campo Novo de Rondônia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100809",
+        "city_name": "Candeias do Jamari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100908",
+        "city_name": "Castanheiras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100056",
+        "city_name": "Cerejeiras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100924",
+        "city_name": "Chupinguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100064",
+        "city_name": "Colorado do Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100072",
+        "city_name": "Corumbiara",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100080",
+        "city_name": "Costa Marques",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100940",
+        "city_name": "Cujubim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100098",
+        "city_name": "Espigão D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101005",
+        "city_name": "Governador Jorge Teixeira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100106",
+        "city_name": "Guajará-Mirim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101104",
+        "city_name": "Itapuã do Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100114",
+        "city_name": "Jaru",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100122",
+        "city_name": "Ji-Paraná",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100130",
+        "city_name": "Machadinho D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101203",
+        "city_name": "Ministro Andreazza",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101302",
+        "city_name": "Mirante da Serra",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101401",
+        "city_name": "Monte Negro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100148",
+        "city_name": "Nova Brasilândia D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100338",
+        "city_name": "Nova Mamoré",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101435",
+        "city_name": "Nova União",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100502",
+        "city_name": "Novo Horizonte do Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100155",
+        "city_name": "Ouro Preto do Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101450",
+        "city_name": "Parecis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100189",
+        "city_name": "Pimenta Bueno",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101468",
+        "city_name": "Pimenteiras do Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100205",
+        "city_name": "Porto Velho",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100254",
+        "city_name": "Presidente Médici",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101476",
+        "city_name": "Primavera de Rondônia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100262",
+        "city_name": "Rio Crespo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100288",
+        "city_name": "Rolim de Moura",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100296",
+        "city_name": "Santa Luzia D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101484",
+        "city_name": "São Felipe D'Oeste",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101492",
+        "city_name": "São Francisco do Guaporé",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100320",
+        "city_name": "São Miguel do Guaporé",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101500",
+        "city_name": "Seringueiras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101559",
+        "city_name": "Teixeirópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101609",
+        "city_name": "Theobroma",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101708",
+        "city_name": "Urupá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101757",
+        "city_name": "Vale do Anari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1101807",
+        "city_name": "Vale do Paraíso",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    },
+    {
+        "city_code": "1100304",
+        "city_name": "Vilhena",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "RO",
+        "state_code": "11",
+        "state_name": "Rondônia"
+    }
+]

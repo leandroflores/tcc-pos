@@ -1,0 +1,830 @@
+[
+    {
+        "city_code": "3300100",
+        "city_name": "Angra dos Reis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300159",
+        "city_name": "Aperibé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300209",
+        "city_name": "Araruama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300225",
+        "city_name": "Areal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300233",
+        "city_name": "Armação dos Búzios",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300258",
+        "city_name": "Arraial do Cabo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300308",
+        "city_name": "Barra do Piraí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300407",
+        "city_name": "Barra Mansa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300456",
+        "city_name": "Belford Roxo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300506",
+        "city_name": "Bom Jardim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300605",
+        "city_name": "Bom Jesus do Itabapoana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300704",
+        "city_name": "Cabo Frio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300803",
+        "city_name": "Cachoeiras de Macacu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300902",
+        "city_name": "Cambuci",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301009",
+        "city_name": "Campos dos Goytacazes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301108",
+        "city_name": "Cantagalo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300936",
+        "city_name": "Carapebus",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301157",
+        "city_name": "Cardoso Moreira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301207",
+        "city_name": "Carmo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301306",
+        "city_name": "Casimiro de Abreu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3300951",
+        "city_name": "Comendador Levy Gasparian",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301405",
+        "city_name": "Conceição de Macabu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301504",
+        "city_name": "Cordeiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301603",
+        "city_name": "Duas Barras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301702",
+        "city_name": "Duque de Caxias",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301801",
+        "city_name": "Engenheiro Paulo de Frontin",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301850",
+        "city_name": "Guapimirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301876",
+        "city_name": "Iguaba Grande",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3301900",
+        "city_name": "Itaboraí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302007",
+        "city_name": "Itaguaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302056",
+        "city_name": "Italva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302106",
+        "city_name": "Itaocara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302205",
+        "city_name": "Itaperuna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302254",
+        "city_name": "Itatiaia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302270",
+        "city_name": "Japeri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302304",
+        "city_name": "Laje do Muriaé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302403",
+        "city_name": "Macaé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302452",
+        "city_name": "Macuco",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302502",
+        "city_name": "Magé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302601",
+        "city_name": "Mangaratiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302700",
+        "city_name": "Maricá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302809",
+        "city_name": "Mendes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302858",
+        "city_name": "Mesquita",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3302908",
+        "city_name": "Miguel Pereira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303005",
+        "city_name": "Miracema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303104",
+        "city_name": "Natividade",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303203",
+        "city_name": "Nilópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303302",
+        "city_name": "Niterói",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303401",
+        "city_name": "Nova Friburgo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303500",
+        "city_name": "Nova Iguaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303609",
+        "city_name": "Paracambi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303708",
+        "city_name": "Paraíba do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303807",
+        "city_name": "Paraty",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303856",
+        "city_name": "Paty do Alferes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303906",
+        "city_name": "Petrópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3303955",
+        "city_name": "Pinheiral",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304003",
+        "city_name": "Piraí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304102",
+        "city_name": "Porciúncula",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304110",
+        "city_name": "Porto Real",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304128",
+        "city_name": "Quatis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304144",
+        "city_name": "Queimados",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304151",
+        "city_name": "Quissamã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304201",
+        "city_name": "Resende",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304300",
+        "city_name": "Rio Bonito",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304409",
+        "city_name": "Rio Claro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304508",
+        "city_name": "Rio das Flores",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304524",
+        "city_name": "Rio das Ostras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304557",
+        "city_name": "Rio de Janeiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304607",
+        "city_name": "Santa Maria Madalena",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304706",
+        "city_name": "Santo Antônio de Pádua",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304805",
+        "city_name": "São Fidélis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304755",
+        "city_name": "São Francisco de Itabapoana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3304904",
+        "city_name": "São Gonçalo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305000",
+        "city_name": "São João da Barra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305109",
+        "city_name": "São João de Meriti",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305133",
+        "city_name": "São José de Ubá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305158",
+        "city_name": "São José do Vale do Rio Preto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305208",
+        "city_name": "São Pedro da Aldeia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305307",
+        "city_name": "São Sebastião do Alto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305406",
+        "city_name": "Sapucaia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305505",
+        "city_name": "Saquarema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305554",
+        "city_name": "Seropédica",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305604",
+        "city_name": "Silva Jardim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305703",
+        "city_name": "Sumidouro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305752",
+        "city_name": "Tanguá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305802",
+        "city_name": "Teresópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3305901",
+        "city_name": "Trajano de Moraes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3306008",
+        "city_name": "Três Rios",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3306107",
+        "city_name": "Valença",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3306156",
+        "city_name": "Varre-Sai",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3306206",
+        "city_name": "Vassouras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    },
+    {
+        "city_code": "3306305",
+        "city_name": "Volta Redonda",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "RJ",
+        "state_code": "33",
+        "state_name": "Rio de Janeiro"
+    }
+]

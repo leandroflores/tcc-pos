@@ -1,0 +1,200 @@
+[
+    {
+        "city_code": "1200013",
+        "city_name": "Acrelândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200054",
+        "city_name": "Assis Brasil",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200104",
+        "city_name": "Brasiléia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200138",
+        "city_name": "Bujari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200179",
+        "city_name": "Capixaba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200203",
+        "city_name": "Cruzeiro do Sul",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200252",
+        "city_name": "Epitaciolândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200302",
+        "city_name": "Feijó",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200328",
+        "city_name": "Jordão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200336",
+        "city_name": "Mâncio Lima",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200344",
+        "city_name": "Manoel Urbano",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200351",
+        "city_name": "Marechal Thaumaturgo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200385",
+        "city_name": "Plácido de Castro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200807",
+        "city_name": "Porto Acre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200393",
+        "city_name": "Porto Walter",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200401",
+        "city_name": "Rio Branco",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200427",
+        "city_name": "Rodrigues Alves",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200435",
+        "city_name": "Santa Rosa do Purus",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200500",
+        "city_name": "Sena Madureira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200450",
+        "city_name": "Senador Guiomard",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200609",
+        "city_name": "Tarauacá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    },
+    {
+        "city_code": "1200708",
+        "city_name": "Xapuri",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AC",
+        "state_code": "12",
+        "state_name": "Acre"
+    }
+]

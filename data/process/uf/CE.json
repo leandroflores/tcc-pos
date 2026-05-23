@@ -1,0 +1,1658 @@
+[
+    {
+        "city_code": "2300101",
+        "city_name": "Abaiara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300150",
+        "city_name": "Acarape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300200",
+        "city_name": "Acaraú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300309",
+        "city_name": "Acopiara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300408",
+        "city_name": "Aiuaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300507",
+        "city_name": "Alcântaras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300606",
+        "city_name": "Altaneira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300705",
+        "city_name": "Alto Santo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300754",
+        "city_name": "Amontada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300804",
+        "city_name": "Antonina do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2300903",
+        "city_name": "Apuiarés",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301000",
+        "city_name": "Aquiraz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301109",
+        "city_name": "Aracati",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301208",
+        "city_name": "Aracoiaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301257",
+        "city_name": "Ararendá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301307",
+        "city_name": "Araripe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301406",
+        "city_name": "Aratuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301505",
+        "city_name": "Arneiroz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301604",
+        "city_name": "Assaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301703",
+        "city_name": "Aurora",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301802",
+        "city_name": "Baixio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301851",
+        "city_name": "Banabuiú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301901",
+        "city_name": "Barbalha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2301950",
+        "city_name": "Barreira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302008",
+        "city_name": "Barro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302057",
+        "city_name": "Barroquinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302107",
+        "city_name": "Baturité",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302206",
+        "city_name": "Beberibe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302305",
+        "city_name": "Bela Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302404",
+        "city_name": "Boa Viagem",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302503",
+        "city_name": "Brejo Santo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302602",
+        "city_name": "Camocim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302701",
+        "city_name": "Campos Sales",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302800",
+        "city_name": "Canindé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2302909",
+        "city_name": "Capistrano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303006",
+        "city_name": "Caridade",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303105",
+        "city_name": "Cariré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303204",
+        "city_name": "Caririaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303303",
+        "city_name": "Cariús",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303402",
+        "city_name": "Carnaubal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303501",
+        "city_name": "Cascavel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303600",
+        "city_name": "Catarina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303659",
+        "city_name": "Catunda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303709",
+        "city_name": "Caucaia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303808",
+        "city_name": "Cedro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303907",
+        "city_name": "Chaval",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303931",
+        "city_name": "Choró",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2303956",
+        "city_name": "Chorozinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304004",
+        "city_name": "Coreaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304103",
+        "city_name": "Crateús",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304202",
+        "city_name": "Crato",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304236",
+        "city_name": "Croatá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304251",
+        "city_name": "Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304269",
+        "city_name": "Deputado Irapuan Pinheiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304277",
+        "city_name": "Ereré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304285",
+        "city_name": "Eusébio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304301",
+        "city_name": "Farias Brito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304350",
+        "city_name": "Forquilha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304400",
+        "city_name": "Fortaleza",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304459",
+        "city_name": "Fortim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304509",
+        "city_name": "Frecheirinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304608",
+        "city_name": "General Sampaio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304657",
+        "city_name": "Graça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304707",
+        "city_name": "Granja",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304806",
+        "city_name": "Granjeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304905",
+        "city_name": "Groaíras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2304954",
+        "city_name": "Guaiúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305001",
+        "city_name": "Guaraciaba do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305100",
+        "city_name": "Guaramiranga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305209",
+        "city_name": "Hidrolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305233",
+        "city_name": "Horizonte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305266",
+        "city_name": "Ibaretama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305308",
+        "city_name": "Ibiapina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305332",
+        "city_name": "Ibicuitinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305357",
+        "city_name": "Icapuí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305407",
+        "city_name": "Icó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305506",
+        "city_name": "Iguatu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305605",
+        "city_name": "Independência",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305654",
+        "city_name": "Ipaporanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305704",
+        "city_name": "Ipaumirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305803",
+        "city_name": "Ipu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2305902",
+        "city_name": "Ipueiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306009",
+        "city_name": "Iracema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306108",
+        "city_name": "Irauçuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306207",
+        "city_name": "Itaiçaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306256",
+        "city_name": "Itaitinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306306",
+        "city_name": "Itapajé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306405",
+        "city_name": "Itapipoca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306504",
+        "city_name": "Itapiúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306553",
+        "city_name": "Itarema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306603",
+        "city_name": "Itatira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306702",
+        "city_name": "Jaguaretama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306801",
+        "city_name": "Jaguaribara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2306900",
+        "city_name": "Jaguaribe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307007",
+        "city_name": "Jaguaruana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307106",
+        "city_name": "Jardim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307205",
+        "city_name": "Jati",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307254",
+        "city_name": "Jijoca de Jericoacoara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307304",
+        "city_name": "Juazeiro do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307403",
+        "city_name": "Jucás",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307502",
+        "city_name": "Lavras da Mangabeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307601",
+        "city_name": "Limoeiro do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307635",
+        "city_name": "Madalena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307650",
+        "city_name": "Maracanaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307700",
+        "city_name": "Maranguape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307809",
+        "city_name": "Marco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2307908",
+        "city_name": "Martinópole",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308005",
+        "city_name": "Massapê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308104",
+        "city_name": "Mauriti",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308203",
+        "city_name": "Meruoca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308302",
+        "city_name": "Milagres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308351",
+        "city_name": "Milhã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308377",
+        "city_name": "Miraíma",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308401",
+        "city_name": "Missão Velha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308500",
+        "city_name": "Mombaça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308609",
+        "city_name": "Monsenhor Tabosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308708",
+        "city_name": "Morada Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308807",
+        "city_name": "Moraújo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2308906",
+        "city_name": "Morrinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309003",
+        "city_name": "Mucambo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309102",
+        "city_name": "Mulungu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309201",
+        "city_name": "Nova Olinda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309300",
+        "city_name": "Nova Russas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309409",
+        "city_name": "Novo Oriente",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309458",
+        "city_name": "Ocara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309508",
+        "city_name": "Orós",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309607",
+        "city_name": "Pacajus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309706",
+        "city_name": "Pacatuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309805",
+        "city_name": "Pacoti",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2309904",
+        "city_name": "Pacujá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310001",
+        "city_name": "Palhano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310100",
+        "city_name": "Palmácia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310209",
+        "city_name": "Paracuru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310258",
+        "city_name": "Paraipaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310308",
+        "city_name": "Parambu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310407",
+        "city_name": "Paramoti",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310506",
+        "city_name": "Pedra Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310605",
+        "city_name": "Penaforte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310704",
+        "city_name": "Pentecoste",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310803",
+        "city_name": "Pereiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310852",
+        "city_name": "Pindoretama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310902",
+        "city_name": "Piquet Carneiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2310951",
+        "city_name": "Pires Ferreira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311009",
+        "city_name": "Poranga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311108",
+        "city_name": "Porteiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311207",
+        "city_name": "Potengi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311231",
+        "city_name": "Potiretama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311264",
+        "city_name": "Quiterianópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311306",
+        "city_name": "Quixadá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311355",
+        "city_name": "Quixelô",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311405",
+        "city_name": "Quixeramobim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311504",
+        "city_name": "Quixeré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311603",
+        "city_name": "Redenção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311702",
+        "city_name": "Reriutaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311801",
+        "city_name": "Russas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311900",
+        "city_name": "Saboeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2311959",
+        "city_name": "Salitre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312205",
+        "city_name": "Santa Quitéria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312007",
+        "city_name": "Santana do Acaraú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312106",
+        "city_name": "Santana do Cariri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312304",
+        "city_name": "São Benedito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312403",
+        "city_name": "São Gonçalo do Amarante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312502",
+        "city_name": "São João do Jaguaribe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312601",
+        "city_name": "São Luís do Curu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312700",
+        "city_name": "Senador Pompeu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312809",
+        "city_name": "Senador Sá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2312908",
+        "city_name": "Sobral",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313005",
+        "city_name": "Solonópole",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313104",
+        "city_name": "Tabuleiro do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313203",
+        "city_name": "Tamboril",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313252",
+        "city_name": "Tarrafas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313302",
+        "city_name": "Tauá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313351",
+        "city_name": "Tejuçuoca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313401",
+        "city_name": "Tianguá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313500",
+        "city_name": "Trairi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313559",
+        "city_name": "Tururu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313609",
+        "city_name": "Ubajara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313708",
+        "city_name": "Umari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313757",
+        "city_name": "Umirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313807",
+        "city_name": "Uruburetama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313906",
+        "city_name": "Uruoca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2313955",
+        "city_name": "Varjota",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2314003",
+        "city_name": "Várzea Alegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    },
+    {
+        "city_code": "2314102",
+        "city_name": "Viçosa do Ceará",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "CE",
+        "state_code": "23",
+        "state_name": "Ceará"
+    }
+]

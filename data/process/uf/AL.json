@@ -1,0 +1,920 @@
+[
+    {
+        "city_code": "2700102",
+        "city_name": "Água Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700201",
+        "city_name": "Anadia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700300",
+        "city_name": "Arapiraca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700409",
+        "city_name": "Atalaia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700508",
+        "city_name": "Barra de Santo Antônio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700607",
+        "city_name": "Barra de São Miguel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700706",
+        "city_name": "Batalha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700805",
+        "city_name": "Belém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2700904",
+        "city_name": "Belo Monte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701001",
+        "city_name": "Boca da Mata",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701100",
+        "city_name": "Branquinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701209",
+        "city_name": "Cacimbinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701308",
+        "city_name": "Cajueiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701357",
+        "city_name": "Campestre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701407",
+        "city_name": "Campo Alegre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701506",
+        "city_name": "Campo Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701605",
+        "city_name": "Canapi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701704",
+        "city_name": "Capela",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701803",
+        "city_name": "Carneiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2701902",
+        "city_name": "Chã Preta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702009",
+        "city_name": "Coité do Nóia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702108",
+        "city_name": "Colônia Leopoldina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702207",
+        "city_name": "Coqueiro Seco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702306",
+        "city_name": "Coruripe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702355",
+        "city_name": "Craíbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702405",
+        "city_name": "Delmiro Gouveia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702504",
+        "city_name": "Dois Riachos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702553",
+        "city_name": "Estrela de Alagoas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702603",
+        "city_name": "Feira Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702702",
+        "city_name": "Feliz Deserto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702801",
+        "city_name": "Flexeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2702900",
+        "city_name": "Girau do Ponciano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703007",
+        "city_name": "Ibateguara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703106",
+        "city_name": "Igaci",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703205",
+        "city_name": "Igreja Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703304",
+        "city_name": "Inhapi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703403",
+        "city_name": "Jacaré dos Homens",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703502",
+        "city_name": "Jacuípe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703601",
+        "city_name": "Japaratinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703700",
+        "city_name": "Jaramataia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703759",
+        "city_name": "Jequiá da Praia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703809",
+        "city_name": "Joaquim Gomes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2703908",
+        "city_name": "Jundiá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704005",
+        "city_name": "Junqueiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704104",
+        "city_name": "Lagoa da Canoa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704203",
+        "city_name": "Limoeiro de Anadia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704302",
+        "city_name": "Maceió",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704401",
+        "city_name": "Major Isidoro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704906",
+        "city_name": "Mar Vermelho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704500",
+        "city_name": "Maragogi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704609",
+        "city_name": "Maravilha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704708",
+        "city_name": "Marechal Deodoro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2704807",
+        "city_name": "Maribondo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705002",
+        "city_name": "Mata Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705101",
+        "city_name": "Matriz de Camaragibe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705200",
+        "city_name": "Messias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705309",
+        "city_name": "Minador do Negrão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705408",
+        "city_name": "Monteirópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705507",
+        "city_name": "Murici",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705606",
+        "city_name": "Novo Lino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705705",
+        "city_name": "Olho d'Água das Flores",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705804",
+        "city_name": "Olho d'Água do Casado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2705903",
+        "city_name": "Olho d'Água Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706000",
+        "city_name": "Olivença",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706109",
+        "city_name": "Ouro Branco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706208",
+        "city_name": "Palestina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706307",
+        "city_name": "Palmeira dos Índios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706406",
+        "city_name": "Pão de Açúcar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706422",
+        "city_name": "Pariconha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706448",
+        "city_name": "Paripueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706505",
+        "city_name": "Passo de Camaragibe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706604",
+        "city_name": "Paulo Jacinto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706703",
+        "city_name": "Penedo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706802",
+        "city_name": "Piaçabuçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2706901",
+        "city_name": "Pilar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707008",
+        "city_name": "Pindoba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707107",
+        "city_name": "Piranhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707206",
+        "city_name": "Poço das Trincheiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707305",
+        "city_name": "Porto Calvo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707404",
+        "city_name": "Porto de Pedras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707503",
+        "city_name": "Porto Real do Colégio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707602",
+        "city_name": "Quebrangulo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707701",
+        "city_name": "Rio Largo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707800",
+        "city_name": "Roteiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2707909",
+        "city_name": "Santa Luzia do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708006",
+        "city_name": "Santana do Ipanema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708105",
+        "city_name": "Santana do Mundaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708204",
+        "city_name": "São Brás",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708303",
+        "city_name": "São José da Laje",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708402",
+        "city_name": "São José da Tapera",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708501",
+        "city_name": "São Luís do Quitunde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708600",
+        "city_name": "São Miguel dos Campos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708709",
+        "city_name": "São Miguel dos Milagres",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708808",
+        "city_name": "São Sebastião",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708907",
+        "city_name": "Satuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2708956",
+        "city_name": "Senador Rui Palmeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709004",
+        "city_name": "Tanque d'Arca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709103",
+        "city_name": "Taquarana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709152",
+        "city_name": "Teotônio Vilela",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709202",
+        "city_name": "Traipu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709301",
+        "city_name": "União dos Palmares",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    },
+    {
+        "city_code": "2709400",
+        "city_name": "Viçosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "AL",
+        "state_code": "27",
+        "state_name": "Alagoas"
+    }
+]

@@ -1,0 +1,713 @@
+[
+    {
+        "city_code": "5000203",
+        "city_name": "Água Clara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000252",
+        "city_name": "Alcinópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000609",
+        "city_name": "Amambai",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000708",
+        "city_name": "Anastácio",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000807",
+        "city_name": "Anaurilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000856",
+        "city_name": "Angélica",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5000906",
+        "city_name": "Antônio João",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5001003",
+        "city_name": "Aparecida do Taboado",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5001102",
+        "city_name": "Aquidauana",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5001243",
+        "city_name": "Aral Moreira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5001508",
+        "city_name": "Bandeirantes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5001904",
+        "city_name": "Bataguassu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002001",
+        "city_name": "Batayporã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002100",
+        "city_name": "Bela Vista",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002159",
+        "city_name": "Bodoquena",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002209",
+        "city_name": "Bonito",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002308",
+        "city_name": "Brasilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002407",
+        "city_name": "Caarapó",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002605",
+        "city_name": "Camapuã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002704",
+        "city_name": "Campo Grande",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002803",
+        "city_name": "Caracol",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002902",
+        "city_name": "Cassilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5002951",
+        "city_name": "Chapadão do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003108",
+        "city_name": "Corguinho",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003157",
+        "city_name": "Coronel Sapucaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003207",
+        "city_name": "Corumbá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003256",
+        "city_name": "Costa Rica",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003306",
+        "city_name": "Coxim",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003454",
+        "city_name": "Deodápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003488",
+        "city_name": "Dois Irmãos do Buriti",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003504",
+        "city_name": "Douradina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003702",
+        "city_name": "Dourados",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003751",
+        "city_name": "Eldorado",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003801",
+        "city_name": "Fátima do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5003900",
+        "city_name": "Figueirão",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004007",
+        "city_name": "Glória de Dourados",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004106",
+        "city_name": "Guia Lopes da Laguna",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004304",
+        "city_name": "Iguatemi",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004403",
+        "city_name": "Inocência",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004502",
+        "city_name": "Itaporã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004601",
+        "city_name": "Itaquiraí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004700",
+        "city_name": "Ivinhema",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004809",
+        "city_name": "Japorã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5004908",
+        "city_name": "Jaraguari",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005004",
+        "city_name": "Jardim",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005103",
+        "city_name": "Jateí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005152",
+        "city_name": "Juti",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005202",
+        "city_name": "Ladário",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005251",
+        "city_name": "Laguna Carapã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005400",
+        "city_name": "Maracaju",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005608",
+        "city_name": "Miranda",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005681",
+        "city_name": "Mundo Novo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005707",
+        "city_name": "Naviraí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5005806",
+        "city_name": "Nioaque",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006002",
+        "city_name": "Nova Alvorada do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006200",
+        "city_name": "Nova Andradina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006259",
+        "city_name": "Novo Horizonte do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006275",
+        "city_name": "Paraíso das Águas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006309",
+        "city_name": "Paranaíba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006358",
+        "city_name": "Paranhos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006408",
+        "city_name": "Pedro Gomes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006606",
+        "city_name": "Ponta Porã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5006903",
+        "city_name": "Porto Murtinho",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007109",
+        "city_name": "Ribas do Rio Pardo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007208",
+        "city_name": "Rio Brilhante",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007307",
+        "city_name": "Rio Negro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007406",
+        "city_name": "Rio Verde de Mato Grosso",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007505",
+        "city_name": "Rochedo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007554",
+        "city_name": "Santa Rita do Pardo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007695",
+        "city_name": "São Gabriel do Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007802",
+        "city_name": "Selvíria",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007703",
+        "city_name": "Sete Quedas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007901",
+        "city_name": "Sidrolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007935",
+        "city_name": "Sonora",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007950",
+        "city_name": "Tacuru",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5007976",
+        "city_name": "Taquarussu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5008008",
+        "city_name": "Terenos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5008305",
+        "city_name": "Três Lagoas",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    },
+    {
+        "city_code": "5008404",
+        "city_name": "Vicentina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MS",
+        "state_code": "50",
+        "state_name": "Mato Grosso do Sul"
+    }
+]

@@ -1,0 +1,5807 @@
+[
+    {
+        "city_code": "3500105",
+        "city_name": "Adamantina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500204",
+        "city_name": "Adolfo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500303",
+        "city_name": "Aguaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500402",
+        "city_name": "Águas da Prata",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500501",
+        "city_name": "Águas de Lindóia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500550",
+        "city_name": "Águas de Santa Bárbara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500600",
+        "city_name": "Águas de São Pedro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500709",
+        "city_name": "Agudos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500758",
+        "city_name": "Alambari",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500808",
+        "city_name": "Alfredo Marcondes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3500907",
+        "city_name": "Altair",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501004",
+        "city_name": "Altinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501103",
+        "city_name": "Alto Alegre",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501152",
+        "city_name": "Alumínio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501202",
+        "city_name": "Álvares Florence",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501301",
+        "city_name": "Álvares Machado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501400",
+        "city_name": "Álvaro de Carvalho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501509",
+        "city_name": "Alvinlândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501608",
+        "city_name": "Americana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501707",
+        "city_name": "Américo Brasiliense",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501806",
+        "city_name": "Américo de Campos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3501905",
+        "city_name": "Amparo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502002",
+        "city_name": "Analândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502101",
+        "city_name": "Andradina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502200",
+        "city_name": "Angatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502309",
+        "city_name": "Anhembi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502408",
+        "city_name": "Anhumas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502507",
+        "city_name": "Aparecida",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502606",
+        "city_name": "Aparecida d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502705",
+        "city_name": "Apiaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502754",
+        "city_name": "Araçariguama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502804",
+        "city_name": "Araçatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3502903",
+        "city_name": "Araçoiaba da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503000",
+        "city_name": "Aramina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503109",
+        "city_name": "Arandu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503158",
+        "city_name": "Arapeí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503208",
+        "city_name": "Araraquara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503307",
+        "city_name": "Araras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503356",
+        "city_name": "Arco-Íris",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503406",
+        "city_name": "Arealva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503505",
+        "city_name": "Areias",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503604",
+        "city_name": "Areiópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503703",
+        "city_name": "Ariranha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503802",
+        "city_name": "Artur Nogueira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503901",
+        "city_name": "Arujá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3503950",
+        "city_name": "Aspásia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504008",
+        "city_name": "Assis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504107",
+        "city_name": "Atibaia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504206",
+        "city_name": "Auriflama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504305",
+        "city_name": "Avaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504404",
+        "city_name": "Avanhandava",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504503",
+        "city_name": "Avaré",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504602",
+        "city_name": "Bady Bassitt",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504701",
+        "city_name": "Balbinos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504800",
+        "city_name": "Bálsamo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3504909",
+        "city_name": "Bananal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505005",
+        "city_name": "Barão de Antonina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505104",
+        "city_name": "Barbosa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505203",
+        "city_name": "Bariri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505302",
+        "city_name": "Barra Bonita",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505351",
+        "city_name": "Barra do Chapéu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505401",
+        "city_name": "Barra do Turvo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505500",
+        "city_name": "Barretos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505609",
+        "city_name": "Barrinha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505708",
+        "city_name": "Barueri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505807",
+        "city_name": "Bastos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3505906",
+        "city_name": "Batatais",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506003",
+        "city_name": "Bauru",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506102",
+        "city_name": "Bebedouro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506201",
+        "city_name": "Bento de Abreu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506300",
+        "city_name": "Bernardino de Campos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506359",
+        "city_name": "Bertioga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506409",
+        "city_name": "Bilac",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506508",
+        "city_name": "Birigui",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506607",
+        "city_name": "Biritiba Mirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506706",
+        "city_name": "Boa Esperança do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506805",
+        "city_name": "Bocaina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3506904",
+        "city_name": "Bofete",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507001",
+        "city_name": "Boituva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507100",
+        "city_name": "Bom Jesus dos Perdões",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507159",
+        "city_name": "Bom Sucesso de Itararé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507209",
+        "city_name": "Borá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507308",
+        "city_name": "Boracéia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507407",
+        "city_name": "Borborema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507456",
+        "city_name": "Borebi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507506",
+        "city_name": "Botucatu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507605",
+        "city_name": "Bragança Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507704",
+        "city_name": "Braúna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507753",
+        "city_name": "Brejo Alegre",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507803",
+        "city_name": "Brodowski",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3507902",
+        "city_name": "Brotas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508009",
+        "city_name": "Buri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508108",
+        "city_name": "Buritama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508207",
+        "city_name": "Buritizal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508306",
+        "city_name": "Cabrália Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508405",
+        "city_name": "Cabreúva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508504",
+        "city_name": "Caçapava",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508603",
+        "city_name": "Cachoeira Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508702",
+        "city_name": "Caconde",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508801",
+        "city_name": "Cafelândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3508900",
+        "city_name": "Caiabu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509007",
+        "city_name": "Caieiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509106",
+        "city_name": "Caiuá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509205",
+        "city_name": "Cajamar",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509254",
+        "city_name": "Cajati",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509304",
+        "city_name": "Cajobi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509403",
+        "city_name": "Cajuru",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509452",
+        "city_name": "Campina do Monte Alegre",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509502",
+        "city_name": "Campinas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509601",
+        "city_name": "Campo Limpo Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509700",
+        "city_name": "Campos do Jordão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509809",
+        "city_name": "Campos Novos Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509908",
+        "city_name": "Cananéia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3509957",
+        "city_name": "Canas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510005",
+        "city_name": "Cândido Mota",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510104",
+        "city_name": "Cândido Rodrigues",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510153",
+        "city_name": "Canitar",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510203",
+        "city_name": "Capão Bonito",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510302",
+        "city_name": "Capela do Alto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510401",
+        "city_name": "Capivari",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510500",
+        "city_name": "Caraguatatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510609",
+        "city_name": "Carapicuíba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510708",
+        "city_name": "Cardoso",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510807",
+        "city_name": "Casa Branca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3510906",
+        "city_name": "Cássia dos Coqueiros",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511003",
+        "city_name": "Castilho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511102",
+        "city_name": "Catanduva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511201",
+        "city_name": "Catiguá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511300",
+        "city_name": "Cedral",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511409",
+        "city_name": "Cerqueira César",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511508",
+        "city_name": "Cerquilho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511607",
+        "city_name": "Cesário Lange",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511706",
+        "city_name": "Charqueada",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3557204",
+        "city_name": "Chavantes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3511904",
+        "city_name": "Clementina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512001",
+        "city_name": "Colina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512100",
+        "city_name": "Colômbia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512209",
+        "city_name": "Conchal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512308",
+        "city_name": "Conchas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512407",
+        "city_name": "Cordeirópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512506",
+        "city_name": "Coroados",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512605",
+        "city_name": "Coronel Macedo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512704",
+        "city_name": "Corumbataí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512803",
+        "city_name": "Cosmópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3512902",
+        "city_name": "Cosmorama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513009",
+        "city_name": "Cotia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513108",
+        "city_name": "Cravinhos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513207",
+        "city_name": "Cristais Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513306",
+        "city_name": "Cruzália",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513405",
+        "city_name": "Cruzeiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513504",
+        "city_name": "Cubatão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513603",
+        "city_name": "Cunha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513702",
+        "city_name": "Descalvado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513801",
+        "city_name": "Diadema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513850",
+        "city_name": "Dirce Reis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3513900",
+        "city_name": "Divinolândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514007",
+        "city_name": "Dobrada",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514106",
+        "city_name": "Dois Córregos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514205",
+        "city_name": "Dolcinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514304",
+        "city_name": "Dourado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514403",
+        "city_name": "Dracena",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514502",
+        "city_name": "Duartina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514601",
+        "city_name": "Dumont",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514700",
+        "city_name": "Echaporã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514809",
+        "city_name": "Eldorado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514908",
+        "city_name": "Elias Fausto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514924",
+        "city_name": "Elisiário",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3514957",
+        "city_name": "Embaúba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515004",
+        "city_name": "Embu das Artes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515103",
+        "city_name": "Embu-Guaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515129",
+        "city_name": "Emilianópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515152",
+        "city_name": "Engenheiro Coelho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515186",
+        "city_name": "Espírito Santo do Pinhal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515194",
+        "city_name": "Espírito Santo do Turvo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3557303",
+        "city_name": "Estiva Gerbi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515301",
+        "city_name": "Estrela do Norte",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515202",
+        "city_name": "Estrela d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515350",
+        "city_name": "Euclides da Cunha Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515400",
+        "city_name": "Fartura",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515608",
+        "city_name": "Fernando Prestes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515509",
+        "city_name": "Fernandópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515657",
+        "city_name": "Fernão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515707",
+        "city_name": "Ferraz de Vasconcelos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515806",
+        "city_name": "Flora Rica",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3515905",
+        "city_name": "Floreal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516002",
+        "city_name": "Flórida Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516101",
+        "city_name": "Florínea",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516200",
+        "city_name": "Franca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516309",
+        "city_name": "Francisco Morato",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516408",
+        "city_name": "Franco da Rocha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516507",
+        "city_name": "Gabriel Monteiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516606",
+        "city_name": "Gália",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516705",
+        "city_name": "Garça",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516804",
+        "city_name": "Gastão Vidigal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516853",
+        "city_name": "Gavião Peixoto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3516903",
+        "city_name": "General Salgado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517000",
+        "city_name": "Getulina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517109",
+        "city_name": "Glicério",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517208",
+        "city_name": "Guaiçara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517307",
+        "city_name": "Guaimbê",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517406",
+        "city_name": "Guaíra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517505",
+        "city_name": "Guapiaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517604",
+        "city_name": "Guapiara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517703",
+        "city_name": "Guará",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517802",
+        "city_name": "Guaraçaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3517901",
+        "city_name": "Guaraci",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518008",
+        "city_name": "Guarani d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518107",
+        "city_name": "Guarantã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518206",
+        "city_name": "Guararapes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518305",
+        "city_name": "Guararema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518404",
+        "city_name": "Guaratinguetá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518503",
+        "city_name": "Guareí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518602",
+        "city_name": "Guariba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518701",
+        "city_name": "Guarujá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518800",
+        "city_name": "Guarulhos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518859",
+        "city_name": "Guatapará",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3518909",
+        "city_name": "Guzolândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519006",
+        "city_name": "Herculândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519055",
+        "city_name": "Holambra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519071",
+        "city_name": "Hortolândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519105",
+        "city_name": "Iacanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519204",
+        "city_name": "Iacri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519253",
+        "city_name": "Iaras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519303",
+        "city_name": "Ibaté",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519402",
+        "city_name": "Ibirá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519501",
+        "city_name": "Ibirarema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519600",
+        "city_name": "Ibitinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519709",
+        "city_name": "Ibiúna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519808",
+        "city_name": "Icém",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3519907",
+        "city_name": "Iepê",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520004",
+        "city_name": "Igaraçu do Tietê",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520103",
+        "city_name": "Igarapava",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520202",
+        "city_name": "Igaratá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520301",
+        "city_name": "Iguape",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520426",
+        "city_name": "Ilha Comprida",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520442",
+        "city_name": "Ilha Solteira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520400",
+        "city_name": "Ilhabela",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520509",
+        "city_name": "Indaiatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520608",
+        "city_name": "Indiana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520707",
+        "city_name": "Indiaporã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520806",
+        "city_name": "Inúbia Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3520905",
+        "city_name": "Ipaussu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521002",
+        "city_name": "Iperó",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521101",
+        "city_name": "Ipeúna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521150",
+        "city_name": "Ipiguá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521200",
+        "city_name": "Iporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521309",
+        "city_name": "Ipuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521408",
+        "city_name": "Iracemápolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521507",
+        "city_name": "Irapuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521606",
+        "city_name": "Irapuru",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521705",
+        "city_name": "Itaberá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521804",
+        "city_name": "Itaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3521903",
+        "city_name": "Itajobi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522000",
+        "city_name": "Itaju",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522109",
+        "city_name": "Itanhaém",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522158",
+        "city_name": "Itaoca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522208",
+        "city_name": "Itapecerica da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522307",
+        "city_name": "Itapetininga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522406",
+        "city_name": "Itapeva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522505",
+        "city_name": "Itapevi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522604",
+        "city_name": "Itapira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522653",
+        "city_name": "Itapirapuã Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522703",
+        "city_name": "Itápolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522802",
+        "city_name": "Itaporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3522901",
+        "city_name": "Itapuí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523008",
+        "city_name": "Itapura",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523107",
+        "city_name": "Itaquaquecetuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523206",
+        "city_name": "Itararé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523305",
+        "city_name": "Itariri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523404",
+        "city_name": "Itatiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523503",
+        "city_name": "Itatinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523602",
+        "city_name": "Itirapina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523701",
+        "city_name": "Itirapuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523800",
+        "city_name": "Itobi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3523909",
+        "city_name": "Itu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524006",
+        "city_name": "Itupeva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524105",
+        "city_name": "Ituverava",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524204",
+        "city_name": "Jaborandi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524303",
+        "city_name": "Jaboticabal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524402",
+        "city_name": "Jacareí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524501",
+        "city_name": "Jaci",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524600",
+        "city_name": "Jacupiranga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524709",
+        "city_name": "Jaguariúna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524808",
+        "city_name": "Jales",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3524907",
+        "city_name": "Jambeiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525003",
+        "city_name": "Jandira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525102",
+        "city_name": "Jardinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525201",
+        "city_name": "Jarinu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525300",
+        "city_name": "Jaú",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525409",
+        "city_name": "Jeriquara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525508",
+        "city_name": "Joanópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525607",
+        "city_name": "João Ramalho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525706",
+        "city_name": "José Bonifácio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525805",
+        "city_name": "Júlio Mesquita",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525854",
+        "city_name": "Jumirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3525904",
+        "city_name": "Jundiaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526001",
+        "city_name": "Junqueirópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526100",
+        "city_name": "Juquiá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526209",
+        "city_name": "Juquitiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526308",
+        "city_name": "Lagoinha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526407",
+        "city_name": "Laranjal Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526506",
+        "city_name": "Lavínia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526605",
+        "city_name": "Lavrinhas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526704",
+        "city_name": "Leme",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526803",
+        "city_name": "Lençóis Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3526902",
+        "city_name": "Limeira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527009",
+        "city_name": "Lindóia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527108",
+        "city_name": "Lins",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527207",
+        "city_name": "Lorena",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527256",
+        "city_name": "Lourdes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527306",
+        "city_name": "Louveira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527405",
+        "city_name": "Lucélia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527504",
+        "city_name": "Lucianópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527603",
+        "city_name": "Luís Antônio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527702",
+        "city_name": "Luiziânia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527801",
+        "city_name": "Lupércio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3527900",
+        "city_name": "Lutécia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528007",
+        "city_name": "Macatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528106",
+        "city_name": "Macaubal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528205",
+        "city_name": "Macedônia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528304",
+        "city_name": "Magda",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528403",
+        "city_name": "Mairinque",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528502",
+        "city_name": "Mairiporã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528601",
+        "city_name": "Manduri",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528700",
+        "city_name": "Marabá Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528809",
+        "city_name": "Maracaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528858",
+        "city_name": "Marapoama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3528908",
+        "city_name": "Mariápolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529005",
+        "city_name": "Marília",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529104",
+        "city_name": "Marinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529203",
+        "city_name": "Martinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529302",
+        "city_name": "Matão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529401",
+        "city_name": "Mauá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529500",
+        "city_name": "Mendonça",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529609",
+        "city_name": "Meridiano",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529658",
+        "city_name": "Mesópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529708",
+        "city_name": "Miguelópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529807",
+        "city_name": "Mineiros do Tietê",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530003",
+        "city_name": "Mira Estrela",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3529906",
+        "city_name": "Miracatu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530102",
+        "city_name": "Mirandópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530201",
+        "city_name": "Mirante do Paranapanema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530300",
+        "city_name": "Mirassol",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530409",
+        "city_name": "Mirassolândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530508",
+        "city_name": "Mococa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530607",
+        "city_name": "Mogi das Cruzes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530706",
+        "city_name": "Mogi Guaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530805",
+        "city_name": "Mogi Mirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3530904",
+        "city_name": "Mombuca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531001",
+        "city_name": "Monções",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531100",
+        "city_name": "Mongaguá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531209",
+        "city_name": "Monte Alegre do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531308",
+        "city_name": "Monte Alto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531407",
+        "city_name": "Monte Aprazível",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531506",
+        "city_name": "Monte Azul Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531605",
+        "city_name": "Monte Castelo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531803",
+        "city_name": "Monte Mor",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531704",
+        "city_name": "Monteiro Lobato",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3531902",
+        "city_name": "Morro Agudo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532009",
+        "city_name": "Morungaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532058",
+        "city_name": "Motuca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532108",
+        "city_name": "Murutinga do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532157",
+        "city_name": "Nantes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532207",
+        "city_name": "Narandiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532306",
+        "city_name": "Natividade da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532405",
+        "city_name": "Nazaré Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532504",
+        "city_name": "Neves Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532603",
+        "city_name": "Nhandeara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532702",
+        "city_name": "Nipoã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532801",
+        "city_name": "Nova Aliança",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532827",
+        "city_name": "Nova Campina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532843",
+        "city_name": "Nova Canaã Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532868",
+        "city_name": "Nova Castilho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3532900",
+        "city_name": "Nova Europa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533007",
+        "city_name": "Nova Granada",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533106",
+        "city_name": "Nova Guataporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533205",
+        "city_name": "Nova Independência",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533304",
+        "city_name": "Nova Luzitânia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533403",
+        "city_name": "Nova Odessa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533254",
+        "city_name": "Novais",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533502",
+        "city_name": "Novo Horizonte",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533601",
+        "city_name": "Nuporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533700",
+        "city_name": "Ocauçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533809",
+        "city_name": "Óleo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3533908",
+        "city_name": "Olímpia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534005",
+        "city_name": "Onda Verde",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534104",
+        "city_name": "Oriente",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534203",
+        "city_name": "Orindiúva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534302",
+        "city_name": "Orlândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534401",
+        "city_name": "Osasco",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534500",
+        "city_name": "Oscar Bressane",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534609",
+        "city_name": "Osvaldo Cruz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534708",
+        "city_name": "Ourinhos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534807",
+        "city_name": "Ouro Verde",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534757",
+        "city_name": "Ouroeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3534906",
+        "city_name": "Pacaembu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535002",
+        "city_name": "Palestina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535101",
+        "city_name": "Palmares Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535200",
+        "city_name": "Palmeira d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535309",
+        "city_name": "Palmital",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535408",
+        "city_name": "Panorama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535507",
+        "city_name": "Paraguaçu Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535606",
+        "city_name": "Paraibuna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535705",
+        "city_name": "Paraíso",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535804",
+        "city_name": "Paranapanema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3535903",
+        "city_name": "Paranapuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536000",
+        "city_name": "Parapuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536109",
+        "city_name": "Pardinho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536208",
+        "city_name": "Pariquera-Açu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536257",
+        "city_name": "Parisi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536307",
+        "city_name": "Patrocínio Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536406",
+        "city_name": "Paulicéia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536505",
+        "city_name": "Paulínia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536570",
+        "city_name": "Paulistânia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536604",
+        "city_name": "Paulo de Faria",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536703",
+        "city_name": "Pederneiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536802",
+        "city_name": "Pedra Bela",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3536901",
+        "city_name": "Pedranópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537008",
+        "city_name": "Pedregulho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537107",
+        "city_name": "Pedreira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537156",
+        "city_name": "Pedrinhas Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537206",
+        "city_name": "Pedro de Toledo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537305",
+        "city_name": "Penápolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537404",
+        "city_name": "Pereira Barreto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537503",
+        "city_name": "Pereiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537602",
+        "city_name": "Peruíbe",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537701",
+        "city_name": "Piacatu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537800",
+        "city_name": "Piedade",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3537909",
+        "city_name": "Pilar do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538006",
+        "city_name": "Pindamonhangaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538105",
+        "city_name": "Pindorama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538204",
+        "city_name": "Pinhalzinho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538303",
+        "city_name": "Piquerobi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538501",
+        "city_name": "Piquete",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538600",
+        "city_name": "Piracaia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538709",
+        "city_name": "Piracicaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538808",
+        "city_name": "Piraju",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3538907",
+        "city_name": "Pirajuí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539004",
+        "city_name": "Pirangi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539103",
+        "city_name": "Pirapora do Bom Jesus",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539202",
+        "city_name": "Pirapozinho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539301",
+        "city_name": "Pirassununga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539400",
+        "city_name": "Piratininga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539509",
+        "city_name": "Pitangueiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539608",
+        "city_name": "Planalto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539707",
+        "city_name": "Platina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539806",
+        "city_name": "Poá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3539905",
+        "city_name": "Poloni",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540002",
+        "city_name": "Pompéia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540101",
+        "city_name": "Pongaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540200",
+        "city_name": "Pontal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540259",
+        "city_name": "Pontalinda",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540309",
+        "city_name": "Pontes Gestal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540408",
+        "city_name": "Populina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540507",
+        "city_name": "Porangaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540606",
+        "city_name": "Porto Feliz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540705",
+        "city_name": "Porto Ferreira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540754",
+        "city_name": "Potim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540804",
+        "city_name": "Potirendaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540853",
+        "city_name": "Pracinha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3540903",
+        "city_name": "Pradópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541000",
+        "city_name": "Praia Grande",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541059",
+        "city_name": "Pratânia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541109",
+        "city_name": "Presidente Alves",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541208",
+        "city_name": "Presidente Bernardes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541307",
+        "city_name": "Presidente Epitácio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541406",
+        "city_name": "Presidente Prudente",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541505",
+        "city_name": "Presidente Venceslau",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541604",
+        "city_name": "Promissão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541653",
+        "city_name": "Quadra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541703",
+        "city_name": "Quatá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541802",
+        "city_name": "Queiroz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3541901",
+        "city_name": "Queluz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542008",
+        "city_name": "Quintana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542107",
+        "city_name": "Rafard",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542206",
+        "city_name": "Rancharia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542305",
+        "city_name": "Redenção da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542404",
+        "city_name": "Regente Feijó",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542503",
+        "city_name": "Reginópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542602",
+        "city_name": "Registro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542701",
+        "city_name": "Restinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542800",
+        "city_name": "Ribeira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3542909",
+        "city_name": "Ribeirão Bonito",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543006",
+        "city_name": "Ribeirão Branco",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543105",
+        "city_name": "Ribeirão Corrente",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543204",
+        "city_name": "Ribeirão do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543238",
+        "city_name": "Ribeirão dos Índios",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543253",
+        "city_name": "Ribeirão Grande",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543303",
+        "city_name": "Ribeirão Pires",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543402",
+        "city_name": "Ribeirão Preto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543600",
+        "city_name": "Rifaina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543709",
+        "city_name": "Rincão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543808",
+        "city_name": "Rinópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543907",
+        "city_name": "Rio Claro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544004",
+        "city_name": "Rio das Pedras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544103",
+        "city_name": "Rio Grande da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544202",
+        "city_name": "Riolândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3543501",
+        "city_name": "Riversul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544251",
+        "city_name": "Rosana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544301",
+        "city_name": "Roseira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544400",
+        "city_name": "Rubiácea",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544509",
+        "city_name": "Rubinéia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544608",
+        "city_name": "Sabino",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544707",
+        "city_name": "Sagres",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544806",
+        "city_name": "Sales",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3544905",
+        "city_name": "Sales Oliveira",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545001",
+        "city_name": "Salesópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545100",
+        "city_name": "Salmourão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545159",
+        "city_name": "Saltinho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545209",
+        "city_name": "Salto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545308",
+        "city_name": "Salto de Pirapora",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545407",
+        "city_name": "Salto Grande",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545506",
+        "city_name": "Sandovalina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545605",
+        "city_name": "Santa Adélia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545704",
+        "city_name": "Santa Albertina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3545803",
+        "city_name": "Santa Bárbara d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546009",
+        "city_name": "Santa Branca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546108",
+        "city_name": "Santa Clara d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546207",
+        "city_name": "Santa Cruz da Conceição",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546256",
+        "city_name": "Santa Cruz da Esperança",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546306",
+        "city_name": "Santa Cruz das Palmeiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546405",
+        "city_name": "Santa Cruz do Rio Pardo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546504",
+        "city_name": "Santa Ernestina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546603",
+        "city_name": "Santa Fé do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546702",
+        "city_name": "Santa Gertrudes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546801",
+        "city_name": "Santa Isabel",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3546900",
+        "city_name": "Santa Lúcia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547007",
+        "city_name": "Santa Maria da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547106",
+        "city_name": "Santa Mercedes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547502",
+        "city_name": "Santa Rita do Passa Quatro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547403",
+        "city_name": "Santa Rita d'Oeste",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547601",
+        "city_name": "Santa Rosa de Viterbo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547650",
+        "city_name": "Santa Salete",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547205",
+        "city_name": "Santana da Ponte Pensa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547304",
+        "city_name": "Santana de Parnaíba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547700",
+        "city_name": "Santo Anastácio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547809",
+        "city_name": "Santo André",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3547908",
+        "city_name": "Santo Antônio da Alegria",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548005",
+        "city_name": "Santo Antônio de Posse",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548054",
+        "city_name": "Santo Antônio do Aracanguá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548104",
+        "city_name": "Santo Antônio do Jardim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548203",
+        "city_name": "Santo Antônio do Pinhal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548302",
+        "city_name": "Santo Expedito",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548401",
+        "city_name": "Santópolis do Aguapeí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548500",
+        "city_name": "Santos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548609",
+        "city_name": "São Bento do Sapucaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548708",
+        "city_name": "São Bernardo do Campo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548807",
+        "city_name": "São Caetano do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3548906",
+        "city_name": "São Carlos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549003",
+        "city_name": "São Francisco",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549102",
+        "city_name": "São João da Boa Vista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549201",
+        "city_name": "São João das Duas Pontes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549250",
+        "city_name": "São João de Iracema",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549300",
+        "city_name": "São João do Pau d'Alho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549409",
+        "city_name": "São Joaquim da Barra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549508",
+        "city_name": "São José da Bela Vista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549607",
+        "city_name": "São José do Barreiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549706",
+        "city_name": "São José do Rio Pardo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549805",
+        "city_name": "São José do Rio Preto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549904",
+        "city_name": "São José dos Campos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3549953",
+        "city_name": "São Lourenço da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550001",
+        "city_name": "São Luiz do Paraitinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550100",
+        "city_name": "São Manuel",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550209",
+        "city_name": "São Miguel Arcanjo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550308",
+        "city_name": "São Paulo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550407",
+        "city_name": "São Pedro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550506",
+        "city_name": "São Pedro do Turvo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550605",
+        "city_name": "São Roque",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550704",
+        "city_name": "São Sebastião",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550803",
+        "city_name": "São Sebastião da Grama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3550902",
+        "city_name": "São Simão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551009",
+        "city_name": "São Vicente",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551108",
+        "city_name": "Sarapuí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551207",
+        "city_name": "Sarutaiá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551306",
+        "city_name": "Sebastianópolis do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551405",
+        "city_name": "Serra Azul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551603",
+        "city_name": "Serra Negra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551504",
+        "city_name": "Serrana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551702",
+        "city_name": "Sertãozinho",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551801",
+        "city_name": "Sete Barras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3551900",
+        "city_name": "Severínia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552007",
+        "city_name": "Silveiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552106",
+        "city_name": "Socorro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552205",
+        "city_name": "Sorocaba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552304",
+        "city_name": "Sud Mennucci",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552403",
+        "city_name": "Sumaré",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552551",
+        "city_name": "Suzanápolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552502",
+        "city_name": "Suzano",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552601",
+        "city_name": "Tabapuã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552700",
+        "city_name": "Tabatinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552809",
+        "city_name": "Taboão da Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3552908",
+        "city_name": "Taciba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553005",
+        "city_name": "Taguaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553104",
+        "city_name": "Taiaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553203",
+        "city_name": "Taiúva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553302",
+        "city_name": "Tambaú",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553401",
+        "city_name": "Tanabi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553500",
+        "city_name": "Tapiraí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553609",
+        "city_name": "Tapiratiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553658",
+        "city_name": "Taquaral",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553708",
+        "city_name": "Taquaritinga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553807",
+        "city_name": "Taquarituba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553856",
+        "city_name": "Taquarivaí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553906",
+        "city_name": "Tarabai",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3553955",
+        "city_name": "Tarumã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554003",
+        "city_name": "Tatuí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554102",
+        "city_name": "Taubaté",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554201",
+        "city_name": "Tejupá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554300",
+        "city_name": "Teodoro Sampaio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554409",
+        "city_name": "Terra Roxa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554508",
+        "city_name": "Tietê",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554607",
+        "city_name": "Timburi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554656",
+        "city_name": "Torre de Pedra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554706",
+        "city_name": "Torrinha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554755",
+        "city_name": "Trabiju",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554805",
+        "city_name": "Tremembé",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554904",
+        "city_name": "Três Fronteiras",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3554953",
+        "city_name": "Tuiuti",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555000",
+        "city_name": "Tupã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555109",
+        "city_name": "Tupi Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555208",
+        "city_name": "Turiúba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555307",
+        "city_name": "Turmalina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555356",
+        "city_name": "Ubarana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555406",
+        "city_name": "Ubatuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555505",
+        "city_name": "Ubirajara",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555604",
+        "city_name": "Uchoa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555703",
+        "city_name": "União Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555802",
+        "city_name": "Urânia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3555901",
+        "city_name": "Uru",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556008",
+        "city_name": "Urupês",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556107",
+        "city_name": "Valentim Gentil",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556206",
+        "city_name": "Valinhos",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556305",
+        "city_name": "Valparaíso",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556354",
+        "city_name": "Vargem",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556404",
+        "city_name": "Vargem Grande do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556453",
+        "city_name": "Vargem Grande Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556503",
+        "city_name": "Várzea Paulista",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556602",
+        "city_name": "Vera Cruz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556701",
+        "city_name": "Vinhedo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556800",
+        "city_name": "Viradouro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556909",
+        "city_name": "Vista Alegre do Alto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3556958",
+        "city_name": "Vitória Brasil",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3557006",
+        "city_name": "Votorantim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3557105",
+        "city_name": "Votuporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    },
+    {
+        "city_code": "3557154",
+        "city_name": "Zacarias",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "SP",
+        "state_code": "35",
+        "state_name": "São Paulo"
+    }
+]

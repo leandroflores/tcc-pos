@@ -1,0 +1,2657 @@
+[
+    {
+        "city_code": "4200051",
+        "city_name": "Abdon Batista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200101",
+        "city_name": "Abelardo Luz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200200",
+        "city_name": "Agrolândia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200309",
+        "city_name": "Agronômica",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200408",
+        "city_name": "Água Doce",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200507",
+        "city_name": "Águas de Chapecó",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200556",
+        "city_name": "Águas Frias",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200606",
+        "city_name": "Águas Mornas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200705",
+        "city_name": "Alfredo Wagner",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200754",
+        "city_name": "Alto Bela Vista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200804",
+        "city_name": "Anchieta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4200903",
+        "city_name": "Angelina",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201000",
+        "city_name": "Anita Garibaldi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201109",
+        "city_name": "Anitápolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201208",
+        "city_name": "Antônio Carlos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201257",
+        "city_name": "Apiúna",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201273",
+        "city_name": "Arabutã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201307",
+        "city_name": "Araquari",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201406",
+        "city_name": "Araranguá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201505",
+        "city_name": "Armazém",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201604",
+        "city_name": "Arroio Trinta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201653",
+        "city_name": "Arvoredo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201703",
+        "city_name": "Ascurra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201802",
+        "city_name": "Atalanta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201901",
+        "city_name": "Aurora",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4201950",
+        "city_name": "Balneário Arroio do Silva",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202057",
+        "city_name": "Balneário Barra do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202008",
+        "city_name": "Balneário Camboriú",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202073",
+        "city_name": "Balneário Gaivota",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212809",
+        "city_name": "Balneário Piçarras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4220000",
+        "city_name": "Balneário Rincão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202081",
+        "city_name": "Bandeirante",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202099",
+        "city_name": "Barra Bonita",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202107",
+        "city_name": "Barra Velha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202131",
+        "city_name": "Bela Vista do Toldo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202156",
+        "city_name": "Belmonte",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202206",
+        "city_name": "Benedito Novo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202305",
+        "city_name": "Biguaçu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202404",
+        "city_name": "Blumenau",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202438",
+        "city_name": "Bocaina do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202503",
+        "city_name": "Bom Jardim da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202537",
+        "city_name": "Bom Jesus",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202578",
+        "city_name": "Bom Jesus do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202602",
+        "city_name": "Bom Retiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202453",
+        "city_name": "Bombinhas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202701",
+        "city_name": "Botuverá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202800",
+        "city_name": "Braço do Norte",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202859",
+        "city_name": "Braço do Trombudo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202875",
+        "city_name": "Brunópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4202909",
+        "city_name": "Brusque",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203006",
+        "city_name": "Caçador",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203105",
+        "city_name": "Caibi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203154",
+        "city_name": "Calmon",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203204",
+        "city_name": "Camboriú",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203303",
+        "city_name": "Campo Alegre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203402",
+        "city_name": "Campo Belo do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203501",
+        "city_name": "Campo Erê",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203600",
+        "city_name": "Campos Novos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203709",
+        "city_name": "Canelinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203808",
+        "city_name": "Canoinhas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203253",
+        "city_name": "Capão Alto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203907",
+        "city_name": "Capinzal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4203956",
+        "city_name": "Capivari de Baixo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204004",
+        "city_name": "Catanduvas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204103",
+        "city_name": "Caxambu do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204152",
+        "city_name": "Celso Ramos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204178",
+        "city_name": "Cerro Negro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204194",
+        "city_name": "Chapadão do Lageado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204202",
+        "city_name": "Chapecó",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204251",
+        "city_name": "Cocal do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204301",
+        "city_name": "Concórdia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204350",
+        "city_name": "Cordilheira Alta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204400",
+        "city_name": "Coronel Freitas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204459",
+        "city_name": "Coronel Martins",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204558",
+        "city_name": "Correia Pinto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204509",
+        "city_name": "Corupá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204608",
+        "city_name": "Criciúma",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204707",
+        "city_name": "Cunha Porã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204756",
+        "city_name": "Cunhataí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204806",
+        "city_name": "Curitibanos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4204905",
+        "city_name": "Descanso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205001",
+        "city_name": "Dionísio Cerqueira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205100",
+        "city_name": "Dona Emma",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205159",
+        "city_name": "Doutor Pedrinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205175",
+        "city_name": "Entre Rios",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205191",
+        "city_name": "Ermo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205209",
+        "city_name": "Erval Velho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205308",
+        "city_name": "Faxinal dos Guedes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205357",
+        "city_name": "Flor do Sertão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205407",
+        "city_name": "Florianópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205431",
+        "city_name": "Formosa do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205456",
+        "city_name": "Forquilhinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205506",
+        "city_name": "Fraiburgo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205555",
+        "city_name": "Frei Rogério",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205605",
+        "city_name": "Galvão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205704",
+        "city_name": "Garopaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205803",
+        "city_name": "Garuva",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4205902",
+        "city_name": "Gaspar",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206009",
+        "city_name": "Governador Celso Ramos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206108",
+        "city_name": "Grão-Pará",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206207",
+        "city_name": "Gravatal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206306",
+        "city_name": "Guabiruba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206405",
+        "city_name": "Guaraciaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206504",
+        "city_name": "Guaramirim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206603",
+        "city_name": "Guarujá do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206652",
+        "city_name": "Guatambú",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206702",
+        "city_name": "Herval d'Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206751",
+        "city_name": "Ibiam",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206801",
+        "city_name": "Ibicaré",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4206900",
+        "city_name": "Ibirama",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207007",
+        "city_name": "Içara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207106",
+        "city_name": "Ilhota",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207205",
+        "city_name": "Imaruí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207304",
+        "city_name": "Imbituba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207403",
+        "city_name": "Imbuia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207502",
+        "city_name": "Indaial",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207577",
+        "city_name": "Iomerê",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207601",
+        "city_name": "Ipira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207650",
+        "city_name": "Iporã do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207684",
+        "city_name": "Ipuaçu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207700",
+        "city_name": "Ipumirim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207759",
+        "city_name": "Iraceminha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207809",
+        "city_name": "Irani",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207858",
+        "city_name": "Irati",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4207908",
+        "city_name": "Irineópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208005",
+        "city_name": "Itá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208104",
+        "city_name": "Itaiópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208203",
+        "city_name": "Itajaí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208302",
+        "city_name": "Itapema",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208401",
+        "city_name": "Itapiranga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208450",
+        "city_name": "Itapoá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208500",
+        "city_name": "Ituporanga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208609",
+        "city_name": "Jaborá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208708",
+        "city_name": "Jacinto Machado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208807",
+        "city_name": "Jaguaruna",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208906",
+        "city_name": "Jaraguá do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4208955",
+        "city_name": "Jardinópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209003",
+        "city_name": "Joaçaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209102",
+        "city_name": "Joinville",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209151",
+        "city_name": "José Boiteux",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209177",
+        "city_name": "Jupiá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209201",
+        "city_name": "Lacerdópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209300",
+        "city_name": "Lages",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209409",
+        "city_name": "Laguna",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209458",
+        "city_name": "Lajeado Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209508",
+        "city_name": "Laurentino",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209607",
+        "city_name": "Lauro Müller",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209706",
+        "city_name": "Lebon Régis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209805",
+        "city_name": "Leoberto Leal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209854",
+        "city_name": "Lindóia do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4209904",
+        "city_name": "Lontras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210001",
+        "city_name": "Luiz Alves",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210035",
+        "city_name": "Luzerna",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210050",
+        "city_name": "Macieira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210100",
+        "city_name": "Mafra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210209",
+        "city_name": "Major Gercino",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210308",
+        "city_name": "Major Vieira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210407",
+        "city_name": "Maracajá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210506",
+        "city_name": "Maravilha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210555",
+        "city_name": "Marema",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210605",
+        "city_name": "Massaranduba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210704",
+        "city_name": "Matos Costa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210803",
+        "city_name": "Meleiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210852",
+        "city_name": "Mirim Doce",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4210902",
+        "city_name": "Modelo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211009",
+        "city_name": "Mondaí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211058",
+        "city_name": "Monte Carlo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211108",
+        "city_name": "Monte Castelo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211207",
+        "city_name": "Morro da Fumaça",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211256",
+        "city_name": "Morro Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211306",
+        "city_name": "Navegantes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211405",
+        "city_name": "Nova Erechim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211454",
+        "city_name": "Nova Itaberaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211504",
+        "city_name": "Nova Trento",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211603",
+        "city_name": "Nova Veneza",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211652",
+        "city_name": "Novo Horizonte",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211702",
+        "city_name": "Orleans",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211751",
+        "city_name": "Otacílio Costa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211801",
+        "city_name": "Ouro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211850",
+        "city_name": "Ouro Verde",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211876",
+        "city_name": "Paial",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211892",
+        "city_name": "Painel",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4211900",
+        "city_name": "Palhoça",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212007",
+        "city_name": "Palma Sola",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212056",
+        "city_name": "Palmeira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212106",
+        "city_name": "Palmitos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212205",
+        "city_name": "Papanduva",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212239",
+        "city_name": "Paraíso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212254",
+        "city_name": "Passo de Torres",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212270",
+        "city_name": "Passos Maia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212304",
+        "city_name": "Paulo Lopes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212403",
+        "city_name": "Pedras Grandes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212502",
+        "city_name": "Penha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212601",
+        "city_name": "Peritiba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212650",
+        "city_name": "Pescaria Brava",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212700",
+        "city_name": "Petrolândia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4212908",
+        "city_name": "Pinhalzinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213005",
+        "city_name": "Pinheiro Preto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213104",
+        "city_name": "Piratuba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213153",
+        "city_name": "Planalto Alegre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213203",
+        "city_name": "Pomerode",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213302",
+        "city_name": "Ponte Alta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213351",
+        "city_name": "Ponte Alta do Norte",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213401",
+        "city_name": "Ponte Serrada",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213500",
+        "city_name": "Porto Belo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213609",
+        "city_name": "Porto União",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213708",
+        "city_name": "Pouso Redondo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213807",
+        "city_name": "Praia Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4213906",
+        "city_name": "Presidente Castello Branco",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214003",
+        "city_name": "Presidente Getúlio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214102",
+        "city_name": "Presidente Nereu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214151",
+        "city_name": "Princesa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214201",
+        "city_name": "Quilombo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214300",
+        "city_name": "Rancho Queimado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214409",
+        "city_name": "Rio das Antas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214508",
+        "city_name": "Rio do Campo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214607",
+        "city_name": "Rio do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214805",
+        "city_name": "Rio do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214706",
+        "city_name": "Rio dos Cedros",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4214904",
+        "city_name": "Rio Fortuna",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215000",
+        "city_name": "Rio Negrinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215059",
+        "city_name": "Rio Rufino",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215075",
+        "city_name": "Riqueza",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215109",
+        "city_name": "Rodeio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215208",
+        "city_name": "Romelândia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215307",
+        "city_name": "Salete",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215356",
+        "city_name": "Saltinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215406",
+        "city_name": "Salto Veloso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215455",
+        "city_name": "Sangão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215505",
+        "city_name": "Santa Cecília",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215554",
+        "city_name": "Santa Helena",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215604",
+        "city_name": "Santa Rosa de Lima",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215653",
+        "city_name": "Santa Rosa do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215679",
+        "city_name": "Santa Terezinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215687",
+        "city_name": "Santa Terezinha do Progresso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215695",
+        "city_name": "Santiago do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215703",
+        "city_name": "Santo Amaro da Imperatriz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215802",
+        "city_name": "São Bento do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215752",
+        "city_name": "São Bernardino",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4215901",
+        "city_name": "São Bonifácio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216008",
+        "city_name": "São Carlos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216057",
+        "city_name": "São Cristóvão do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216107",
+        "city_name": "São Domingos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216206",
+        "city_name": "São Francisco do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216305",
+        "city_name": "São João Batista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216354",
+        "city_name": "São João do Itaperiú",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216255",
+        "city_name": "São João do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216404",
+        "city_name": "São João do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216503",
+        "city_name": "São Joaquim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216602",
+        "city_name": "São José",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216701",
+        "city_name": "São José do Cedro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216800",
+        "city_name": "São José do Cerrito",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4216909",
+        "city_name": "São Lourenço do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217006",
+        "city_name": "São Ludgero",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217105",
+        "city_name": "São Martinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217154",
+        "city_name": "São Miguel da Boa Vista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217204",
+        "city_name": "São Miguel do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217253",
+        "city_name": "São Pedro de Alcântara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217303",
+        "city_name": "Saudades",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217402",
+        "city_name": "Schroeder",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217501",
+        "city_name": "Seara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217550",
+        "city_name": "Serra Alta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217600",
+        "city_name": "Siderópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217709",
+        "city_name": "Sombrio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217758",
+        "city_name": "Sul Brasil",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217808",
+        "city_name": "Taió",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217907",
+        "city_name": "Tangará",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4217956",
+        "city_name": "Tigrinhos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218004",
+        "city_name": "Tijucas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218103",
+        "city_name": "Timbé do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218202",
+        "city_name": "Timbó",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218251",
+        "city_name": "Timbó Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218301",
+        "city_name": "Três Barras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218350",
+        "city_name": "Treviso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218400",
+        "city_name": "Treze de Maio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218509",
+        "city_name": "Treze Tílias",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218608",
+        "city_name": "Trombudo Central",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218707",
+        "city_name": "Tubarão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218756",
+        "city_name": "Tunápolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218806",
+        "city_name": "Turvo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218855",
+        "city_name": "União do Oeste",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218905",
+        "city_name": "Urubici",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4218954",
+        "city_name": "Urupema",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219002",
+        "city_name": "Urussanga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219101",
+        "city_name": "Vargeão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219150",
+        "city_name": "Vargem",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219176",
+        "city_name": "Vargem Bonita",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219200",
+        "city_name": "Vidal Ramos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219309",
+        "city_name": "Videira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219358",
+        "city_name": "Vitor Meireles",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219408",
+        "city_name": "Witmarsum",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219507",
+        "city_name": "Xanxerê",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219606",
+        "city_name": "Xavantina",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219705",
+        "city_name": "Xaxim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    },
+    {
+        "city_code": "4219853",
+        "city_name": "Zortéa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "SC",
+        "state_code": "42",
+        "state_name": "Santa Catarina"
+    }
+]

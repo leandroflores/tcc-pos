@@ -1,0 +1,1667 @@
+[
+    {
+        "city_code": "2600054",
+        "city_name": "Abreu e Lima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600104",
+        "city_name": "Afogados da Ingazeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600203",
+        "city_name": "Afrânio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600302",
+        "city_name": "Agrestina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600401",
+        "city_name": "Água Preta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600500",
+        "city_name": "Águas Belas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600609",
+        "city_name": "Alagoinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600708",
+        "city_name": "Aliança",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600807",
+        "city_name": "Altinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2600906",
+        "city_name": "Amaraji",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601003",
+        "city_name": "Angelim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601052",
+        "city_name": "Araçoiaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601102",
+        "city_name": "Araripina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601201",
+        "city_name": "Arcoverde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601300",
+        "city_name": "Barra de Guabiraba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601409",
+        "city_name": "Barreiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601508",
+        "city_name": "Belém de Maria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601607",
+        "city_name": "Belém do São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601706",
+        "city_name": "Belo Jardim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601805",
+        "city_name": "Betânia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2601904",
+        "city_name": "Bezerros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602001",
+        "city_name": "Bodocó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602100",
+        "city_name": "Bom Conselho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602209",
+        "city_name": "Bom Jardim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602308",
+        "city_name": "Bonito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602407",
+        "city_name": "Brejão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602506",
+        "city_name": "Brejinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602605",
+        "city_name": "Brejo da Madre de Deus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602704",
+        "city_name": "Buenos Aires",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602803",
+        "city_name": "Buíque",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2602902",
+        "city_name": "Cabo de Santo Agostinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603009",
+        "city_name": "Cabrobó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603108",
+        "city_name": "Cachoeirinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603207",
+        "city_name": "Caetés",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603306",
+        "city_name": "Calçado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603405",
+        "city_name": "Calumbi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603454",
+        "city_name": "Camaragibe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603504",
+        "city_name": "Camocim de São Félix",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603603",
+        "city_name": "Camutanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603702",
+        "city_name": "Canhotinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603801",
+        "city_name": "Capoeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603900",
+        "city_name": "Carnaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2603926",
+        "city_name": "Carnaubeira da Penha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604007",
+        "city_name": "Carpina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604106",
+        "city_name": "Caruaru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604155",
+        "city_name": "Casinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604205",
+        "city_name": "Catende",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604304",
+        "city_name": "Cedro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604403",
+        "city_name": "Chã de Alegria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604502",
+        "city_name": "Chã Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604601",
+        "city_name": "Condado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604700",
+        "city_name": "Correntes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604809",
+        "city_name": "Cortês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2604908",
+        "city_name": "Cumaru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605004",
+        "city_name": "Cupira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605103",
+        "city_name": "Custódia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605152",
+        "city_name": "Dormentes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605202",
+        "city_name": "Escada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605301",
+        "city_name": "Exu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605400",
+        "city_name": "Feira Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605459",
+        "city_name": "Fernando de Noronha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605509",
+        "city_name": "Ferreiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605608",
+        "city_name": "Flores",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605707",
+        "city_name": "Floresta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605806",
+        "city_name": "Frei Miguelinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2605905",
+        "city_name": "Gameleira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606002",
+        "city_name": "Garanhuns",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606101",
+        "city_name": "Glória do Goitá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606200",
+        "city_name": "Goiana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606309",
+        "city_name": "Granito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606408",
+        "city_name": "Gravatá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606507",
+        "city_name": "Iati",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606606",
+        "city_name": "Ibimirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606705",
+        "city_name": "Ibirajuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606804",
+        "city_name": "Igarassu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2606903",
+        "city_name": "Iguaracy",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607604",
+        "city_name": "Ilha de Itamaracá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607000",
+        "city_name": "Inajá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607109",
+        "city_name": "Ingazeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607208",
+        "city_name": "Ipojuca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607307",
+        "city_name": "Ipubi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607406",
+        "city_name": "Itacuruba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607505",
+        "city_name": "Itaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607653",
+        "city_name": "Itambé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607703",
+        "city_name": "Itapetim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607752",
+        "city_name": "Itapissuma",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607802",
+        "city_name": "Itaquitinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607901",
+        "city_name": "Jaboatão dos Guararapes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2607950",
+        "city_name": "Jaqueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608008",
+        "city_name": "Jataúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608057",
+        "city_name": "Jatobá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608107",
+        "city_name": "João Alfredo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608206",
+        "city_name": "Joaquim Nabuco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608255",
+        "city_name": "Jucati",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608305",
+        "city_name": "Jupi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608404",
+        "city_name": "Jurema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608503",
+        "city_name": "Lagoa de Itaenga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608453",
+        "city_name": "Lagoa do Carro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608602",
+        "city_name": "Lagoa do Ouro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608701",
+        "city_name": "Lagoa dos Gatos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608750",
+        "city_name": "Lagoa Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608800",
+        "city_name": "Lajedo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2608909",
+        "city_name": "Limoeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609006",
+        "city_name": "Macaparana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609105",
+        "city_name": "Machados",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609154",
+        "city_name": "Manari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609204",
+        "city_name": "Maraial",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609303",
+        "city_name": "Mirandiba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614303",
+        "city_name": "Moreilândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609402",
+        "city_name": "Moreno",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609501",
+        "city_name": "Nazaré da Mata",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609600",
+        "city_name": "Olinda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609709",
+        "city_name": "Orobó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609808",
+        "city_name": "Orocó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2609907",
+        "city_name": "Ouricuri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610004",
+        "city_name": "Palmares",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610103",
+        "city_name": "Palmeirina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610202",
+        "city_name": "Panelas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610301",
+        "city_name": "Paranatama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610400",
+        "city_name": "Parnamirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610509",
+        "city_name": "Passira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610608",
+        "city_name": "Paudalho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610707",
+        "city_name": "Paulista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610806",
+        "city_name": "Pedra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2610905",
+        "city_name": "Pesqueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611002",
+        "city_name": "Petrolândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611101",
+        "city_name": "Petrolina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611200",
+        "city_name": "Poção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611309",
+        "city_name": "Pombos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611408",
+        "city_name": "Primavera",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611507",
+        "city_name": "Quipapá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611533",
+        "city_name": "Quixaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611606",
+        "city_name": "Recife",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611705",
+        "city_name": "Riacho das Almas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611804",
+        "city_name": "Ribeirão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2611903",
+        "city_name": "Rio Formoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612000",
+        "city_name": "Sairé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612109",
+        "city_name": "Salgadinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612208",
+        "city_name": "Salgueiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612307",
+        "city_name": "Saloá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612406",
+        "city_name": "Sanharó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612455",
+        "city_name": "Santa Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612471",
+        "city_name": "Santa Cruz da Baixa Verde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612505",
+        "city_name": "Santa Cruz do Capibaribe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612554",
+        "city_name": "Santa Filomena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612604",
+        "city_name": "Santa Maria da Boa Vista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612703",
+        "city_name": "Santa Maria do Cambucá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612802",
+        "city_name": "Santa Terezinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2612901",
+        "city_name": "São Benedito do Sul",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613008",
+        "city_name": "São Bento do Una",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613107",
+        "city_name": "São Caitano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613206",
+        "city_name": "São João",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613305",
+        "city_name": "São Joaquim do Monte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613404",
+        "city_name": "São José da Coroa Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613503",
+        "city_name": "São José do Belmonte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613602",
+        "city_name": "São José do Egito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613701",
+        "city_name": "São Lourenço da Mata",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613800",
+        "city_name": "São Vicente Férrer",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2613909",
+        "city_name": "Serra Talhada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614006",
+        "city_name": "Serrita",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614105",
+        "city_name": "Sertânia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614204",
+        "city_name": "Sirinhaém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614402",
+        "city_name": "Solidão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614501",
+        "city_name": "Surubim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614600",
+        "city_name": "Tabira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614709",
+        "city_name": "Tacaimbó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614808",
+        "city_name": "Tacaratu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2614857",
+        "city_name": "Tamandaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615003",
+        "city_name": "Taquaritinga do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615102",
+        "city_name": "Terezinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615201",
+        "city_name": "Terra Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615300",
+        "city_name": "Timbaúba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615409",
+        "city_name": "Toritama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615508",
+        "city_name": "Tracunhaém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615607",
+        "city_name": "Trindade",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615706",
+        "city_name": "Triunfo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615805",
+        "city_name": "Tupanatinga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2615904",
+        "city_name": "Tuparetama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616001",
+        "city_name": "Venturosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616100",
+        "city_name": "Verdejante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616183",
+        "city_name": "Vertente do Lério",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616209",
+        "city_name": "Vertentes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616308",
+        "city_name": "Vicência",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616407",
+        "city_name": "Vitória de Santo Antão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    },
+    {
+        "city_code": "2616506",
+        "city_name": "Xexéu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PE",
+        "state_code": "26",
+        "state_name": "Pernambuco"
+    }
+]

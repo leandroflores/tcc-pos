@@ -1,0 +1,2009 @@
+[
+    {
+        "city_code": "2500106",
+        "city_name": "Água Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500205",
+        "city_name": "Aguiar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500304",
+        "city_name": "Alagoa Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500403",
+        "city_name": "Alagoa Nova",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500502",
+        "city_name": "Alagoinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500536",
+        "city_name": "Alcantil",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500577",
+        "city_name": "Algodão de Jandaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500601",
+        "city_name": "Alhandra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500734",
+        "city_name": "Amparo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500775",
+        "city_name": "Aparecida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500809",
+        "city_name": "Araçagi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500908",
+        "city_name": "Arara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501005",
+        "city_name": "Araruna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501104",
+        "city_name": "Areia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501153",
+        "city_name": "Areia de Baraúnas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501203",
+        "city_name": "Areial",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501302",
+        "city_name": "Aroeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501351",
+        "city_name": "Assunção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501401",
+        "city_name": "Baía da Traição",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501500",
+        "city_name": "Bananeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501534",
+        "city_name": "Baraúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501609",
+        "city_name": "Barra de Santa Rosa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501575",
+        "city_name": "Barra de Santana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501708",
+        "city_name": "Barra de São Miguel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501807",
+        "city_name": "Bayeux",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2501906",
+        "city_name": "Belém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502003",
+        "city_name": "Belém do Brejo do Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502052",
+        "city_name": "Bernardino Batista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502102",
+        "city_name": "Boa Ventura",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502151",
+        "city_name": "Boa Vista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502201",
+        "city_name": "Bom Jesus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502300",
+        "city_name": "Bom Sucesso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502409",
+        "city_name": "Bonito de Santa Fé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502508",
+        "city_name": "Boqueirão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502706",
+        "city_name": "Borborema",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502805",
+        "city_name": "Brejo do Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502904",
+        "city_name": "Brejo dos Santos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503001",
+        "city_name": "Caaporã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503100",
+        "city_name": "Cabaceiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503209",
+        "city_name": "Cabedelo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503308",
+        "city_name": "Cachoeira dos Índios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503407",
+        "city_name": "Cacimba de Areia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503506",
+        "city_name": "Cacimba de Dentro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503555",
+        "city_name": "Cacimbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503605",
+        "city_name": "Caiçara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503704",
+        "city_name": "Cajazeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503753",
+        "city_name": "Cajazeirinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503803",
+        "city_name": "Caldas Brandão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2503902",
+        "city_name": "Camalaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504009",
+        "city_name": "Campina Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504033",
+        "city_name": "Capim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504074",
+        "city_name": "Caraúbas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504108",
+        "city_name": "Carrapateira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504157",
+        "city_name": "Casserengue",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504207",
+        "city_name": "Catingueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504306",
+        "city_name": "Catolé do Rocha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504355",
+        "city_name": "Caturité",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504405",
+        "city_name": "Conceição",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504504",
+        "city_name": "Condado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504603",
+        "city_name": "Conde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504702",
+        "city_name": "Congo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504801",
+        "city_name": "Coremas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504850",
+        "city_name": "Coxixola",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2504900",
+        "city_name": "Cruz do Espírito Santo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505006",
+        "city_name": "Cubati",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505105",
+        "city_name": "Cuité",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505238",
+        "city_name": "Cuité de Mamanguape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505204",
+        "city_name": "Cuitegi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505279",
+        "city_name": "Curral de Cima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505303",
+        "city_name": "Curral Velho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505352",
+        "city_name": "Damião",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505402",
+        "city_name": "Desterro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505600",
+        "city_name": "Diamante",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505709",
+        "city_name": "Dona Inês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505808",
+        "city_name": "Duas Estradas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505907",
+        "city_name": "Emas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506004",
+        "city_name": "Esperança",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506103",
+        "city_name": "Fagundes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506202",
+        "city_name": "Frei Martinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506251",
+        "city_name": "Gado Bravo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506301",
+        "city_name": "Guarabira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506400",
+        "city_name": "Gurinhém",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506509",
+        "city_name": "Gurjão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506608",
+        "city_name": "Ibiara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2502607",
+        "city_name": "Igaracy",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506707",
+        "city_name": "Imaculada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506806",
+        "city_name": "Ingá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2506905",
+        "city_name": "Itabaiana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507002",
+        "city_name": "Itaporanga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507101",
+        "city_name": "Itapororoca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507200",
+        "city_name": "Itatuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507309",
+        "city_name": "Jacaraú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507408",
+        "city_name": "Jericó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507507",
+        "city_name": "João Pessoa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513653",
+        "city_name": "Joca Claudino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507606",
+        "city_name": "Juarez Távora",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507705",
+        "city_name": "Juazeirinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507804",
+        "city_name": "Junco do Seridó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2507903",
+        "city_name": "Juripiranga",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508000",
+        "city_name": "Juru",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508109",
+        "city_name": "Lagoa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508208",
+        "city_name": "Lagoa de Dentro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508307",
+        "city_name": "Lagoa Seca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508406",
+        "city_name": "Lastro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508505",
+        "city_name": "Livramento",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508554",
+        "city_name": "Logradouro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508604",
+        "city_name": "Lucena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508703",
+        "city_name": "Mãe d'Água",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508802",
+        "city_name": "Malta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2508901",
+        "city_name": "Mamanguape",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509008",
+        "city_name": "Manaíra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509057",
+        "city_name": "Marcação",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509107",
+        "city_name": "Mari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509156",
+        "city_name": "Marizópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509206",
+        "city_name": "Massaranduba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509305",
+        "city_name": "Mataraca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509339",
+        "city_name": "Matinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509370",
+        "city_name": "Mato Grosso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509396",
+        "city_name": "Maturéia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509404",
+        "city_name": "Mogeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509503",
+        "city_name": "Montadas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509602",
+        "city_name": "Monte Horebe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509701",
+        "city_name": "Monteiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509800",
+        "city_name": "Mulungu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2509909",
+        "city_name": "Natuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510006",
+        "city_name": "Nazarezinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510105",
+        "city_name": "Nova Floresta",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510204",
+        "city_name": "Nova Olinda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510303",
+        "city_name": "Nova Palmeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510402",
+        "city_name": "Olho d'Água",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510501",
+        "city_name": "Olivedos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510600",
+        "city_name": "Ouro Velho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510659",
+        "city_name": "Parari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510709",
+        "city_name": "Passagem",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510808",
+        "city_name": "Patos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2510907",
+        "city_name": "Paulista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511004",
+        "city_name": "Pedra Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511103",
+        "city_name": "Pedra Lavrada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511202",
+        "city_name": "Pedras de Fogo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512721",
+        "city_name": "Pedro Régis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511301",
+        "city_name": "Piancó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511400",
+        "city_name": "Picuí",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511509",
+        "city_name": "Pilar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511608",
+        "city_name": "Pilões",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511707",
+        "city_name": "Pilõezinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511806",
+        "city_name": "Pirpirituba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2511905",
+        "city_name": "Pitimbu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512002",
+        "city_name": "Pocinhos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512036",
+        "city_name": "Poço Dantas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512077",
+        "city_name": "Poço de José de Moura",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512101",
+        "city_name": "Pombal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512200",
+        "city_name": "Prata",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512309",
+        "city_name": "Princesa Isabel",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512408",
+        "city_name": "Puxinanã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512507",
+        "city_name": "Queimadas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512606",
+        "city_name": "Quixaba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512705",
+        "city_name": "Remígio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512747",
+        "city_name": "Riachão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512754",
+        "city_name": "Riachão do Bacamarte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512762",
+        "city_name": "Riachão do Poço",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512788",
+        "city_name": "Riacho de Santo Antônio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512804",
+        "city_name": "Riacho dos Cavalos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2512903",
+        "city_name": "Rio Tinto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513000",
+        "city_name": "Salgadinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513109",
+        "city_name": "Salgado de São Félix",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513158",
+        "city_name": "Santa Cecília",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513208",
+        "city_name": "Santa Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513307",
+        "city_name": "Santa Helena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513356",
+        "city_name": "Santa Inês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513406",
+        "city_name": "Santa Luzia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513703",
+        "city_name": "Santa Rita",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513802",
+        "city_name": "Santa Teresinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513505",
+        "city_name": "Santana de Mangueira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513604",
+        "city_name": "Santana dos Garrotes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513851",
+        "city_name": "Santo André",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513927",
+        "city_name": "São Bentinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513901",
+        "city_name": "São Bento",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513968",
+        "city_name": "São Domingos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513943",
+        "city_name": "São Domingos do Cariri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2513984",
+        "city_name": "São Francisco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514008",
+        "city_name": "São João do Cariri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2500700",
+        "city_name": "São João do Rio do Peixe",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514107",
+        "city_name": "São João do Tigre",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514206",
+        "city_name": "São José da Lagoa Tapada",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514305",
+        "city_name": "São José de Caiana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514404",
+        "city_name": "São José de Espinharas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514503",
+        "city_name": "São José de Piranhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514552",
+        "city_name": "São José de Princesa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514602",
+        "city_name": "São José do Bonfim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514651",
+        "city_name": "São José do Brejo do Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514701",
+        "city_name": "São José do Sabugi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514800",
+        "city_name": "São José dos Cordeiros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514453",
+        "city_name": "São José dos Ramos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2514909",
+        "city_name": "São Mamede",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515005",
+        "city_name": "São Miguel de Taipu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515104",
+        "city_name": "São Sebastião de Lagoa de Roça",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515203",
+        "city_name": "São Sebastião do Umbuzeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515401",
+        "city_name": "São Vicente do Seridó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515302",
+        "city_name": "Sapé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515500",
+        "city_name": "Serra Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515609",
+        "city_name": "Serra da Raiz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515708",
+        "city_name": "Serra Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515807",
+        "city_name": "Serra Redonda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515906",
+        "city_name": "Serraria",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515930",
+        "city_name": "Sertãozinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2515971",
+        "city_name": "Sobrado",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516003",
+        "city_name": "Solânea",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516102",
+        "city_name": "Soledade",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516151",
+        "city_name": "Sossêgo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516201",
+        "city_name": "Sousa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516300",
+        "city_name": "Sumé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516409",
+        "city_name": "Tacima",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516508",
+        "city_name": "Taperoá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516607",
+        "city_name": "Tavares",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516706",
+        "city_name": "Teixeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516755",
+        "city_name": "Tenório",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516805",
+        "city_name": "Triunfo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2516904",
+        "city_name": "Uiraúna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2517001",
+        "city_name": "Umbuzeiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2517100",
+        "city_name": "Várzea",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2517209",
+        "city_name": "Vieirópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2505501",
+        "city_name": "Vista Serrana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    },
+    {
+        "city_code": "2517407",
+        "city_name": "Zabelê",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "PB",
+        "state_code": "25",
+        "state_name": "Paraíba"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "city_code": "1300029",
+        "city_name": "Alvarães",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300060",
+        "city_name": "Amaturá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300086",
+        "city_name": "Anamã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300102",
+        "city_name": "Anori",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300144",
+        "city_name": "Apuí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300201",
+        "city_name": "Atalaia do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300300",
+        "city_name": "Autazes",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300409",
+        "city_name": "Barcelos",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300508",
+        "city_name": "Barreirinha",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300607",
+        "city_name": "Benjamin Constant",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300631",
+        "city_name": "Beruri",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300680",
+        "city_name": "Boa Vista do Ramos",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300706",
+        "city_name": "Boca do Acre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300805",
+        "city_name": "Borba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300839",
+        "city_name": "Caapiranga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1300904",
+        "city_name": "Canutama",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301001",
+        "city_name": "Carauari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301100",
+        "city_name": "Careiro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301159",
+        "city_name": "Careiro da Várzea",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301209",
+        "city_name": "Coari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301308",
+        "city_name": "Codajás",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301407",
+        "city_name": "Eirunepé",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301506",
+        "city_name": "Envira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301605",
+        "city_name": "Fonte Boa",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301654",
+        "city_name": "Guajará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301704",
+        "city_name": "Humaitá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301803",
+        "city_name": "Ipixuna",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301852",
+        "city_name": "Iranduba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301902",
+        "city_name": "Itacoatiara",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1301951",
+        "city_name": "Itamarati",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302009",
+        "city_name": "Itapiranga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302108",
+        "city_name": "Japurá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302207",
+        "city_name": "Juruá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302306",
+        "city_name": "Jutaí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302405",
+        "city_name": "Lábrea",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302504",
+        "city_name": "Manacapuru",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302553",
+        "city_name": "Manaquiri",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302603",
+        "city_name": "Manaus",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302702",
+        "city_name": "Manicoré",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302801",
+        "city_name": "Maraã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1302900",
+        "city_name": "Maués",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303007",
+        "city_name": "Nhamundá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303106",
+        "city_name": "Nova Olinda do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303205",
+        "city_name": "Novo Airão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303304",
+        "city_name": "Novo Aripuanã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303403",
+        "city_name": "Parintins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303502",
+        "city_name": "Pauini",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303536",
+        "city_name": "Presidente Figueiredo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303569",
+        "city_name": "Rio Preto da Eva",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303601",
+        "city_name": "Santa Isabel do Rio Negro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303700",
+        "city_name": "Santo Antônio do Içá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303809",
+        "city_name": "São Gabriel da Cachoeira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303908",
+        "city_name": "São Paulo de Olivença",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1303957",
+        "city_name": "São Sebastião do Uatumã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304005",
+        "city_name": "Silves",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304062",
+        "city_name": "Tabatinga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304104",
+        "city_name": "Tapauá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304203",
+        "city_name": "Tefé",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304237",
+        "city_name": "Tonantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304260",
+        "city_name": "Uarini",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304302",
+        "city_name": "Urucará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    },
+    {
+        "city_code": "1304401",
+        "city_name": "Urucurituba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "AM",
+        "state_code": "13",
+        "state_name": "Amazonas"
+    }
+]

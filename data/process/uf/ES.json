@@ -1,0 +1,704 @@
+[
+    {
+        "city_code": "3200102",
+        "city_name": "Afonso Cláudio",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200169",
+        "city_name": "Água Doce do Norte",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200136",
+        "city_name": "Águia Branca",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200201",
+        "city_name": "Alegre",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200300",
+        "city_name": "Alfredo Chaves",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200359",
+        "city_name": "Alto Rio Novo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200409",
+        "city_name": "Anchieta",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200508",
+        "city_name": "Apiacá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200607",
+        "city_name": "Aracruz",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200706",
+        "city_name": "Atílio Vivácqua",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200805",
+        "city_name": "Baixo Guandu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3200904",
+        "city_name": "Barra de São Francisco",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201001",
+        "city_name": "Boa Esperança",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201100",
+        "city_name": "Bom Jesus do Norte",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201159",
+        "city_name": "Brejetuba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201209",
+        "city_name": "Cachoeiro de Itapemirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201308",
+        "city_name": "Cariacica",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201407",
+        "city_name": "Castelo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201506",
+        "city_name": "Colatina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201605",
+        "city_name": "Conceição da Barra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201704",
+        "city_name": "Conceição do Castelo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201803",
+        "city_name": "Divino de São Lourenço",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3201902",
+        "city_name": "Domingos Martins",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202009",
+        "city_name": "Dores do Rio Preto",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202108",
+        "city_name": "Ecoporanga",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202207",
+        "city_name": "Fundão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202256",
+        "city_name": "Governador Lindenberg",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202306",
+        "city_name": "Guaçuí",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202405",
+        "city_name": "Guarapari",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202454",
+        "city_name": "Ibatiba",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202504",
+        "city_name": "Ibiraçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202553",
+        "city_name": "Ibitirama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202603",
+        "city_name": "Iconha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202652",
+        "city_name": "Irupi",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202702",
+        "city_name": "Itaguaçu",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202801",
+        "city_name": "Itapemirim",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3202900",
+        "city_name": "Itarana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203007",
+        "city_name": "Iúna",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203056",
+        "city_name": "Jaguaré",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203106",
+        "city_name": "Jerônimo Monteiro",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203130",
+        "city_name": "João Neiva",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203163",
+        "city_name": "Laranja da Terra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203205",
+        "city_name": "Linhares",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203304",
+        "city_name": "Mantenópolis",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203320",
+        "city_name": "Marataízes",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203346",
+        "city_name": "Marechal Floriano",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203353",
+        "city_name": "Marilândia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203403",
+        "city_name": "Mimoso do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203502",
+        "city_name": "Montanha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203601",
+        "city_name": "Mucurici",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203700",
+        "city_name": "Muniz Freire",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203809",
+        "city_name": "Muqui",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3203908",
+        "city_name": "Nova Venécia",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204005",
+        "city_name": "Pancas",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204054",
+        "city_name": "Pedro Canário",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204104",
+        "city_name": "Pinheiros",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204203",
+        "city_name": "Piúma",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204252",
+        "city_name": "Ponto Belo",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204302",
+        "city_name": "Presidente Kennedy",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204351",
+        "city_name": "Rio Bananal",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204401",
+        "city_name": "Rio Novo do Sul",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204500",
+        "city_name": "Santa Leopoldina",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204559",
+        "city_name": "Santa Maria de Jetibá",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204609",
+        "city_name": "Santa Teresa",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204658",
+        "city_name": "São Domingos do Norte",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204708",
+        "city_name": "São Gabriel da Palha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204807",
+        "city_name": "São José do Calçado",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204906",
+        "city_name": "São Mateus",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3204955",
+        "city_name": "São Roque do Canaã",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205002",
+        "city_name": "Serra",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205010",
+        "city_name": "Sooretama",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205036",
+        "city_name": "Vargem Alta",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205069",
+        "city_name": "Venda Nova do Imigrante",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205101",
+        "city_name": "Viana",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205150",
+        "city_name": "Vila Pavão",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205176",
+        "city_name": "Vila Valério",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205200",
+        "city_name": "Vila Velha",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    },
+    {
+        "city_code": "3205309",
+        "city_name": "Vitória",
+        "region_code": "3",
+        "region_name": "Sudeste",
+        "state_abbr": "ES",
+        "state_code": "32",
+        "state_name": "Espírito Santo"
+    }
+]

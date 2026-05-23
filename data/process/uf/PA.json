@@ -1,0 +1,1298 @@
+[
+    {
+        "city_code": "1500107",
+        "city_name": "Abaetetuba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500131",
+        "city_name": "Abel Figueiredo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500206",
+        "city_name": "Acará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500305",
+        "city_name": "Afuá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500347",
+        "city_name": "Água Azul do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500404",
+        "city_name": "Alenquer",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500503",
+        "city_name": "Almeirim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500602",
+        "city_name": "Altamira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500701",
+        "city_name": "Anajás",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500800",
+        "city_name": "Ananindeua",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500859",
+        "city_name": "Anapu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500909",
+        "city_name": "Augusto Corrêa",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1500958",
+        "city_name": "Aurora do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501006",
+        "city_name": "Aveiro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501105",
+        "city_name": "Bagre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501204",
+        "city_name": "Baião",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501253",
+        "city_name": "Bannach",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501303",
+        "city_name": "Barcarena",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501402",
+        "city_name": "Belém",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501451",
+        "city_name": "Belterra",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501501",
+        "city_name": "Benevides",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501576",
+        "city_name": "Bom Jesus do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501600",
+        "city_name": "Bonito",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501709",
+        "city_name": "Bragança",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501725",
+        "city_name": "Brasil Novo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501758",
+        "city_name": "Brejo Grande do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501782",
+        "city_name": "Breu Branco",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501808",
+        "city_name": "Breves",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501907",
+        "city_name": "Bujaru",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502004",
+        "city_name": "Cachoeira do Arari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1501956",
+        "city_name": "Cachoeira do Piriá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502103",
+        "city_name": "Cametá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502152",
+        "city_name": "Canaã dos Carajás",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502202",
+        "city_name": "Capanema",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502301",
+        "city_name": "Capitão Poço",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502400",
+        "city_name": "Castanhal",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502509",
+        "city_name": "Chaves",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502608",
+        "city_name": "Colares",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502707",
+        "city_name": "Conceição do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502756",
+        "city_name": "Concórdia do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502764",
+        "city_name": "Cumaru do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502772",
+        "city_name": "Curionópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502806",
+        "city_name": "Curralinho",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502855",
+        "city_name": "Curuá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502905",
+        "city_name": "Curuçá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502939",
+        "city_name": "Dom Eliseu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1502954",
+        "city_name": "Eldorado do Carajás",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503002",
+        "city_name": "Faro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503044",
+        "city_name": "Floresta do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503077",
+        "city_name": "Garrafão do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503093",
+        "city_name": "Goianésia do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503101",
+        "city_name": "Gurupá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503200",
+        "city_name": "Igarapé-Açu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503309",
+        "city_name": "Igarapé-Miri",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503408",
+        "city_name": "Inhangapi",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503457",
+        "city_name": "Ipixuna do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503507",
+        "city_name": "Irituia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503606",
+        "city_name": "Itaituba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503705",
+        "city_name": "Itupiranga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503754",
+        "city_name": "Jacareacanga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503804",
+        "city_name": "Jacundá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1503903",
+        "city_name": "Juruti",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504000",
+        "city_name": "Limoeiro do Ajuru",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504059",
+        "city_name": "Mãe do Rio",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504109",
+        "city_name": "Magalhães Barata",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504208",
+        "city_name": "Marabá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504307",
+        "city_name": "Maracanã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504406",
+        "city_name": "Marapanim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504422",
+        "city_name": "Marituba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504455",
+        "city_name": "Medicilândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504505",
+        "city_name": "Melgaço",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504604",
+        "city_name": "Mocajuba",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504703",
+        "city_name": "Moju",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504752",
+        "city_name": "Mojuí dos Campos",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504802",
+        "city_name": "Monte Alegre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504901",
+        "city_name": "Muaná",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504950",
+        "city_name": "Nova Esperança do Piriá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1504976",
+        "city_name": "Nova Ipixuna",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505007",
+        "city_name": "Nova Timboteua",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505031",
+        "city_name": "Novo Progresso",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505064",
+        "city_name": "Novo Repartimento",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505106",
+        "city_name": "Óbidos",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505205",
+        "city_name": "Oeiras do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505304",
+        "city_name": "Oriximiná",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505403",
+        "city_name": "Ourém",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505437",
+        "city_name": "Ourilândia do Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505486",
+        "city_name": "Pacajá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505494",
+        "city_name": "Palestina do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505502",
+        "city_name": "Paragominas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505536",
+        "city_name": "Parauapebas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505551",
+        "city_name": "Pau D'Arco",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505601",
+        "city_name": "Peixe-Boi",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505635",
+        "city_name": "Piçarra",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505650",
+        "city_name": "Placas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505700",
+        "city_name": "Ponta de Pedras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505809",
+        "city_name": "Portel",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1505908",
+        "city_name": "Porto de Moz",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506005",
+        "city_name": "Prainha",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506104",
+        "city_name": "Primavera",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506112",
+        "city_name": "Quatipuru",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506138",
+        "city_name": "Redenção",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506161",
+        "city_name": "Rio Maria",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506187",
+        "city_name": "Rondon do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506195",
+        "city_name": "Rurópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506203",
+        "city_name": "Salinópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506302",
+        "city_name": "Salvaterra",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506351",
+        "city_name": "Santa Bárbara do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506401",
+        "city_name": "Santa Cruz do Arari",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506500",
+        "city_name": "Santa Izabel do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506559",
+        "city_name": "Santa Luzia do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506583",
+        "city_name": "Santa Maria das Barreiras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506609",
+        "city_name": "Santa Maria do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506708",
+        "city_name": "Santana do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506807",
+        "city_name": "Santarém",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1506906",
+        "city_name": "Santarém Novo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507003",
+        "city_name": "Santo Antônio do Tauá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507102",
+        "city_name": "São Caetano de Odivelas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507151",
+        "city_name": "São Domingos do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507201",
+        "city_name": "São Domingos do Capim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507300",
+        "city_name": "São Félix do Xingu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507409",
+        "city_name": "São Francisco do Pará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507458",
+        "city_name": "São Geraldo do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507466",
+        "city_name": "São João da Ponta",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507474",
+        "city_name": "São João de Pirabas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507508",
+        "city_name": "São João do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507607",
+        "city_name": "São Miguel do Guamá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507706",
+        "city_name": "São Sebastião da Boa Vista",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507755",
+        "city_name": "Sapucaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507805",
+        "city_name": "Senador José Porfírio",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507904",
+        "city_name": "Soure",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507953",
+        "city_name": "Tailândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507961",
+        "city_name": "Terra Alta",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1507979",
+        "city_name": "Terra Santa",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508001",
+        "city_name": "Tomé-Açu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508035",
+        "city_name": "Tracuateua",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508050",
+        "city_name": "Trairão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508084",
+        "city_name": "Tucumã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508100",
+        "city_name": "Tucuruí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508126",
+        "city_name": "Ulianópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508159",
+        "city_name": "Uruará",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508209",
+        "city_name": "Vigia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508308",
+        "city_name": "Viseu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508357",
+        "city_name": "Vitória do Xingu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    },
+    {
+        "city_code": "1508407",
+        "city_name": "Xinguara",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "PA",
+        "state_code": "15",
+        "state_name": "Pará"
+    }
+]

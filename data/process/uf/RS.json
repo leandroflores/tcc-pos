@@ -1,0 +1,4475 @@
+[
+    {
+        "city_code": "4300034",
+        "city_name": "Aceguá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300059",
+        "city_name": "Água Santa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300109",
+        "city_name": "Agudo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300208",
+        "city_name": "Ajuricaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300307",
+        "city_name": "Alecrim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300406",
+        "city_name": "Alegrete",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300455",
+        "city_name": "Alegria",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300471",
+        "city_name": "Almirante Tamandaré do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300505",
+        "city_name": "Alpestre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300554",
+        "city_name": "Alto Alegre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300570",
+        "city_name": "Alto Feliz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300604",
+        "city_name": "Alvorada",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300638",
+        "city_name": "Amaral Ferrador",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300646",
+        "city_name": "Ametista do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300661",
+        "city_name": "André da Rocha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300703",
+        "city_name": "Anta Gorda",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300802",
+        "city_name": "Antônio Prado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300851",
+        "city_name": "Arambaré",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300877",
+        "city_name": "Araricá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4300901",
+        "city_name": "Aratiba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301008",
+        "city_name": "Arroio do Meio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301073",
+        "city_name": "Arroio do Padre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301057",
+        "city_name": "Arroio do Sal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301206",
+        "city_name": "Arroio do Tigre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301107",
+        "city_name": "Arroio dos Ratos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301305",
+        "city_name": "Arroio Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301404",
+        "city_name": "Arvorezinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301503",
+        "city_name": "Augusto Pestana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301552",
+        "city_name": "Áurea",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301602",
+        "city_name": "Bagé",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301636",
+        "city_name": "Balneário Pinhal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301651",
+        "city_name": "Barão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301701",
+        "city_name": "Barão de Cotegipe",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301750",
+        "city_name": "Barão do Triunfo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301859",
+        "city_name": "Barra do Guarita",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301875",
+        "city_name": "Barra do Quaraí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301909",
+        "city_name": "Barra do Ribeiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301925",
+        "city_name": "Barra do Rio Azul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301958",
+        "city_name": "Barra Funda",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4301800",
+        "city_name": "Barracão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302006",
+        "city_name": "Barros Cassal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302055",
+        "city_name": "Benjamin Constant do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302105",
+        "city_name": "Bento Gonçalves",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302154",
+        "city_name": "Boa Vista das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302204",
+        "city_name": "Boa Vista do Buricá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302220",
+        "city_name": "Boa Vista do Cadeado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302238",
+        "city_name": "Boa Vista do Incra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302253",
+        "city_name": "Boa Vista do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302303",
+        "city_name": "Bom Jesus",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302352",
+        "city_name": "Bom Princípio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302378",
+        "city_name": "Bom Progresso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302402",
+        "city_name": "Bom Retiro do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302451",
+        "city_name": "Boqueirão do Leão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302501",
+        "city_name": "Bossoroca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302584",
+        "city_name": "Bozano",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302600",
+        "city_name": "Braga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302659",
+        "city_name": "Brochier",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302709",
+        "city_name": "Butiá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302808",
+        "city_name": "Caçapava do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4302907",
+        "city_name": "Cacequi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303004",
+        "city_name": "Cachoeira do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303103",
+        "city_name": "Cachoeirinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303202",
+        "city_name": "Cacique Doble",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303301",
+        "city_name": "Caibaté",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303400",
+        "city_name": "Caiçara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303509",
+        "city_name": "Camaquã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303558",
+        "city_name": "Camargo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303608",
+        "city_name": "Cambará do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303673",
+        "city_name": "Campestre da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303707",
+        "city_name": "Campina das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303806",
+        "city_name": "Campinas do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4303905",
+        "city_name": "Campo Bom",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304002",
+        "city_name": "Campo Novo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304101",
+        "city_name": "Campos Borges",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304200",
+        "city_name": "Candelária",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304309",
+        "city_name": "Cândido Godói",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304358",
+        "city_name": "Candiota",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304408",
+        "city_name": "Canela",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304507",
+        "city_name": "Canguçu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304606",
+        "city_name": "Canoas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304614",
+        "city_name": "Canudos do Vale",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304622",
+        "city_name": "Capão Bonito do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304630",
+        "city_name": "Capão da Canoa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304655",
+        "city_name": "Capão do Cipó",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304663",
+        "city_name": "Capão do Leão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304689",
+        "city_name": "Capela de Santana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304697",
+        "city_name": "Capitão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304671",
+        "city_name": "Capivari do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304713",
+        "city_name": "Caraá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304705",
+        "city_name": "Carazinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304804",
+        "city_name": "Carlos Barbosa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304853",
+        "city_name": "Carlos Gomes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304903",
+        "city_name": "Casca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4304952",
+        "city_name": "Caseiros",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305009",
+        "city_name": "Catuípe",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305108",
+        "city_name": "Caxias do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305116",
+        "city_name": "Centenário",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305124",
+        "city_name": "Cerrito",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305132",
+        "city_name": "Cerro Branco",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305157",
+        "city_name": "Cerro Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305173",
+        "city_name": "Cerro Grande do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305207",
+        "city_name": "Cerro Largo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305306",
+        "city_name": "Chapada",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305355",
+        "city_name": "Charqueadas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305371",
+        "city_name": "Charrua",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305405",
+        "city_name": "Chiapetta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305439",
+        "city_name": "Chuí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305447",
+        "city_name": "Chuvisca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305454",
+        "city_name": "Cidreira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305504",
+        "city_name": "Ciríaco",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305587",
+        "city_name": "Colinas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305603",
+        "city_name": "Colorado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305702",
+        "city_name": "Condor",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305801",
+        "city_name": "Constantina",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305835",
+        "city_name": "Coqueiro Baixo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305850",
+        "city_name": "Coqueiros do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305871",
+        "city_name": "Coronel Barros",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305900",
+        "city_name": "Coronel Bicaco",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305934",
+        "city_name": "Coronel Pilar",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305959",
+        "city_name": "Cotiporã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4305975",
+        "city_name": "Coxilha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306007",
+        "city_name": "Crissiumal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306056",
+        "city_name": "Cristal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306072",
+        "city_name": "Cristal do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306106",
+        "city_name": "Cruz Alta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306130",
+        "city_name": "Cruzaltense",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306205",
+        "city_name": "Cruzeiro do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306304",
+        "city_name": "David Canabarro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306320",
+        "city_name": "Derrubadas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306353",
+        "city_name": "Dezesseis de Novembro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306379",
+        "city_name": "Dilermando de Aguiar",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306403",
+        "city_name": "Dois Irmãos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306429",
+        "city_name": "Dois Irmãos das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306452",
+        "city_name": "Dois Lajeados",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306502",
+        "city_name": "Dom Feliciano",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306601",
+        "city_name": "Dom Pedrito",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306551",
+        "city_name": "Dom Pedro de Alcântara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306700",
+        "city_name": "Dona Francisca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306734",
+        "city_name": "Doutor Maurício Cardoso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306759",
+        "city_name": "Doutor Ricardo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306767",
+        "city_name": "Eldorado do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306809",
+        "city_name": "Encantado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306908",
+        "city_name": "Encruzilhada do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306924",
+        "city_name": "Engenho Velho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306957",
+        "city_name": "Entre Rios do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306932",
+        "city_name": "Entre-Ijuís",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4306973",
+        "city_name": "Erebango",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307005",
+        "city_name": "Erechim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307054",
+        "city_name": "Ernestina",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307203",
+        "city_name": "Erval Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307302",
+        "city_name": "Erval Seco",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307401",
+        "city_name": "Esmeralda",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307450",
+        "city_name": "Esperança do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307500",
+        "city_name": "Espumoso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307559",
+        "city_name": "Estação",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307609",
+        "city_name": "Estância Velha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307708",
+        "city_name": "Esteio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307807",
+        "city_name": "Estrela",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307815",
+        "city_name": "Estrela Velha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307831",
+        "city_name": "Eugênio de Castro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307864",
+        "city_name": "Fagundes Varela",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307906",
+        "city_name": "Farroupilha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308003",
+        "city_name": "Faxinal do Soturno",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308052",
+        "city_name": "Faxinalzinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308078",
+        "city_name": "Fazenda Vilanova",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308102",
+        "city_name": "Feliz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308201",
+        "city_name": "Flores da Cunha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308250",
+        "city_name": "Floriano Peixoto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308300",
+        "city_name": "Fontoura Xavier",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308409",
+        "city_name": "Formigueiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308433",
+        "city_name": "Forquetinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308458",
+        "city_name": "Fortaleza dos Valos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308508",
+        "city_name": "Frederico Westphalen",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308607",
+        "city_name": "Garibaldi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308656",
+        "city_name": "Garruchos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308706",
+        "city_name": "Gaurama",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308805",
+        "city_name": "General Câmara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308854",
+        "city_name": "Gentil",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4308904",
+        "city_name": "Getúlio Vargas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309001",
+        "city_name": "Giruá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309050",
+        "city_name": "Glorinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309100",
+        "city_name": "Gramado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309126",
+        "city_name": "Gramado dos Loureiros",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309159",
+        "city_name": "Gramado Xavier",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309209",
+        "city_name": "Gravataí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309258",
+        "city_name": "Guabiju",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309308",
+        "city_name": "Guaíba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309407",
+        "city_name": "Guaporé",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309506",
+        "city_name": "Guarani das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309555",
+        "city_name": "Harmonia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4307104",
+        "city_name": "Herval",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309571",
+        "city_name": "Herveiras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309605",
+        "city_name": "Horizontina",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309654",
+        "city_name": "Hulha Negra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309704",
+        "city_name": "Humaitá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309753",
+        "city_name": "Ibarama",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309803",
+        "city_name": "Ibiaçá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309902",
+        "city_name": "Ibiraiaras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4309951",
+        "city_name": "Ibirapuitã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310009",
+        "city_name": "Ibirubá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310108",
+        "city_name": "Igrejinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310207",
+        "city_name": "Ijuí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310306",
+        "city_name": "Ilópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310330",
+        "city_name": "Imbé",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310363",
+        "city_name": "Imigrante",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310405",
+        "city_name": "Independência",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310413",
+        "city_name": "Inhacorá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310439",
+        "city_name": "Ipê",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310462",
+        "city_name": "Ipiranga do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310504",
+        "city_name": "Iraí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310538",
+        "city_name": "Itaara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310553",
+        "city_name": "Itacurubi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310579",
+        "city_name": "Itapuca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310603",
+        "city_name": "Itaqui",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310652",
+        "city_name": "Itati",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310702",
+        "city_name": "Itatiba do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310751",
+        "city_name": "Ivorá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310801",
+        "city_name": "Ivoti",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310850",
+        "city_name": "Jaboticaba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310876",
+        "city_name": "Jacuizinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4310900",
+        "city_name": "Jacutinga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311007",
+        "city_name": "Jaguarão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311106",
+        "city_name": "Jaguari",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311122",
+        "city_name": "Jaquirana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311130",
+        "city_name": "Jari",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311155",
+        "city_name": "Jóia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311205",
+        "city_name": "Júlio de Castilhos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311239",
+        "city_name": "Lagoa Bonita do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311270",
+        "city_name": "Lagoa dos Três Cantos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311304",
+        "city_name": "Lagoa Vermelha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311254",
+        "city_name": "Lagoão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311403",
+        "city_name": "Lajeado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311429",
+        "city_name": "Lajeado do Bugre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311502",
+        "city_name": "Lavras do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311601",
+        "city_name": "Liberato Salzano",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311627",
+        "city_name": "Lindolfo Collor",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311643",
+        "city_name": "Linha Nova",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311718",
+        "city_name": "Maçambará",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311700",
+        "city_name": "Machadinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311734",
+        "city_name": "Mampituba",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311759",
+        "city_name": "Manoel Viana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311775",
+        "city_name": "Maquiné",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311791",
+        "city_name": "Maratá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311809",
+        "city_name": "Marau",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311908",
+        "city_name": "Marcelino Ramos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4311981",
+        "city_name": "Mariana Pimentel",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312005",
+        "city_name": "Mariano Moro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312054",
+        "city_name": "Marques de Souza",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312104",
+        "city_name": "Mata",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312138",
+        "city_name": "Mato Castelhano",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312153",
+        "city_name": "Mato Leitão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312179",
+        "city_name": "Mato Queimado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312203",
+        "city_name": "Maximiliano de Almeida",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312252",
+        "city_name": "Minas do Leão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312302",
+        "city_name": "Miraguaí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312351",
+        "city_name": "Montauri",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312377",
+        "city_name": "Monte Alegre dos Campos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312385",
+        "city_name": "Monte Belo do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312401",
+        "city_name": "Montenegro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312427",
+        "city_name": "Mormaço",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312443",
+        "city_name": "Morrinhos do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312450",
+        "city_name": "Morro Redondo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312476",
+        "city_name": "Morro Reuter",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312500",
+        "city_name": "Mostardas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312609",
+        "city_name": "Muçum",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312617",
+        "city_name": "Muitos Capões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312625",
+        "city_name": "Muliterno",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312658",
+        "city_name": "Não-Me-Toque",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312674",
+        "city_name": "Nicolau Vergueiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312708",
+        "city_name": "Nonoai",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312757",
+        "city_name": "Nova Alvorada",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312807",
+        "city_name": "Nova Araçá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312906",
+        "city_name": "Nova Bassano",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4312955",
+        "city_name": "Nova Boa Vista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313003",
+        "city_name": "Nova Bréscia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313011",
+        "city_name": "Nova Candelária",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313037",
+        "city_name": "Nova Esperança do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313060",
+        "city_name": "Nova Hartz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313086",
+        "city_name": "Nova Pádua",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313102",
+        "city_name": "Nova Palma",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313201",
+        "city_name": "Nova Petrópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313300",
+        "city_name": "Nova Prata",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313334",
+        "city_name": "Nova Ramada",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313359",
+        "city_name": "Nova Roma do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313375",
+        "city_name": "Nova Santa Rita",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313490",
+        "city_name": "Novo Barreiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313391",
+        "city_name": "Novo Cabrais",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313409",
+        "city_name": "Novo Hamburgo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313425",
+        "city_name": "Novo Machado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313441",
+        "city_name": "Novo Tiradentes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313466",
+        "city_name": "Novo Xingu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313508",
+        "city_name": "Osório",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313607",
+        "city_name": "Paim Filho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313656",
+        "city_name": "Palmares do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313706",
+        "city_name": "Palmeira das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313805",
+        "city_name": "Palmitinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313904",
+        "city_name": "Panambi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4313953",
+        "city_name": "Pantano Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314001",
+        "city_name": "Paraí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314027",
+        "city_name": "Paraíso do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314035",
+        "city_name": "Pareci Novo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314050",
+        "city_name": "Parobé",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314068",
+        "city_name": "Passa Sete",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314076",
+        "city_name": "Passo do Sobrado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314100",
+        "city_name": "Passo Fundo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314134",
+        "city_name": "Paulo Bento",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314159",
+        "city_name": "Paverama",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314175",
+        "city_name": "Pedras Altas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314209",
+        "city_name": "Pedro Osório",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314308",
+        "city_name": "Pejuçara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314407",
+        "city_name": "Pelotas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314423",
+        "city_name": "Picada Café",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314456",
+        "city_name": "Pinhal",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314464",
+        "city_name": "Pinhal da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314472",
+        "city_name": "Pinhal Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314498",
+        "city_name": "Pinheirinho do Vale",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314506",
+        "city_name": "Pinheiro Machado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314548",
+        "city_name": "Pinto Bandeira",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314555",
+        "city_name": "Pirapó",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314605",
+        "city_name": "Piratini",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314704",
+        "city_name": "Planalto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314753",
+        "city_name": "Poço das Antas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314779",
+        "city_name": "Pontão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314787",
+        "city_name": "Ponte Preta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314803",
+        "city_name": "Portão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4314902",
+        "city_name": "Porto Alegre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315008",
+        "city_name": "Porto Lucena",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315057",
+        "city_name": "Porto Mauá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315073",
+        "city_name": "Porto Vera Cruz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315107",
+        "city_name": "Porto Xavier",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315131",
+        "city_name": "Pouso Novo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315149",
+        "city_name": "Presidente Lucena",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315156",
+        "city_name": "Progresso",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315172",
+        "city_name": "Protásio Alves",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315206",
+        "city_name": "Putinga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315305",
+        "city_name": "Quaraí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315313",
+        "city_name": "Quatro Irmãos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315321",
+        "city_name": "Quevedos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315354",
+        "city_name": "Quinze de Novembro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315404",
+        "city_name": "Redentora",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315453",
+        "city_name": "Relvado",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315503",
+        "city_name": "Restinga Sêca",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315552",
+        "city_name": "Rio dos Índios",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315602",
+        "city_name": "Rio Grande",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315701",
+        "city_name": "Rio Pardo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315750",
+        "city_name": "Riozinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315800",
+        "city_name": "Roca Sales",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315909",
+        "city_name": "Rodeio Bonito",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4315958",
+        "city_name": "Rolador",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316006",
+        "city_name": "Rolante",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316105",
+        "city_name": "Ronda Alta",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316204",
+        "city_name": "Rondinha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316303",
+        "city_name": "Roque Gonzales",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316402",
+        "city_name": "Rosário do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316428",
+        "city_name": "Sagrada Família",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316436",
+        "city_name": "Saldanha Marinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316451",
+        "city_name": "Salto do Jacuí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316477",
+        "city_name": "Salvador das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316501",
+        "city_name": "Salvador do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316600",
+        "city_name": "Sananduva",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316709",
+        "city_name": "Santa Bárbara do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316733",
+        "city_name": "Santa Cecília do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316758",
+        "city_name": "Santa Clara do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316808",
+        "city_name": "Santa Cruz do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316972",
+        "city_name": "Santa Margarida do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316907",
+        "city_name": "Santa Maria",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4316956",
+        "city_name": "Santa Maria do Herval",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317202",
+        "city_name": "Santa Rosa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317251",
+        "city_name": "Santa Tereza",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317301",
+        "city_name": "Santa Vitória do Palmar",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317004",
+        "city_name": "Santana da Boa Vista",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317103",
+        "city_name": "Sant'Ana do Livramento",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317400",
+        "city_name": "Santiago",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317509",
+        "city_name": "Santo Ângelo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317608",
+        "city_name": "Santo Antônio da Patrulha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317707",
+        "city_name": "Santo Antônio das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317558",
+        "city_name": "Santo Antônio do Palma",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317756",
+        "city_name": "Santo Antônio do Planalto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317806",
+        "city_name": "Santo Augusto",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317905",
+        "city_name": "Santo Cristo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4317954",
+        "city_name": "Santo Expedito do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318002",
+        "city_name": "São Borja",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318051",
+        "city_name": "São Domingos do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318101",
+        "city_name": "São Francisco de Assis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318200",
+        "city_name": "São Francisco de Paula",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318309",
+        "city_name": "São Gabriel",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318408",
+        "city_name": "São Jerônimo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318424",
+        "city_name": "São João da Urtiga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318432",
+        "city_name": "São João do Polêsine",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318440",
+        "city_name": "São Jorge",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318457",
+        "city_name": "São José das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318465",
+        "city_name": "São José do Herval",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318481",
+        "city_name": "São José do Hortêncio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318499",
+        "city_name": "São José do Inhacorá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318507",
+        "city_name": "São José do Norte",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318606",
+        "city_name": "São José do Ouro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318614",
+        "city_name": "São José do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318622",
+        "city_name": "São José dos Ausentes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318705",
+        "city_name": "São Leopoldo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318804",
+        "city_name": "São Lourenço do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4318903",
+        "city_name": "São Luiz Gonzaga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319000",
+        "city_name": "São Marcos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319109",
+        "city_name": "São Martinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319125",
+        "city_name": "São Martinho da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319158",
+        "city_name": "São Miguel das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319208",
+        "city_name": "São Nicolau",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319307",
+        "city_name": "São Paulo das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319356",
+        "city_name": "São Pedro da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319364",
+        "city_name": "São Pedro das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319372",
+        "city_name": "São Pedro do Butiá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319406",
+        "city_name": "São Pedro do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319505",
+        "city_name": "São Sebastião do Caí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319604",
+        "city_name": "São Sepé",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319703",
+        "city_name": "São Valentim",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319711",
+        "city_name": "São Valentim do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319737",
+        "city_name": "São Valério do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319752",
+        "city_name": "São Vendelino",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319802",
+        "city_name": "São Vicente do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4319901",
+        "city_name": "Sapiranga",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320008",
+        "city_name": "Sapucaia do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320107",
+        "city_name": "Sarandi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320206",
+        "city_name": "Seberi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320230",
+        "city_name": "Sede Nova",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320263",
+        "city_name": "Segredo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320305",
+        "city_name": "Selbach",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320321",
+        "city_name": "Senador Salgado Filho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320354",
+        "city_name": "Sentinela do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320404",
+        "city_name": "Serafina Corrêa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320453",
+        "city_name": "Sério",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320503",
+        "city_name": "Sertão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320552",
+        "city_name": "Sertão Santana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320578",
+        "city_name": "Sete de Setembro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320602",
+        "city_name": "Severiano de Almeida",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320651",
+        "city_name": "Silveira Martins",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320677",
+        "city_name": "Sinimbu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320701",
+        "city_name": "Sobradinho",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320800",
+        "city_name": "Soledade",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320859",
+        "city_name": "Tabaí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4320909",
+        "city_name": "Tapejara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321006",
+        "city_name": "Tapera",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321105",
+        "city_name": "Tapes",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321204",
+        "city_name": "Taquara",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321303",
+        "city_name": "Taquari",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321329",
+        "city_name": "Taquaruçu do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321352",
+        "city_name": "Tavares",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321402",
+        "city_name": "Tenente Portela",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321436",
+        "city_name": "Terra de Areia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321451",
+        "city_name": "Teutônia",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321469",
+        "city_name": "Tio Hugo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321477",
+        "city_name": "Tiradentes do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321493",
+        "city_name": "Toropi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321501",
+        "city_name": "Torres",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321600",
+        "city_name": "Tramandaí",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321626",
+        "city_name": "Travesseiro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321634",
+        "city_name": "Três Arroios",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321667",
+        "city_name": "Três Cachoeiras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321709",
+        "city_name": "Três Coroas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321808",
+        "city_name": "Três de Maio",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321832",
+        "city_name": "Três Forquilhas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321857",
+        "city_name": "Três Palmeiras",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321907",
+        "city_name": "Três Passos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4321956",
+        "city_name": "Trindade do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322004",
+        "city_name": "Triunfo",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322103",
+        "city_name": "Tucunduva",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322152",
+        "city_name": "Tunas",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322186",
+        "city_name": "Tupanci do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322202",
+        "city_name": "Tupanciretã",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322251",
+        "city_name": "Tupandi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322301",
+        "city_name": "Tuparendi",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322327",
+        "city_name": "Turuçu",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322343",
+        "city_name": "Ubiretama",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322350",
+        "city_name": "União da Serra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322376",
+        "city_name": "Unistalda",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322400",
+        "city_name": "Uruguaiana",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322509",
+        "city_name": "Vacaria",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322533",
+        "city_name": "Vale do Sol",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322541",
+        "city_name": "Vale Real",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322525",
+        "city_name": "Vale Verde",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322558",
+        "city_name": "Vanini",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322608",
+        "city_name": "Venâncio Aires",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322707",
+        "city_name": "Vera Cruz",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322806",
+        "city_name": "Veranópolis",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322855",
+        "city_name": "Vespasiano Corrêa",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4322905",
+        "city_name": "Viadutos",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323002",
+        "city_name": "Viamão",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323101",
+        "city_name": "Vicente Dutra",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323200",
+        "city_name": "Victor Graeff",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323309",
+        "city_name": "Vila Flores",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323358",
+        "city_name": "Vila Lângaro",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323408",
+        "city_name": "Vila Maria",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323457",
+        "city_name": "Vila Nova do Sul",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323507",
+        "city_name": "Vista Alegre",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323606",
+        "city_name": "Vista Alegre do Prata",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323705",
+        "city_name": "Vista Gaúcha",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323754",
+        "city_name": "Vitória das Missões",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323770",
+        "city_name": "Westfália",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    },
+    {
+        "city_code": "4323804",
+        "city_name": "Xangri-lá",
+        "region_code": "4",
+        "region_name": "Sul",
+        "state_abbr": "RS",
+        "state_code": "43",
+        "state_name": "Rio Grande do Sul"
+    }
+]

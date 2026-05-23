@@ -1,0 +1,1253 @@
+[
+    {
+        "city_code": "1700251",
+        "city_name": "Abreulândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1700301",
+        "city_name": "Aguiarnópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1700350",
+        "city_name": "Aliança do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1700400",
+        "city_name": "Almas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1700707",
+        "city_name": "Alvorada",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1701002",
+        "city_name": "Ananás",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1701051",
+        "city_name": "Angico",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1701101",
+        "city_name": "Aparecida do Rio Negro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1701309",
+        "city_name": "Aragominas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1701903",
+        "city_name": "Araguacema",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702000",
+        "city_name": "Araguaçu",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702109",
+        "city_name": "Araguaína",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702158",
+        "city_name": "Araguanã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702208",
+        "city_name": "Araguatins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702307",
+        "city_name": "Arapoema",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702406",
+        "city_name": "Arraias",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702554",
+        "city_name": "Augustinópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702703",
+        "city_name": "Aurora do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1702901",
+        "city_name": "Axixá do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703008",
+        "city_name": "Babaçulândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703057",
+        "city_name": "Bandeirantes do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703073",
+        "city_name": "Barra do Ouro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703107",
+        "city_name": "Barrolândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703206",
+        "city_name": "Bernardo Sayão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703305",
+        "city_name": "Bom Jesus do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703602",
+        "city_name": "Brasilândia do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703701",
+        "city_name": "Brejinho de Nazaré",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703800",
+        "city_name": "Buriti do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703826",
+        "city_name": "Cachoeirinha",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703842",
+        "city_name": "Campos Lindos",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703867",
+        "city_name": "Cariri do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703883",
+        "city_name": "Carmolândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703891",
+        "city_name": "Carrasco Bonito",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1703909",
+        "city_name": "Caseara",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1704105",
+        "city_name": "Centenário",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1705102",
+        "city_name": "Chapada da Natividade",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1704600",
+        "city_name": "Chapada de Areia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1705508",
+        "city_name": "Colinas do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716703",
+        "city_name": "Colméia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1705557",
+        "city_name": "Combinado",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1705607",
+        "city_name": "Conceição do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1706001",
+        "city_name": "Couto Magalhães",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1706100",
+        "city_name": "Cristalândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1706258",
+        "city_name": "Crixás do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1706506",
+        "city_name": "Darcinópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707009",
+        "city_name": "Dianópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707108",
+        "city_name": "Divinópolis do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707207",
+        "city_name": "Dois Irmãos do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707306",
+        "city_name": "Dueré",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707405",
+        "city_name": "Esperantina",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707553",
+        "city_name": "Fátima",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707652",
+        "city_name": "Figueirópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1707702",
+        "city_name": "Filadélfia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1708205",
+        "city_name": "Formoso do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1708304",
+        "city_name": "Goianorte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1709005",
+        "city_name": "Goiatins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1709302",
+        "city_name": "Guaraí",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1709500",
+        "city_name": "Gurupi",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1709807",
+        "city_name": "Ipueiras",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1710508",
+        "city_name": "Itacajá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1710706",
+        "city_name": "Itaguatins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1710904",
+        "city_name": "Itapiratins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1711100",
+        "city_name": "Itaporã do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1711506",
+        "city_name": "Jaú do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1711803",
+        "city_name": "Juarina",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1711902",
+        "city_name": "Lagoa da Confusão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1711951",
+        "city_name": "Lagoa do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712009",
+        "city_name": "Lajeado",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712157",
+        "city_name": "Lavandeira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712405",
+        "city_name": "Lizarda",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712454",
+        "city_name": "Luzinópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712504",
+        "city_name": "Marianópolis do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712702",
+        "city_name": "Mateiros",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1712801",
+        "city_name": "Maurilândia do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713205",
+        "city_name": "Miracema do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713304",
+        "city_name": "Miranorte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713601",
+        "city_name": "Monte do Carmo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713700",
+        "city_name": "Monte Santo do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713957",
+        "city_name": "Muricilândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1714203",
+        "city_name": "Natividade",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1714302",
+        "city_name": "Nazaré",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1714880",
+        "city_name": "Nova Olinda",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715002",
+        "city_name": "Nova Rosalândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715101",
+        "city_name": "Novo Acordo",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715150",
+        "city_name": "Novo Alegre",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715259",
+        "city_name": "Novo Jardim",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715507",
+        "city_name": "Oliveira de Fátima",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1721000",
+        "city_name": "Palmas",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715705",
+        "city_name": "Palmeirante",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1713809",
+        "city_name": "Palmeiras do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1715754",
+        "city_name": "Palmeirópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716109",
+        "city_name": "Paraíso do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716208",
+        "city_name": "Paranã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716307",
+        "city_name": "Pau D'Arco",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716505",
+        "city_name": "Pedro Afonso",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716604",
+        "city_name": "Peixe",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1716653",
+        "city_name": "Pequizeiro",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1717008",
+        "city_name": "Pindorama do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1717206",
+        "city_name": "Piraquê",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1717503",
+        "city_name": "Pium",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1717800",
+        "city_name": "Ponte Alta do Bom Jesus",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1717909",
+        "city_name": "Ponte Alta do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718006",
+        "city_name": "Porto Alegre do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718204",
+        "city_name": "Porto Nacional",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718303",
+        "city_name": "Praia Norte",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718402",
+        "city_name": "Presidente Kennedy",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718451",
+        "city_name": "Pugmil",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718501",
+        "city_name": "Recursolândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718550",
+        "city_name": "Riachinho",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718659",
+        "city_name": "Rio da Conceição",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718709",
+        "city_name": "Rio dos Bois",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718758",
+        "city_name": "Rio Sono",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718808",
+        "city_name": "Sampaio",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718840",
+        "city_name": "Sandolândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718865",
+        "city_name": "Santa Fé do Araguaia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718881",
+        "city_name": "Santa Maria do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718899",
+        "city_name": "Santa Rita do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1718907",
+        "city_name": "Santa Rosa do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1719004",
+        "city_name": "Santa Tereza do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720002",
+        "city_name": "Santa Terezinha do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720101",
+        "city_name": "São Bento do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720150",
+        "city_name": "São Félix do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720200",
+        "city_name": "São Miguel do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720259",
+        "city_name": "São Salvador do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720309",
+        "city_name": "São Sebastião do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720499",
+        "city_name": "São Valério",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720655",
+        "city_name": "Silvanópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720804",
+        "city_name": "Sítio Novo do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720853",
+        "city_name": "Sucupira",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1708254",
+        "city_name": "Tabocão",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720903",
+        "city_name": "Taguatinga",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720937",
+        "city_name": "Taipas do Tocantins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1720978",
+        "city_name": "Talismã",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1721109",
+        "city_name": "Tocantínia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1721208",
+        "city_name": "Tocantinópolis",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1721257",
+        "city_name": "Tupirama",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1721307",
+        "city_name": "Tupiratins",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1722081",
+        "city_name": "Wanderlândia",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    },
+    {
+        "city_code": "1722107",
+        "city_name": "Xambioá",
+        "region_code": "1",
+        "region_name": "Norte",
+        "state_abbr": "TO",
+        "state_code": "17",
+        "state_name": "Tocantins"
+    }
+]

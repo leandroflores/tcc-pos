@@ -1,0 +1,1280 @@
+[
+    {
+        "city_code": "5100102",
+        "city_name": "Acorizal",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100201",
+        "city_name": "Água Boa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100250",
+        "city_name": "Alta Floresta",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100300",
+        "city_name": "Alto Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100359",
+        "city_name": "Alto Boa Vista",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100409",
+        "city_name": "Alto Garças",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100508",
+        "city_name": "Alto Paraguai",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100607",
+        "city_name": "Alto Taquari",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5100805",
+        "city_name": "Apiacás",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101001",
+        "city_name": "Araguaiana",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101209",
+        "city_name": "Araguainha",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101258",
+        "city_name": "Araputanga",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101308",
+        "city_name": "Arenápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101407",
+        "city_name": "Aripuanã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101605",
+        "city_name": "Barão de Melgaço",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101704",
+        "city_name": "Barra do Bugres",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101803",
+        "city_name": "Barra do Garças",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101837",
+        "city_name": "Boa Esperança do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101852",
+        "city_name": "Bom Jesus do Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5101902",
+        "city_name": "Brasnorte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102504",
+        "city_name": "Cáceres",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102603",
+        "city_name": "Campinápolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102637",
+        "city_name": "Campo Novo do Parecis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102678",
+        "city_name": "Campo Verde",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102686",
+        "city_name": "Campos de Júlio",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102694",
+        "city_name": "Canabrava do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102702",
+        "city_name": "Canarana",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102793",
+        "city_name": "Carlinda",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5102850",
+        "city_name": "Castanheira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103007",
+        "city_name": "Chapada dos Guimarães",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103056",
+        "city_name": "Cláudia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103106",
+        "city_name": "Cocalinho",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103205",
+        "city_name": "Colíder",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103254",
+        "city_name": "Colniza",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103304",
+        "city_name": "Comodoro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103353",
+        "city_name": "Confresa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103361",
+        "city_name": "Conquista D'Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103379",
+        "city_name": "Cotriguaçu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103403",
+        "city_name": "Cuiabá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103437",
+        "city_name": "Curvelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103452",
+        "city_name": "Denise",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103502",
+        "city_name": "Diamantino",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103601",
+        "city_name": "Dom Aquino",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103700",
+        "city_name": "Feliz Natal",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103809",
+        "city_name": "Figueirópolis D'Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103858",
+        "city_name": "Gaúcha do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103908",
+        "city_name": "General Carneiro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5103957",
+        "city_name": "Glória D'Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104104",
+        "city_name": "Guarantã do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104203",
+        "city_name": "Guiratinga",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104500",
+        "city_name": "Indiavaí",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104526",
+        "city_name": "Ipiranga do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104542",
+        "city_name": "Itanhangá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104559",
+        "city_name": "Itaúba",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104609",
+        "city_name": "Itiquira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104807",
+        "city_name": "Jaciara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5104906",
+        "city_name": "Jangada",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105002",
+        "city_name": "Jauru",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105101",
+        "city_name": "Juara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105150",
+        "city_name": "Juína",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105176",
+        "city_name": "Juruena",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105200",
+        "city_name": "Juscimeira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105234",
+        "city_name": "Lambari D'Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105259",
+        "city_name": "Lucas do Rio Verde",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105309",
+        "city_name": "Luciara",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105580",
+        "city_name": "Marcelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105606",
+        "city_name": "Matupá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105622",
+        "city_name": "Mirassol d'Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105903",
+        "city_name": "Nobres",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106000",
+        "city_name": "Nortelândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106109",
+        "city_name": "Nossa Senhora do Livramento",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106158",
+        "city_name": "Nova Bandeirantes",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106208",
+        "city_name": "Nova Brasilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106216",
+        "city_name": "Nova Canaã do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108808",
+        "city_name": "Nova Guarita",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106182",
+        "city_name": "Nova Lacerda",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108857",
+        "city_name": "Nova Marilândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108907",
+        "city_name": "Nova Maringá",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108956",
+        "city_name": "Nova Monte Verde",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106224",
+        "city_name": "Nova Mutum",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106174",
+        "city_name": "Nova Nazaré",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106232",
+        "city_name": "Nova Olímpia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106190",
+        "city_name": "Nova Santa Helena",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106240",
+        "city_name": "Nova Ubiratã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106257",
+        "city_name": "Nova Xavantina",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106273",
+        "city_name": "Novo Horizonte do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106265",
+        "city_name": "Novo Mundo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106315",
+        "city_name": "Novo Santo Antônio",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106281",
+        "city_name": "Novo São Joaquim",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106299",
+        "city_name": "Paranaíta",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106307",
+        "city_name": "Paranatinga",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106372",
+        "city_name": "Pedra Preta",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106422",
+        "city_name": "Peixoto de Azevedo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106455",
+        "city_name": "Planalto da Serra",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106505",
+        "city_name": "Poconé",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106653",
+        "city_name": "Pontal do Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106703",
+        "city_name": "Ponte Branca",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106752",
+        "city_name": "Pontes e Lacerda",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106778",
+        "city_name": "Porto Alegre do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106802",
+        "city_name": "Porto dos Gaúchos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106828",
+        "city_name": "Porto Esperidião",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5106851",
+        "city_name": "Porto Estrela",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107008",
+        "city_name": "Poxoréu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107040",
+        "city_name": "Primavera do Leste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107065",
+        "city_name": "Querência",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107156",
+        "city_name": "Reserva do Cabaçal",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107180",
+        "city_name": "Ribeirão Cascalheira",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107198",
+        "city_name": "Ribeirãozinho",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107206",
+        "city_name": "Rio Branco",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107578",
+        "city_name": "Rondolândia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107602",
+        "city_name": "Rondonópolis",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107701",
+        "city_name": "Rosário Oeste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107750",
+        "city_name": "Salto do Céu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107248",
+        "city_name": "Santa Carmem",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107743",
+        "city_name": "Santa Cruz do Xingu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107768",
+        "city_name": "Santa Rita do Trivelato",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107776",
+        "city_name": "Santa Terezinha",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107263",
+        "city_name": "Santo Afonso",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107800",
+        "city_name": "Santo Antônio de Leverger",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107792",
+        "city_name": "Santo Antônio do Leste",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107859",
+        "city_name": "São Félix do Araguaia",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107297",
+        "city_name": "São José do Povo",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107305",
+        "city_name": "São José do Rio Claro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107354",
+        "city_name": "São José do Xingu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107107",
+        "city_name": "São José dos Quatro Marcos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107404",
+        "city_name": "São Pedro da Cipa",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107875",
+        "city_name": "Sapezal",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107883",
+        "city_name": "Serra Nova Dourada",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107909",
+        "city_name": "Sinop",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107925",
+        "city_name": "Sorriso",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107941",
+        "city_name": "Tabaporã",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5107958",
+        "city_name": "Tangará da Serra",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108006",
+        "city_name": "Tapurah",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108055",
+        "city_name": "Terra Nova do Norte",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108105",
+        "city_name": "Tesouro",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108204",
+        "city_name": "Torixoréu",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108303",
+        "city_name": "União do Sul",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108352",
+        "city_name": "Vale de São Domingos",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108402",
+        "city_name": "Várzea Grande",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108501",
+        "city_name": "Vera",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5105507",
+        "city_name": "Vila Bela da Santíssima Trindade",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    },
+    {
+        "city_code": "5108600",
+        "city_name": "Vila Rica",
+        "region_code": "5",
+        "region_name": "Centro-Oeste",
+        "state_abbr": "MT",
+        "state_code": "51",
+        "state_name": "Mato Grosso"
+    }
+]

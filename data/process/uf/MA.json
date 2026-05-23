@@ -1,0 +1,1955 @@
+[
+    {
+        "city_code": "2100055",
+        "city_name": "Açailândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100105",
+        "city_name": "Afonso Cunha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100154",
+        "city_name": "Água Doce do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100204",
+        "city_name": "Alcântara",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100303",
+        "city_name": "Aldeias Altas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100402",
+        "city_name": "Altamira do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100436",
+        "city_name": "Alto Alegre do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100477",
+        "city_name": "Alto Alegre do Pindaré",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100501",
+        "city_name": "Alto Parnaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100550",
+        "city_name": "Amapá do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100600",
+        "city_name": "Amarante do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100709",
+        "city_name": "Anajatuba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100808",
+        "city_name": "Anapurus",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100832",
+        "city_name": "Apicum-Açu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100873",
+        "city_name": "Araguanã",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100907",
+        "city_name": "Araioses",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2100956",
+        "city_name": "Arame",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101004",
+        "city_name": "Arari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101103",
+        "city_name": "Axixá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101202",
+        "city_name": "Bacabal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101251",
+        "city_name": "Bacabeira",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101301",
+        "city_name": "Bacuri",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101350",
+        "city_name": "Bacurituba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101400",
+        "city_name": "Balsas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101509",
+        "city_name": "Barão de Grajaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101608",
+        "city_name": "Barra do Corda",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101707",
+        "city_name": "Barreirinhas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101772",
+        "city_name": "Bela Vista do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101731",
+        "city_name": "Belágua",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101806",
+        "city_name": "Benedito Leite",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101905",
+        "city_name": "Bequimão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101939",
+        "city_name": "Bernardo do Mearim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2101970",
+        "city_name": "Boa Vista do Gurupi",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102002",
+        "city_name": "Bom Jardim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102036",
+        "city_name": "Bom Jesus das Selvas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102077",
+        "city_name": "Bom Lugar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102101",
+        "city_name": "Brejo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102150",
+        "city_name": "Brejo de Areia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102200",
+        "city_name": "Buriti",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102309",
+        "city_name": "Buriti Bravo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102325",
+        "city_name": "Buriticupu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102358",
+        "city_name": "Buritirana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102374",
+        "city_name": "Cachoeira Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102408",
+        "city_name": "Cajapió",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102507",
+        "city_name": "Cajari",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102556",
+        "city_name": "Campestre do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102606",
+        "city_name": "Cândido Mendes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102705",
+        "city_name": "Cantanhede",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102754",
+        "city_name": "Capinzal do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102804",
+        "city_name": "Carolina",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2102903",
+        "city_name": "Carutapera",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103000",
+        "city_name": "Caxias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103109",
+        "city_name": "Cedral",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103125",
+        "city_name": "Central do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103158",
+        "city_name": "Centro do Guilherme",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103174",
+        "city_name": "Centro Novo do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103208",
+        "city_name": "Chapadinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103257",
+        "city_name": "Cidelândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103307",
+        "city_name": "Codó",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103406",
+        "city_name": "Coelho Neto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103505",
+        "city_name": "Colinas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103554",
+        "city_name": "Conceição do Lago-Açu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103604",
+        "city_name": "Coroatá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103703",
+        "city_name": "Cururupu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103752",
+        "city_name": "Davinópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103802",
+        "city_name": "Dom Pedro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2103901",
+        "city_name": "Duque Bacelar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104008",
+        "city_name": "Esperantinópolis",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104057",
+        "city_name": "Estreito",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104073",
+        "city_name": "Feira Nova do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104081",
+        "city_name": "Fernando Falcão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104099",
+        "city_name": "Formosa da Serra Negra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104107",
+        "city_name": "Fortaleza dos Nogueiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104206",
+        "city_name": "Fortuna",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104305",
+        "city_name": "Godofredo Viana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104404",
+        "city_name": "Gonçalves Dias",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104503",
+        "city_name": "Governador Archer",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104552",
+        "city_name": "Governador Edison Lobão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104602",
+        "city_name": "Governador Eugênio Barros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104628",
+        "city_name": "Governador Luiz Rocha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104651",
+        "city_name": "Governador Newton Bello",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104677",
+        "city_name": "Governador Nunes Freire",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104701",
+        "city_name": "Graça Aranha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104800",
+        "city_name": "Grajaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2104909",
+        "city_name": "Guimarães",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105005",
+        "city_name": "Humberto de Campos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105104",
+        "city_name": "Icatu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105153",
+        "city_name": "Igarapé do Meio",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105203",
+        "city_name": "Igarapé Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105302",
+        "city_name": "Imperatriz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105351",
+        "city_name": "Itaipava do Grajaú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105401",
+        "city_name": "Itapecuru Mirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105427",
+        "city_name": "Itinga do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105450",
+        "city_name": "Jatobá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105476",
+        "city_name": "Jenipapo dos Vieiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105500",
+        "city_name": "João Lisboa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105609",
+        "city_name": "Joselândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105658",
+        "city_name": "Junco do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105708",
+        "city_name": "Lago da Pedra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105807",
+        "city_name": "Lago do Junco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105948",
+        "city_name": "Lago dos Rodrigues",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105906",
+        "city_name": "Lago Verde",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105922",
+        "city_name": "Lagoa do Mato",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105963",
+        "city_name": "Lagoa Grande do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2105989",
+        "city_name": "Lajeado Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106003",
+        "city_name": "Lima Campos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106102",
+        "city_name": "Loreto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106201",
+        "city_name": "Luís Domingues",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106300",
+        "city_name": "Magalhães de Almeida",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106326",
+        "city_name": "Maracaçumé",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106359",
+        "city_name": "Marajá do Sena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106375",
+        "city_name": "Maranhãozinho",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106409",
+        "city_name": "Mata Roma",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106508",
+        "city_name": "Matinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106607",
+        "city_name": "Matões",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106631",
+        "city_name": "Matões do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106672",
+        "city_name": "Milagres do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106706",
+        "city_name": "Mirador",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106755",
+        "city_name": "Miranda do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106805",
+        "city_name": "Mirinzal",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2106904",
+        "city_name": "Monção",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107001",
+        "city_name": "Montes Altos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107100",
+        "city_name": "Morros",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107209",
+        "city_name": "Nina Rodrigues",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107258",
+        "city_name": "Nova Colinas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107308",
+        "city_name": "Nova Iorque",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107357",
+        "city_name": "Nova Olinda do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107407",
+        "city_name": "Olho d'Água das Cunhãs",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107456",
+        "city_name": "Olinda Nova do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107506",
+        "city_name": "Paço do Lumiar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107605",
+        "city_name": "Palmeirândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107704",
+        "city_name": "Paraibano",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107803",
+        "city_name": "Parnarama",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2107902",
+        "city_name": "Passagem Franca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108009",
+        "city_name": "Pastos Bons",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108058",
+        "city_name": "Paulino Neves",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108108",
+        "city_name": "Paulo Ramos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108207",
+        "city_name": "Pedreiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108256",
+        "city_name": "Pedro do Rosário",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108306",
+        "city_name": "Penalva",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108405",
+        "city_name": "Peri Mirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108454",
+        "city_name": "Peritoró",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108504",
+        "city_name": "Pindaré-Mirim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108603",
+        "city_name": "Pinheiro",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108702",
+        "city_name": "Pio XII",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108801",
+        "city_name": "Pirapemas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2108900",
+        "city_name": "Poção de Pedras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109007",
+        "city_name": "Porto Franco",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109056",
+        "city_name": "Porto Rico do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109106",
+        "city_name": "Presidente Dutra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109205",
+        "city_name": "Presidente Juscelino",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109239",
+        "city_name": "Presidente Médici",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109270",
+        "city_name": "Presidente Sarney",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109304",
+        "city_name": "Presidente Vargas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109403",
+        "city_name": "Primeira Cruz",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109452",
+        "city_name": "Raposa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109502",
+        "city_name": "Riachão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109551",
+        "city_name": "Ribamar Fiquene",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109601",
+        "city_name": "Rosário",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109700",
+        "city_name": "Sambaíba",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109759",
+        "city_name": "Santa Filomena do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109809",
+        "city_name": "Santa Helena",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2109908",
+        "city_name": "Santa Inês",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110005",
+        "city_name": "Santa Luzia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110039",
+        "city_name": "Santa Luzia do Paruá",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110104",
+        "city_name": "Santa Quitéria do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110203",
+        "city_name": "Santa Rita",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110237",
+        "city_name": "Santana do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110278",
+        "city_name": "Santo Amaro do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110302",
+        "city_name": "Santo Antônio dos Lopes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110401",
+        "city_name": "São Benedito do Rio Preto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110500",
+        "city_name": "São Bento",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110609",
+        "city_name": "São Bernardo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110658",
+        "city_name": "São Domingos do Azeitão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110708",
+        "city_name": "São Domingos do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110807",
+        "city_name": "São Félix de Balsas",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110856",
+        "city_name": "São Francisco do Brejão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2110906",
+        "city_name": "São Francisco do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111003",
+        "city_name": "São João Batista",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111029",
+        "city_name": "São João do Carú",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111052",
+        "city_name": "São João do Paraíso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111078",
+        "city_name": "São João do Soter",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111102",
+        "city_name": "São João dos Patos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111201",
+        "city_name": "São José de Ribamar",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111250",
+        "city_name": "São José dos Basílios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111300",
+        "city_name": "São Luís",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111409",
+        "city_name": "São Luís Gonzaga do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111508",
+        "city_name": "São Mateus do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111532",
+        "city_name": "São Pedro da Água Branca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111573",
+        "city_name": "São Pedro dos Crentes",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111607",
+        "city_name": "São Raimundo das Mangabeiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111631",
+        "city_name": "São Raimundo do Doca Bezerra",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111672",
+        "city_name": "São Roberto",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111706",
+        "city_name": "São Vicente Ferrer",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111722",
+        "city_name": "Satubinha",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111748",
+        "city_name": "Senador Alexandre Costa",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111763",
+        "city_name": "Senador La Rocque",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111789",
+        "city_name": "Serrano do Maranhão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111805",
+        "city_name": "Sítio Novo",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111904",
+        "city_name": "Sucupira do Norte",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2111953",
+        "city_name": "Sucupira do Riachão",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112001",
+        "city_name": "Tasso Fragoso",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112100",
+        "city_name": "Timbiras",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112209",
+        "city_name": "Timon",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112233",
+        "city_name": "Trizidela do Vale",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112274",
+        "city_name": "Tufilândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112308",
+        "city_name": "Tuntum",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112407",
+        "city_name": "Turiaçu",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112456",
+        "city_name": "Turilândia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112506",
+        "city_name": "Tutóia",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112605",
+        "city_name": "Urbano Santos",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112704",
+        "city_name": "Vargem Grande",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112803",
+        "city_name": "Viana",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112852",
+        "city_name": "Vila Nova dos Martírios",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2112902",
+        "city_name": "Vitória do Mearim",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2113009",
+        "city_name": "Vitorino Freire",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    },
+    {
+        "city_code": "2114007",
+        "city_name": "Zé Doca",
+        "region_code": "2",
+        "region_name": "Nordeste",
+        "state_abbr": "MA",
+        "state_code": "21",
+        "state_name": "Maranhão"
+    }
+]
