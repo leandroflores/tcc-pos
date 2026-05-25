@@ -1,0 +1,2292 @@
+{
+    "6327492": {
+        "city_code": "6327492",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 96.0,
+        "simple_portuguese_average": 285.58,
+        "simple_math_average": 273.32,
+        "weighted_portuguese_average": 285.58,
+        "weighted_math_average": 273.32
+    },
+    "6327493": {
+        "city_code": "6327493",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 86.0,
+        "simple_portuguese_average": 275.34000000000003,
+        "simple_math_average": 272.33000000000004,
+        "weighted_portuguese_average": 276.57488372093025,
+        "weighted_math_average": 271.08813953488374
+    },
+    "6327494": {
+        "city_code": "6327494",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 139.0,
+        "simple_portuguese_average": 276.9433333333333,
+        "simple_math_average": 282.65000000000003,
+        "weighted_portuguese_average": 279.93273381294966,
+        "weighted_math_average": 281.323237410072
+    },
+    "6327495": {
+        "city_code": "6327495",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 25.0,
+        "simple_portuguese_average": 248.34,
+        "simple_math_average": 260.0,
+        "weighted_portuguese_average": 248.34,
+        "weighted_math_average": 260.0
+    },
+    "6327496": {
+        "city_code": "6327496",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 55.0,
+        "simple_portuguese_average": 269.72,
+        "simple_math_average": 275.78,
+        "weighted_portuguese_average": 270.47527272727274,
+        "weighted_math_average": 281.0556363636363
+    },
+    "6327497": {
+        "city_code": "6327497",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 12.0,
+        "simple_portuguese_average": 279.25,
+        "simple_math_average": 276.87,
+        "weighted_portuguese_average": 279.25,
+        "weighted_math_average": 276.87
+    },
+    "6327498": {
+        "city_code": "6327498",
+        "state_code": "52",
+        "number_of_schools": 17,
+        "number_of_students": 1680.0,
+        "simple_portuguese_average": 275.08294117647057,
+        "simple_math_average": 266.0570588235294,
+        "weighted_portuguese_average": 275.3412976190476,
+        "weighted_math_average": 266.2954226190476
+    },
+    "6327499": {
+        "city_code": "6327499",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 292.0,
+        "simple_portuguese_average": 277.14,
+        "simple_math_average": 271.955,
+        "weighted_portuguese_average": 277.5359589041096,
+        "weighted_math_average": 272.29167808219177
+    },
+    "6327500": {
+        "city_code": "6327500",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 19.0,
+        "simple_portuguese_average": 285.52,
+        "simple_math_average": 313.06,
+        "weighted_portuguese_average": 285.52,
+        "weighted_math_average": 313.06
+    },
+    "6327501": {
+        "city_code": "6327501",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 75.0,
+        "simple_portuguese_average": 272.33,
+        "simple_math_average": 264.6,
+        "weighted_portuguese_average": 272.33,
+        "weighted_math_average": 264.6
+    },
+    "6327502": {
+        "city_code": "6327502",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 44.0,
+        "simple_portuguese_average": 297.03,
+        "simple_math_average": 271.76,
+        "weighted_portuguese_average": 297.03,
+        "weighted_math_average": 271.76
+    },
+    "6327503": {
+        "city_code": "6327503",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 134.0,
+        "simple_portuguese_average": 276.99,
+        "simple_math_average": 271.41999999999996,
+        "weighted_portuguese_average": 276.5083582089552,
+        "weighted_math_average": 271.03970149253723
+    },
+    "6327504": {
+        "city_code": "6327504",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 29.0,
+        "simple_portuguese_average": 283.03,
+        "simple_math_average": 277.08,
+        "weighted_portuguese_average": 283.03,
+        "weighted_math_average": 277.08
+    },
+    "6327505": {
+        "city_code": "6327505",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 36.0,
+        "simple_portuguese_average": 270.23,
+        "simple_math_average": 265.37,
+        "weighted_portuguese_average": 270.23,
+        "weighted_math_average": 265.37
+    },
+    "6327506": {
+        "city_code": "6327506",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 18.0,
+        "simple_portuguese_average": 253.33,
+        "simple_math_average": 262.61,
+        "weighted_portuguese_average": 253.33000000000004,
+        "weighted_math_average": 262.61
+    },
+    "6327507": {
+        "city_code": "6327507",
+        "state_code": "52",
+        "number_of_schools": 23,
+        "number_of_students": 2011.0,
+        "simple_portuguese_average": 290.9617391304348,
+        "simple_math_average": 288.501304347826,
+        "weighted_portuguese_average": 297.9087568373943,
+        "weighted_math_average": 296.0521581302835
+    },
+    "6327509": {
+        "city_code": "6327509",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 202.0,
+        "simple_portuguese_average": 280.85,
+        "simple_math_average": 284.31,
+        "weighted_portuguese_average": 279.68089108910885,
+        "weighted_math_average": 282.8739603960396
+    },
+    "6327510": {
+        "city_code": "6327510",
+        "state_code": "52",
+        "number_of_schools": 38,
+        "number_of_students": 3148.0,
+        "simple_portuguese_average": 283.7155263157894,
+        "simple_math_average": 273.9678947368421,
+        "weighted_portuguese_average": 284.96551461245235,
+        "weighted_math_average": 275.2360959339263
+    },
+    "6327511": {
+        "city_code": "6327511",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 35.0,
+        "simple_portuguese_average": 269.74,
+        "simple_math_average": 270.72,
+        "weighted_portuguese_average": 269.74,
+        "weighted_math_average": 270.72
+    },
+    "6327512": {
+        "city_code": "6327512",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 51.0,
+        "simple_portuguese_average": 272.16,
+        "simple_math_average": 275.21,
+        "weighted_portuguese_average": 272.16,
+        "weighted_math_average": 275.21
+    },
+    "6327513": {
+        "city_code": "6327513",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 24.0,
+        "simple_portuguese_average": 276.03,
+        "simple_math_average": 289.18,
+        "weighted_portuguese_average": 276.03,
+        "weighted_math_average": 289.18
+    },
+    "6327514": {
+        "city_code": "6327514",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 40.0,
+        "simple_portuguese_average": 314.4,
+        "simple_math_average": 313.69,
+        "weighted_portuguese_average": 314.4,
+        "weighted_math_average": 313.69
+    },
+    "6327515": {
+        "city_code": "6327515",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 77.0,
+        "simple_portuguese_average": 273.02,
+        "simple_math_average": 258.23,
+        "weighted_portuguese_average": 273.02,
+        "weighted_math_average": 258.23
+    },
+    "6327516": {
+        "city_code": "6327516",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 91.0,
+        "simple_portuguese_average": 259.97,
+        "simple_math_average": 264.63,
+        "weighted_portuguese_average": 259.97,
+        "weighted_math_average": 264.63
+    },
+    "6327517": {
+        "city_code": "6327517",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 28.0,
+        "simple_portuguese_average": 297.58,
+        "simple_math_average": 283.8,
+        "weighted_portuguese_average": 297.58,
+        "weighted_math_average": 283.8
+    },
+    "6327518": {
+        "city_code": "6327518",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 73.0,
+        "simple_portuguese_average": 274.645,
+        "simple_math_average": 264.23,
+        "weighted_portuguese_average": 266.16917808219176,
+        "weighted_math_average": 259.7049315068493
+    },
+    "6327519": {
+        "city_code": "6327519",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 26.0,
+        "simple_portuguese_average": 267.06,
+        "simple_math_average": 266.45,
+        "weighted_portuguese_average": 267.06,
+        "weighted_math_average": 266.45
+    },
+    "6327520": {
+        "city_code": "6327520",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 26.0,
+        "simple_portuguese_average": 286.05,
+        "simple_math_average": 279.85,
+        "weighted_portuguese_average": 286.05,
+        "weighted_math_average": 279.85
+    },
+    "6327521": {
+        "city_code": "6327521",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 41.0,
+        "simple_portuguese_average": 269.20000000000005,
+        "simple_math_average": 260.44,
+        "weighted_portuguese_average": 266.8917073170732,
+        "weighted_math_average": 258.4678048780488
+    },
+    "6327522": {
+        "city_code": "6327522",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 58.0,
+        "simple_portuguese_average": 263.87,
+        "simple_math_average": 264.39,
+        "weighted_portuguese_average": 263.87,
+        "weighted_math_average": 264.39
+    },
+    "6327523": {
+        "city_code": "6327523",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 89.0,
+        "simple_portuguese_average": 278.1933333333333,
+        "simple_math_average": 274.51666666666665,
+        "weighted_portuguese_average": 279.058202247191,
+        "weighted_math_average": 275.9605617977528
+    },
+    "6327525": {
+        "city_code": "6327525",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 146.0,
+        "simple_portuguese_average": 292.28499999999997,
+        "simple_math_average": 292.055,
+        "weighted_portuguese_average": 292.4772602739726,
+        "weighted_math_average": 291.2586301369863
+    },
+    "6327526": {
+        "city_code": "6327526",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 69.0,
+        "simple_portuguese_average": 281.15500000000003,
+        "simple_math_average": 277.85,
+        "weighted_portuguese_average": 288.69579710144933,
+        "weighted_math_average": 286.61753623188406
+    },
+    "6327527": {
+        "city_code": "6327527",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 37.0,
+        "simple_portuguese_average": 270.89,
+        "simple_math_average": 257.35,
+        "weighted_portuguese_average": 270.89,
+        "weighted_math_average": 257.35
+    },
+    "6327528": {
+        "city_code": "6327528",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 28.0,
+        "simple_portuguese_average": 248.25,
+        "simple_math_average": 243.72,
+        "weighted_portuguese_average": 248.25,
+        "weighted_math_average": 243.72
+    },
+    "6327529": {
+        "city_code": "6327529",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 66.0,
+        "simple_portuguese_average": 269.11,
+        "simple_math_average": 261.74,
+        "weighted_portuguese_average": 269.11,
+        "weighted_math_average": 261.74
+    },
+    "6327530": {
+        "city_code": "6327530",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 53.0,
+        "simple_portuguese_average": 292.16,
+        "simple_math_average": 291.94,
+        "weighted_portuguese_average": 292.16,
+        "weighted_math_average": 291.94
+    },
+    "6327532": {
+        "city_code": "6327532",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 39.0,
+        "simple_portuguese_average": 277.94,
+        "simple_math_average": 281.49,
+        "weighted_portuguese_average": 277.94,
+        "weighted_math_average": 281.49
+    },
+    "6327533": {
+        "city_code": "6327533",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 75.0,
+        "simple_portuguese_average": 298.52,
+        "simple_math_average": 313.01,
+        "weighted_portuguese_average": 299.3456,
+        "weighted_math_average": 316.484
+    },
+    "6327534": {
+        "city_code": "6327534",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 71.0,
+        "simple_portuguese_average": 277.63,
+        "simple_math_average": 277.3,
+        "weighted_portuguese_average": 277.63,
+        "weighted_math_average": 277.3
+    },
+    "6327536": {
+        "city_code": "6327536",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 55.0,
+        "simple_portuguese_average": 265.51,
+        "simple_math_average": 276.25,
+        "weighted_portuguese_average": 265.51,
+        "weighted_math_average": 276.25
+    },
+    "6327537": {
+        "city_code": "6327537",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 93.0,
+        "simple_portuguese_average": 289.45,
+        "simple_math_average": 280.31,
+        "weighted_portuguese_average": 289.45,
+        "weighted_math_average": 280.31
+    },
+    "6327538": {
+        "city_code": "6327538",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 108.0,
+        "simple_portuguese_average": 288.355,
+        "simple_math_average": 284.95500000000004,
+        "weighted_portuguese_average": 287.96935185185185,
+        "weighted_math_average": 284.2734259259259
+    },
+    "6327539": {
+        "city_code": "6327539",
+        "state_code": "52",
+        "number_of_schools": 6,
+        "number_of_students": 707.0,
+        "simple_portuguese_average": 294.5933333333333,
+        "simple_math_average": 288.17333333333335,
+        "weighted_portuguese_average": 294.43032531824616,
+        "weighted_math_average": 289.18008486562945
+    },
+    "6327540": {
+        "city_code": "6327540",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 41.0,
+        "simple_portuguese_average": 281.48,
+        "simple_math_average": 272.34,
+        "weighted_portuguese_average": 281.48,
+        "weighted_math_average": 272.34
+    },
+    "6327541": {
+        "city_code": "6327541",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 34.0,
+        "simple_portuguese_average": 290.67,
+        "simple_math_average": 281.3,
+        "weighted_portuguese_average": 290.67,
+        "weighted_math_average": 281.3
+    },
+    "6327543": {
+        "city_code": "6327543",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 100.0,
+        "simple_portuguese_average": 272.29499999999996,
+        "simple_math_average": 274.52,
+        "weighted_portuguese_average": 279.5373,
+        "weighted_math_average": 281.7584
+    },
+    "6327544": {
+        "city_code": "6327544",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 53.0,
+        "simple_portuguese_average": 268.09,
+        "simple_math_average": 264.88,
+        "weighted_portuguese_average": 268.09,
+        "weighted_math_average": 264.88
+    },
+    "6327545": {
+        "city_code": "6327545",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 36.0,
+        "simple_portuguese_average": 294.18,
+        "simple_math_average": 285.72,
+        "weighted_portuguese_average": 294.18,
+        "weighted_math_average": 285.72
+    },
+    "6327546": {
+        "city_code": "6327546",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 220.0,
+        "simple_portuguese_average": 269.4633333333333,
+        "simple_math_average": 262.3533333333333,
+        "weighted_portuguese_average": 267.8896363636363,
+        "weighted_math_average": 261.17759090909095
+    },
+    "6327547": {
+        "city_code": "6327547",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 63.0,
+        "simple_portuguese_average": 266.82,
+        "simple_math_average": 291.17,
+        "weighted_portuguese_average": 266.82,
+        "weighted_math_average": 291.17
+    },
+    "6327548": {
+        "city_code": "6327548",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 63.0,
+        "simple_portuguese_average": 272.0,
+        "simple_math_average": 266.96,
+        "weighted_portuguese_average": 272.0,
+        "weighted_math_average": 266.96
+    },
+    "6327549": {
+        "city_code": "6327549",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 35.0,
+        "simple_portuguese_average": 294.38,
+        "simple_math_average": 274.46,
+        "weighted_portuguese_average": 294.38,
+        "weighted_math_average": 274.46
+    },
+    "6327550": {
+        "city_code": "6327550",
+        "state_code": "52",
+        "number_of_schools": 11,
+        "number_of_students": 658.0,
+        "simple_portuguese_average": 292.1554545454546,
+        "simple_math_average": 288.3572727272727,
+        "weighted_portuguese_average": 289.5209422492401,
+        "weighted_math_average": 284.0380243161094
+    },
+    "6327551": {
+        "city_code": "6327551",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 34.0,
+        "simple_portuguese_average": 263.72,
+        "simple_math_average": 270.76,
+        "weighted_portuguese_average": 263.72,
+        "weighted_math_average": 270.76
+    },
+    "6327552": {
+        "city_code": "6327552",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 85.0,
+        "simple_portuguese_average": 246.69,
+        "simple_math_average": 247.10500000000002,
+        "weighted_portuguese_average": 248.15835294117647,
+        "weighted_math_average": 248.52517647058824
+    },
+    "6327553": {
+        "city_code": "6327553",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 210.0,
+        "simple_portuguese_average": 291.8233333333333,
+        "simple_math_average": 285.2633333333333,
+        "weighted_portuguese_average": 291.0939523809524,
+        "weighted_math_average": 285.141
+    },
+    "6327554": {
+        "city_code": "6327554",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 47.0,
+        "simple_portuguese_average": 278.56,
+        "simple_math_average": 280.53,
+        "weighted_portuguese_average": 278.56,
+        "weighted_math_average": 280.53
+    },
+    "6327555": {
+        "city_code": "6327555",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 92.0,
+        "simple_portuguese_average": 289.81,
+        "simple_math_average": 285.5,
+        "weighted_portuguese_average": 289.81,
+        "weighted_math_average": 285.5
+    },
+    "6327556": {
+        "city_code": "6327556",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 672.0,
+        "simple_portuguese_average": 279.544,
+        "simple_math_average": 269.946,
+        "weighted_portuguese_average": 277.7825595238095,
+        "weighted_math_average": 269.5182589285714
+    },
+    "6327557": {
+        "city_code": "6327557",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 140.0,
+        "simple_portuguese_average": 292.79,
+        "simple_math_average": 286.37,
+        "weighted_portuguese_average": 293.3469285714286,
+        "weighted_math_average": 284.741
+    },
+    "6327558": {
+        "city_code": "6327558",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 53.0,
+        "simple_portuguese_average": 271.17,
+        "simple_math_average": 271.44,
+        "weighted_portuguese_average": 271.17,
+        "weighted_math_average": 271.44
+    },
+    "6327559": {
+        "city_code": "6327559",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 16.0,
+        "simple_portuguese_average": 285.93,
+        "simple_math_average": 294.28,
+        "weighted_portuguese_average": 285.93,
+        "weighted_math_average": 294.28
+    },
+    "6327560": {
+        "city_code": "6327560",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 54.0,
+        "simple_portuguese_average": 259.42,
+        "simple_math_average": 268.1,
+        "weighted_portuguese_average": 259.42,
+        "weighted_math_average": 268.1
+    },
+    "6327561": {
+        "city_code": "6327561",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 64.0,
+        "simple_portuguese_average": 290.89,
+        "simple_math_average": 278.17,
+        "weighted_portuguese_average": 290.89,
+        "weighted_math_average": 278.17
+    },
+    "6327562": {
+        "city_code": "6327562",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 337.0,
+        "simple_portuguese_average": 273.47249999999997,
+        "simple_math_average": 270.0375,
+        "weighted_portuguese_average": 275.39225519287834,
+        "weighted_math_average": 271.55881305637985
+    },
+    "6327563": {
+        "city_code": "6327563",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 22.0,
+        "simple_portuguese_average": 288.5,
+        "simple_math_average": 272.88,
+        "weighted_portuguese_average": 288.5,
+        "weighted_math_average": 272.88
+    },
+    "6327564": {
+        "city_code": "6327564",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 79.0,
+        "simple_portuguese_average": 290.26,
+        "simple_math_average": 280.345,
+        "weighted_portuguese_average": 290.12936708860764,
+        "weighted_math_average": 280.26506329113926
+    },
+    "6327565": {
+        "city_code": "6327565",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 38.0,
+        "simple_portuguese_average": 278.43,
+        "simple_math_average": 265.59,
+        "weighted_portuguese_average": 278.43,
+        "weighted_math_average": 265.59
+    },
+    "6327566": {
+        "city_code": "6327566",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 24.0,
+        "simple_portuguese_average": 281.01,
+        "simple_math_average": 279.89,
+        "weighted_portuguese_average": 281.01,
+        "weighted_math_average": 279.89
+    },
+    "6327567": {
+        "city_code": "6327567",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 43.0,
+        "simple_portuguese_average": 262.39,
+        "simple_math_average": 266.01,
+        "weighted_portuguese_average": 262.39,
+        "weighted_math_average": 266.01
+    },
+    "6327568": {
+        "city_code": "6327568",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 24.0,
+        "simple_portuguese_average": 274.36,
+        "simple_math_average": 286.94,
+        "weighted_portuguese_average": 274.36,
+        "weighted_math_average": 286.94
+    },
+    "6327569": {
+        "city_code": "6327569",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 19.0,
+        "simple_portuguese_average": 305.67,
+        "simple_math_average": 269.07,
+        "weighted_portuguese_average": 305.67,
+        "weighted_math_average": 269.07
+    },
+    "6327570": {
+        "city_code": "6327570",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 15.0,
+        "simple_portuguese_average": 268.77,
+        "simple_math_average": 285.63,
+        "weighted_portuguese_average": 268.77,
+        "weighted_math_average": 285.63
+    },
+    "6327571": {
+        "city_code": "6327571",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 60.0,
+        "simple_portuguese_average": 276.81,
+        "simple_math_average": 274.72,
+        "weighted_portuguese_average": 276.81,
+        "weighted_math_average": 274.72
+    },
+    "6327572": {
+        "city_code": "6327572",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 19.0,
+        "simple_portuguese_average": 288.32,
+        "simple_math_average": 296.65,
+        "weighted_portuguese_average": 288.32,
+        "weighted_math_average": 296.65
+    },
+    "6327573": {
+        "city_code": "6327573",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 100.0,
+        "simple_portuguese_average": 263.72,
+        "simple_math_average": 265.62,
+        "weighted_portuguese_average": 263.72,
+        "weighted_math_average": 265.62
+    },
+    "6327574": {
+        "city_code": "6327574",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 24.0,
+        "simple_portuguese_average": 281.64,
+        "simple_math_average": 275.42,
+        "weighted_portuguese_average": 281.64,
+        "weighted_math_average": 275.42
+    },
+    "6327575": {
+        "city_code": "6327575",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 40.0,
+        "simple_portuguese_average": 269.5,
+        "simple_math_average": 267.37,
+        "weighted_portuguese_average": 269.5,
+        "weighted_math_average": 267.37
+    },
+    "6327576": {
+        "city_code": "6327576",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 58.0,
+        "simple_portuguese_average": 283.615,
+        "simple_math_average": 277.385,
+        "weighted_portuguese_average": 282.3684482758621,
+        "weighted_math_average": 280.931551724138
+    },
+    "6327577": {
+        "city_code": "6327577",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 75.0,
+        "simple_portuguese_average": 251.87,
+        "simple_math_average": 253.59,
+        "weighted_portuguese_average": 251.87,
+        "weighted_math_average": 253.59
+    },
+    "6327578": {
+        "city_code": "6327578",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 129.0,
+        "simple_portuguese_average": 264.14,
+        "simple_math_average": 284.06,
+        "weighted_portuguese_average": 263.1339534883721,
+        "weighted_math_average": 284.2516279069768
+    },
+    "6327579": {
+        "city_code": "6327579",
+        "state_code": "52",
+        "number_of_schools": 13,
+        "number_of_students": 922.0,
+        "simple_portuguese_average": 289.6892307692308,
+        "simple_math_average": 309.77769230769223,
+        "weighted_portuguese_average": 292.12544468546633,
+        "weighted_math_average": 303.301442516269
+    },
+    "6327580": {
+        "city_code": "6327580",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 44.0,
+        "simple_portuguese_average": 272.63,
+        "simple_math_average": 273.45,
+        "weighted_portuguese_average": 272.63,
+        "weighted_math_average": 273.45
+    },
+    "6327581": {
+        "city_code": "6327581",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 39.0,
+        "simple_portuguese_average": 285.89,
+        "simple_math_average": 302.45,
+        "weighted_portuguese_average": 285.89,
+        "weighted_math_average": 302.45
+    },
+    "6327582": {
+        "city_code": "6327582",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 76.0,
+        "simple_portuguese_average": 248.535,
+        "simple_math_average": 263.4,
+        "weighted_portuguese_average": 246.2121052631579,
+        "weighted_math_average": 264.94736842105266
+    },
+    "6327583": {
+        "city_code": "6327583",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 66.0,
+        "simple_portuguese_average": 310.38,
+        "simple_math_average": 320.58,
+        "weighted_portuguese_average": 310.38,
+        "weighted_math_average": 320.58
+    },
+    "6327584": {
+        "city_code": "6327584",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 30.0,
+        "simple_portuguese_average": 273.06,
+        "simple_math_average": 272.84,
+        "weighted_portuguese_average": 273.06,
+        "weighted_math_average": 272.84
+    },
+    "6327585": {
+        "city_code": "6327585",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 529.0,
+        "simple_portuguese_average": 294.318,
+        "simple_math_average": 288.284,
+        "weighted_portuguese_average": 298.25306238185254,
+        "weighted_math_average": 297.58173913043476
+    },
+    "6327586": {
+        "city_code": "6327586",
+        "state_code": "52",
+        "number_of_schools": 69,
+        "number_of_students": 6700.0,
+        "simple_portuguese_average": 286.71115942028985,
+        "simple_math_average": 277.17275362318844,
+        "weighted_portuguese_average": 290.8550537313433,
+        "weighted_math_average": 281.04121044776116
+    },
+    "6327587": {
+        "city_code": "6327587",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 488.0,
+        "simple_portuguese_average": 287.16999999999996,
+        "simple_math_average": 280.076,
+        "weighted_portuguese_average": 287.09534836065575,
+        "weighted_math_average": 278.12202868852455
+    },
+    "6327588": {
+        "city_code": "6327588",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 165.0,
+        "simple_portuguese_average": 285.49,
+        "simple_math_average": 281.0133333333333,
+        "weighted_portuguese_average": 293.2994545454546,
+        "weighted_math_average": 294.5832727272727
+    },
+    "6327589": {
+        "city_code": "6327589",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 174.0,
+        "simple_portuguese_average": 295.99749999999995,
+        "simple_math_average": 293.52,
+        "weighted_portuguese_average": 298.1705172413793,
+        "weighted_math_average": 296.11965517241384
+    },
+    "6327590": {
+        "city_code": "6327590",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 43.0,
+        "simple_portuguese_average": 271.64,
+        "simple_math_average": 265.99,
+        "weighted_portuguese_average": 271.64,
+        "weighted_math_average": 265.99
+    },
+    "6327591": {
+        "city_code": "6327591",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 158.0,
+        "simple_portuguese_average": 272.775,
+        "simple_math_average": 278.6,
+        "weighted_portuguese_average": 282.7566455696202,
+        "weighted_math_average": 280.4612025316456
+    },
+    "6327592": {
+        "city_code": "6327592",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 11.0,
+        "simple_portuguese_average": 266.27,
+        "simple_math_average": 269.11,
+        "weighted_portuguese_average": 266.27,
+        "weighted_math_average": 269.11
+    },
+    "6327593": {
+        "city_code": "6327593",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 53.0,
+        "simple_portuguese_average": 265.32,
+        "simple_math_average": 269.98,
+        "weighted_portuguese_average": 265.32,
+        "weighted_math_average": 269.98
+    },
+    "6327594": {
+        "city_code": "6327594",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 24.0,
+        "simple_portuguese_average": 281.94,
+        "simple_math_average": 293.22,
+        "weighted_portuguese_average": 281.94,
+        "weighted_math_average": 293.22
+    },
+    "6327595": {
+        "city_code": "6327595",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 39.0,
+        "simple_portuguese_average": 258.2,
+        "simple_math_average": 255.65,
+        "weighted_portuguese_average": 258.2,
+        "weighted_math_average": 255.65
+    },
+    "6327596": {
+        "city_code": "6327596",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 125.0,
+        "simple_portuguese_average": 290.79499999999996,
+        "simple_math_average": 278.645,
+        "weighted_portuguese_average": 289.2391999999999,
+        "weighted_math_average": 278.42480000000006
+    },
+    "6327598": {
+        "city_code": "6327598",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 156.0,
+        "simple_portuguese_average": 254.89,
+        "simple_math_average": 260.41499999999996,
+        "weighted_portuguese_average": 257.4623076923077,
+        "weighted_math_average": 260.39961538461534
+    },
+    "6327599": {
+        "city_code": "6327599",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 51.0,
+        "simple_portuguese_average": 286.53,
+        "simple_math_average": 290.96,
+        "weighted_portuguese_average": 286.53,
+        "weighted_math_average": 290.96
+    },
+    "6327600": {
+        "city_code": "6327600",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 97.0,
+        "simple_portuguese_average": 277.51,
+        "simple_math_average": 277.67,
+        "weighted_portuguese_average": 277.51,
+        "weighted_math_average": 277.67
+    },
+    "6327601": {
+        "city_code": "6327601",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 313.0,
+        "simple_portuguese_average": 290.85999999999996,
+        "simple_math_average": 290.8633333333333,
+        "weighted_portuguese_average": 290.04463258785944,
+        "weighted_math_average": 289.59421725239616
+    },
+    "6327602": {
+        "city_code": "6327602",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 211.0,
+        "simple_portuguese_average": 293.62600000000003,
+        "simple_math_average": 288.762,
+        "weighted_portuguese_average": 294.39658767772517,
+        "weighted_math_average": 288.6343601895735
+    },
+    "6327603": {
+        "city_code": "6327603",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 13.0,
+        "simple_portuguese_average": 293.41,
+        "simple_math_average": 308.43,
+        "weighted_portuguese_average": 293.41,
+        "weighted_math_average": 308.43
+    },
+    "6327604": {
+        "city_code": "6327604",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 273.0,
+        "simple_portuguese_average": 287.764,
+        "simple_math_average": 285.33399999999995,
+        "weighted_portuguese_average": 289.0761538461539,
+        "weighted_math_average": 286.45890109890115
+    },
+    "6327605": {
+        "city_code": "6327605",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 14.0,
+        "simple_portuguese_average": 272.5,
+        "simple_math_average": 284.33,
+        "weighted_portuguese_average": 272.5,
+        "weighted_math_average": 284.33
+    },
+    "6327606": {
+        "city_code": "6327606",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 285.0,
+        "simple_portuguese_average": 278.49,
+        "simple_math_average": 274.83500000000004,
+        "weighted_portuguese_average": 282.01898245614035,
+        "weighted_math_average": 277.5766666666667
+    },
+    "6327607": {
+        "city_code": "6327607",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 54.0,
+        "simple_portuguese_average": 262.34,
+        "simple_math_average": 279.6,
+        "weighted_portuguese_average": 262.34,
+        "weighted_math_average": 279.6
+    },
+    "6327608": {
+        "city_code": "6327608",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 55.0,
+        "simple_portuguese_average": 285.75,
+        "simple_math_average": 293.67,
+        "weighted_portuguese_average": 285.75,
+        "weighted_math_average": 293.67
+    },
+    "6327609": {
+        "city_code": "6327609",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 35.0,
+        "simple_portuguese_average": 276.64,
+        "simple_math_average": 284.53,
+        "weighted_portuguese_average": 276.64,
+        "weighted_math_average": 284.53
+    },
+    "6327610": {
+        "city_code": "6327610",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 116.0,
+        "simple_portuguese_average": 287.6,
+        "simple_math_average": 302.205,
+        "weighted_portuguese_average": 288.0203448275862,
+        "weighted_math_average": 300.96577586206894
+    },
+    "6327611": {
+        "city_code": "6327611",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 57.0,
+        "simple_portuguese_average": 263.87,
+        "simple_math_average": 262.39,
+        "weighted_portuguese_average": 263.87,
+        "weighted_math_average": 262.39
+    },
+    "6327612": {
+        "city_code": "6327612",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 198.0,
+        "simple_portuguese_average": 284.03666666666663,
+        "simple_math_average": 286.43333333333334,
+        "weighted_portuguese_average": 300.39838383838384,
+        "weighted_math_average": 299.3925252525253
+    },
+    "6327613": {
+        "city_code": "6327613",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 67.0,
+        "simple_portuguese_average": 273.45,
+        "simple_math_average": 272.3,
+        "weighted_portuguese_average": 273.45,
+        "weighted_math_average": 272.3
+    },
+    "6327614": {
+        "city_code": "6327614",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 44.0,
+        "simple_portuguese_average": 291.54,
+        "simple_math_average": 289.87,
+        "weighted_portuguese_average": 291.54,
+        "weighted_math_average": 289.87
+    },
+    "6327615": {
+        "city_code": "6327615",
+        "state_code": "52",
+        "number_of_schools": 6,
+        "number_of_students": 319.0,
+        "simple_portuguese_average": 290.715,
+        "simple_math_average": 286.44,
+        "weighted_portuguese_average": 297.04112852664576,
+        "weighted_math_average": 294.9120689655172
+    },
+    "6327616": {
+        "city_code": "6327616",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 16.0,
+        "simple_portuguese_average": 299.47,
+        "simple_math_average": 306.62,
+        "weighted_portuguese_average": 299.47,
+        "weighted_math_average": 306.62
+    },
+    "6327617": {
+        "city_code": "6327617",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 44.0,
+        "simple_portuguese_average": 281.72,
+        "simple_math_average": 274.77,
+        "weighted_portuguese_average": 281.72,
+        "weighted_math_average": 274.77
+    },
+    "6327618": {
+        "city_code": "6327618",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 378.0,
+        "simple_portuguese_average": 287.54,
+        "simple_math_average": 300.99666666666667,
+        "weighted_portuguese_average": 282.6407936507936,
+        "weighted_math_average": 287.26399470899474
+    },
+    "6327619": {
+        "city_code": "6327619",
+        "state_code": "52",
+        "number_of_schools": 9,
+        "number_of_students": 841.0,
+        "simple_portuguese_average": 285.31888888888886,
+        "simple_math_average": 283.15444444444444,
+        "weighted_portuguese_average": 286.24080856123663,
+        "weighted_math_average": 284.46178359096314
+    },
+    "6327621": {
+        "city_code": "6327621",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 19.0,
+        "simple_portuguese_average": 301.73,
+        "simple_math_average": 285.2,
+        "weighted_portuguese_average": 301.73,
+        "weighted_math_average": 285.2
+    },
+    "6327622": {
+        "city_code": "6327622",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 11.0,
+        "simple_portuguese_average": 291.09,
+        "simple_math_average": 303.92,
+        "weighted_portuguese_average": 291.09,
+        "weighted_math_average": 303.92
+    },
+    "6327623": {
+        "city_code": "6327623",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 184.0,
+        "simple_portuguese_average": 288.9375,
+        "simple_math_average": 290.8,
+        "weighted_portuguese_average": 286.84407608695653,
+        "weighted_math_average": 289.36380434782615
+    },
+    "6327625": {
+        "city_code": "6327625",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 58.0,
+        "simple_portuguese_average": 275.81,
+        "simple_math_average": 284.44,
+        "weighted_portuguese_average": 275.81,
+        "weighted_math_average": 284.44
+    },
+    "6327626": {
+        "city_code": "6327626",
+        "state_code": "52",
+        "number_of_schools": 14,
+        "number_of_students": 1198.0,
+        "simple_portuguese_average": 283.7278571428572,
+        "simple_math_average": 278.5571428571429,
+        "weighted_portuguese_average": 284.4227462437396,
+        "weighted_math_average": 277.3378547579299
+    },
+    "6327627": {
+        "city_code": "6327627",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 22.0,
+        "simple_portuguese_average": 279.34,
+        "simple_math_average": 265.03,
+        "weighted_portuguese_average": 279.34,
+        "weighted_math_average": 265.03
+    },
+    "6327628": {
+        "city_code": "6327628",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 86.0,
+        "simple_portuguese_average": 267.77,
+        "simple_math_average": 262.66,
+        "weighted_portuguese_average": 267.77,
+        "weighted_math_average": 262.66
+    },
+    "6327629": {
+        "city_code": "6327629",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 101.0,
+        "simple_portuguese_average": 281.58000000000004,
+        "simple_math_average": 283.005,
+        "weighted_portuguese_average": 283.38435643564355,
+        "weighted_math_average": 284.55940594059405
+    },
+    "6327630": {
+        "city_code": "6327630",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 11.0,
+        "simple_portuguese_average": 329.52,
+        "simple_math_average": 324.13,
+        "weighted_portuguese_average": 329.52,
+        "weighted_math_average": 324.13
+    },
+    "6327631": {
+        "city_code": "6327631",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 31.0,
+        "simple_portuguese_average": 263.43,
+        "simple_math_average": 246.84,
+        "weighted_portuguese_average": 263.43,
+        "weighted_math_average": 246.84
+    },
+    "6327632": {
+        "city_code": "6327632",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 123.0,
+        "simple_portuguese_average": 274.16,
+        "simple_math_average": 275.1,
+        "weighted_portuguese_average": 274.16,
+        "weighted_math_average": 275.1
+    },
+    "6327634": {
+        "city_code": "6327634",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 278.0,
+        "simple_portuguese_average": 276.3666666666666,
+        "simple_math_average": 281.9666666666667,
+        "weighted_portuguese_average": 274.42834532374104,
+        "weighted_math_average": 276.16258992805757
+    },
+    "6327635": {
+        "city_code": "6327635",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 339.0,
+        "simple_portuguese_average": 292.46999999999997,
+        "simple_math_average": 287.236,
+        "weighted_portuguese_average": 294.3659882005899,
+        "weighted_math_average": 289.6797640117994
+    },
+    "6327637": {
+        "city_code": "6327637",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 50.0,
+        "simple_portuguese_average": 236.825,
+        "simple_math_average": 246.60500000000002,
+        "weighted_portuguese_average": 239.891,
+        "weighted_math_average": 246.435
+    },
+    "6327638": {
+        "city_code": "6327638",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 58.0,
+        "simple_portuguese_average": 280.55,
+        "simple_math_average": 263.4,
+        "weighted_portuguese_average": 280.55,
+        "weighted_math_average": 263.4
+    },
+    "6327639": {
+        "city_code": "6327639",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 146.0,
+        "simple_portuguese_average": 253.17,
+        "simple_math_average": 257.15,
+        "weighted_portuguese_average": 253.17,
+        "weighted_math_average": 257.15
+    },
+    "6327640": {
+        "city_code": "6327640",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 17.0,
+        "simple_portuguese_average": 285.31,
+        "simple_math_average": 277.16,
+        "weighted_portuguese_average": 285.31,
+        "weighted_math_average": 277.16
+    },
+    "6327641": {
+        "city_code": "6327641",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 165.0,
+        "simple_portuguese_average": 297.31666666666666,
+        "simple_math_average": 299.96999999999997,
+        "weighted_portuguese_average": 301.68327272727277,
+        "weighted_math_average": 303.1471515151515
+    },
+    "6327642": {
+        "city_code": "6327642",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 28.0,
+        "simple_portuguese_average": 274.79,
+        "simple_math_average": 286.3,
+        "weighted_portuguese_average": 274.79,
+        "weighted_math_average": 286.3
+    },
+    "6327643": {
+        "city_code": "6327643",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 48.0,
+        "simple_portuguese_average": 289.02,
+        "simple_math_average": 282.8,
+        "weighted_portuguese_average": 289.02,
+        "weighted_math_average": 282.8
+    },
+    "6327644": {
+        "city_code": "6327644",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 79.0,
+        "simple_portuguese_average": 293.27,
+        "simple_math_average": 279.66,
+        "weighted_portuguese_average": 293.27,
+        "weighted_math_average": 279.66
+    },
+    "6327645": {
+        "city_code": "6327645",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 36.0,
+        "simple_portuguese_average": 300.1,
+        "simple_math_average": 284.78999999999996,
+        "weighted_portuguese_average": 299.93611111111113,
+        "weighted_math_average": 284.2394444444444
+    },
+    "6327646": {
+        "city_code": "6327646",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 54.0,
+        "simple_portuguese_average": 270.89,
+        "simple_math_average": 278.21,
+        "weighted_portuguese_average": 270.89,
+        "weighted_math_average": 278.21
+    },
+    "6327647": {
+        "city_code": "6327647",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 49.0,
+        "simple_portuguese_average": 283.25,
+        "simple_math_average": 275.87,
+        "weighted_portuguese_average": 280.42102040816326,
+        "weighted_math_average": 275.7338775510204
+    },
+    "6327648": {
+        "city_code": "6327648",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 254.0,
+        "simple_portuguese_average": 286.59000000000003,
+        "simple_math_average": 276.83500000000004,
+        "weighted_portuguese_average": 292.18129921259845,
+        "weighted_math_average": 286.11779527559054
+    },
+    "6327649": {
+        "city_code": "6327649",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 231.0,
+        "simple_portuguese_average": 273.815,
+        "simple_math_average": 278.825,
+        "weighted_portuguese_average": 283.34813852813846,
+        "weighted_math_average": 286.1820779220779
+    },
+    "6327650": {
+        "city_code": "6327650",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 29.0,
+        "simple_portuguese_average": 283.16,
+        "simple_math_average": 301.22,
+        "weighted_portuguese_average": 283.16,
+        "weighted_math_average": 301.22
+    },
+    "6327651": {
+        "city_code": "6327651",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 23.0,
+        "simple_portuguese_average": 272.25,
+        "simple_math_average": 263.71,
+        "weighted_portuguese_average": 272.25,
+        "weighted_math_average": 263.71
+    },
+    "6327652": {
+        "city_code": "6327652",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 57.0,
+        "simple_portuguese_average": 280.45,
+        "simple_math_average": 263.12,
+        "weighted_portuguese_average": 280.45,
+        "weighted_math_average": 263.12
+    },
+    "6327653": {
+        "city_code": "6327653",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 85.0,
+        "simple_portuguese_average": 267.7366666666666,
+        "simple_math_average": 267.07,
+        "weighted_portuguese_average": 266.14376470588235,
+        "weighted_math_average": 266.14305882352943
+    },
+    "6327654": {
+        "city_code": "6327654",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 30.0,
+        "simple_portuguese_average": 278.48,
+        "simple_math_average": 282.55,
+        "weighted_portuguese_average": 278.4800000000001,
+        "weighted_math_average": 282.55
+    },
+    "6327655": {
+        "city_code": "6327655",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 42.0,
+        "simple_portuguese_average": 270.04,
+        "simple_math_average": 262.56,
+        "weighted_portuguese_average": 270.04,
+        "weighted_math_average": 262.56
+    },
+    "6327656": {
+        "city_code": "6327656",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 82.0,
+        "simple_portuguese_average": 284.57,
+        "simple_math_average": 278.62,
+        "weighted_portuguese_average": 282.960243902439,
+        "weighted_math_average": 278.3490243902439
+    },
+    "6327657": {
+        "city_code": "6327657",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 29.0,
+        "simple_portuguese_average": 273.45,
+        "simple_math_average": 284.59,
+        "weighted_portuguese_average": 273.45,
+        "weighted_math_average": 284.59
+    },
+    "6327658": {
+        "city_code": "6327658",
+        "state_code": "52",
+        "number_of_schools": 8,
+        "number_of_students": 552.0,
+        "simple_portuguese_average": 275.16375,
+        "simple_math_average": 261.595,
+        "weighted_portuguese_average": 279.1950724637681,
+        "weighted_math_average": 266.73010869565223
+    },
+    "6327659": {
+        "city_code": "6327659",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 34.0,
+        "simple_portuguese_average": 265.31,
+        "simple_math_average": 262.79,
+        "weighted_portuguese_average": 265.31,
+        "weighted_math_average": 262.79
+    },
+    "6327660": {
+        "city_code": "6327660",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 93.0,
+        "simple_portuguese_average": 277.03999999999996,
+        "simple_math_average": 285.24666666666667,
+        "weighted_portuguese_average": 280.85064516129034,
+        "weighted_math_average": 288.08849462365595
+    },
+    "6327661": {
+        "city_code": "6327661",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 29.0,
+        "simple_portuguese_average": 275.07,
+        "simple_math_average": 259.48,
+        "weighted_portuguese_average": 275.07,
+        "weighted_math_average": 259.48
+    },
+    "6327662": {
+        "city_code": "6327662",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 47.0,
+        "simple_portuguese_average": 288.54,
+        "simple_math_average": 281.7,
+        "weighted_portuguese_average": 288.54,
+        "weighted_math_average": 281.7
+    },
+    "6327663": {
+        "city_code": "6327663",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 208.0,
+        "simple_portuguese_average": 267.3966666666667,
+        "simple_math_average": 256.92333333333335,
+        "weighted_portuguese_average": 269.1765865384616,
+        "weighted_math_average": 259.0041346153846
+    },
+    "6327664": {
+        "city_code": "6327664",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 40.0,
+        "simple_portuguese_average": 281.98,
+        "simple_math_average": 273.39,
+        "weighted_portuguese_average": 281.98,
+        "weighted_math_average": 273.39
+    },
+    "6327665": {
+        "city_code": "6327665",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 246.0,
+        "simple_portuguese_average": 282.2,
+        "simple_math_average": 270.38000000000005,
+        "weighted_portuguese_average": 284.41695121951216,
+        "weighted_math_average": 272.72499999999997
+    },
+    "6327667": {
+        "city_code": "6327667",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 33.0,
+        "simple_portuguese_average": 278.79,
+        "simple_math_average": 279.42,
+        "weighted_portuguese_average": 278.79,
+        "weighted_math_average": 279.42
+    },
+    "6327669": {
+        "city_code": "6327669",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 55.0,
+        "simple_portuguese_average": 284.35,
+        "simple_math_average": 275.16,
+        "weighted_portuguese_average": 284.35,
+        "weighted_math_average": 275.16
+    },
+    "6327670": {
+        "city_code": "6327670",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 67.0,
+        "simple_portuguese_average": 268.03,
+        "simple_math_average": 268.51,
+        "weighted_portuguese_average": 268.03,
+        "weighted_math_average": 268.51
+    },
+    "6327671": {
+        "city_code": "6327671",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 38.0,
+        "simple_portuguese_average": 262.04,
+        "simple_math_average": 265.59,
+        "weighted_portuguese_average": 262.04,
+        "weighted_math_average": 265.59
+    },
+    "6327674": {
+        "city_code": "6327674",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 113.0,
+        "simple_portuguese_average": 299.435,
+        "simple_math_average": 309.11,
+        "weighted_portuguese_average": 298.9604424778761,
+        "weighted_math_average": 307.36663716814166
+    },
+    "6327675": {
+        "city_code": "6327675",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 73.0,
+        "simple_portuguese_average": 294.46500000000003,
+        "simple_math_average": 297.895,
+        "weighted_portuguese_average": 284.2402739726028,
+        "weighted_math_average": 287.95109589041095
+    },
+    "6327676": {
+        "city_code": "6327676",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 119.0,
+        "simple_portuguese_average": 285.455,
+        "simple_math_average": 276.125,
+        "weighted_portuguese_average": 291.5735294117647,
+        "weighted_math_average": 282.553781512605
+    },
+    "6327677": {
+        "city_code": "6327677",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 177.0,
+        "simple_portuguese_average": 286.79999999999995,
+        "simple_math_average": 279.09,
+        "weighted_portuguese_average": 289.29706214689264,
+        "weighted_math_average": 280.19293785310737
+    },
+    "6327678": {
+        "city_code": "6327678",
+        "state_code": "52",
+        "number_of_schools": 11,
+        "number_of_students": 926.0,
+        "simple_portuguese_average": 281.88909090909095,
+        "simple_math_average": 284.3118181818182,
+        "weighted_portuguese_average": 281.6857019438445,
+        "weighted_math_average": 280.3626997840173
+    },
+    "6327679": {
+        "city_code": "6327679",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 65.0,
+        "simple_portuguese_average": 306.55,
+        "simple_math_average": 306.98,
+        "weighted_portuguese_average": 303.42615384615385,
+        "weighted_math_average": 309.1118461538461
+    },
+    "6327680": {
+        "city_code": "6327680",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 299.0,
+        "simple_portuguese_average": 292.17,
+        "simple_math_average": 281.9066666666667,
+        "weighted_portuguese_average": 292.83,
+        "weighted_math_average": 282.7959866220736
+    },
+    "6327681": {
+        "city_code": "6327681",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 34.0,
+        "simple_portuguese_average": 289.36,
+        "simple_math_average": 266.01,
+        "weighted_portuguese_average": 289.36,
+        "weighted_math_average": 266.01
+    },
+    "6327682": {
+        "city_code": "6327682",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 29.0,
+        "simple_portuguese_average": 250.0,
+        "simple_math_average": 268.52,
+        "weighted_portuguese_average": 250.0,
+        "weighted_math_average": 268.52
+    },
+    "6327683": {
+        "city_code": "6327683",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 313.0,
+        "simple_portuguese_average": 288.28499999999997,
+        "simple_math_average": 281.525,
+        "weighted_portuguese_average": 285.59345047923324,
+        "weighted_math_average": 278.89306709265173
+    },
+    "6327685": {
+        "city_code": "6327685",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 425.0,
+        "simple_portuguese_average": 286.47499999999997,
+        "simple_math_average": 287.03,
+        "weighted_portuguese_average": 283.43014117647056,
+        "weighted_math_average": 286.81872941176476
+    },
+    "6327686": {
+        "city_code": "6327686",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 20.0,
+        "simple_portuguese_average": 275.22,
+        "simple_math_average": 266.03,
+        "weighted_portuguese_average": 275.22,
+        "weighted_math_average": 266.03
+    },
+    "6327687": {
+        "city_code": "6327687",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 47.0,
+        "simple_portuguese_average": 262.95,
+        "simple_math_average": 277.65999999999997,
+        "weighted_portuguese_average": 266.1287234042553,
+        "weighted_math_average": 281.45531914893616
+    },
+    "6327689": {
+        "city_code": "6327689",
+        "state_code": "52",
+        "number_of_schools": 15,
+        "number_of_students": 1406.0,
+        "simple_portuguese_average": 284.23333333333335,
+        "simple_math_average": 285.13,
+        "weighted_portuguese_average": 287.7664580369843,
+        "weighted_math_average": 287.42733285917495
+    },
+    "6327690": {
+        "city_code": "6327690",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 156.0,
+        "simple_portuguese_average": 290.59,
+        "simple_math_average": 293.53333333333336,
+        "weighted_portuguese_average": 297.9965384615385,
+        "weighted_math_average": 302.0832051282051
+    },
+    "6327691": {
+        "city_code": "6327691",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 63.0,
+        "simple_portuguese_average": 286.095,
+        "simple_math_average": 284.65999999999997,
+        "weighted_portuguese_average": 289.0801587301587,
+        "weighted_math_average": 290.1515873015873
+    },
+    "6327692": {
+        "city_code": "6327692",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 39.0,
+        "simple_portuguese_average": 286.83,
+        "simple_math_average": 265.29,
+        "weighted_portuguese_average": 286.83,
+        "weighted_math_average": 265.29
+    },
+    "6327693": {
+        "city_code": "6327693",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 20.0,
+        "simple_portuguese_average": 314.24,
+        "simple_math_average": 305.91,
+        "weighted_portuguese_average": 314.24,
+        "weighted_math_average": 305.91
+    },
+    "6327694": {
+        "city_code": "6327694",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 54.0,
+        "simple_portuguese_average": 271.72,
+        "simple_math_average": 260.34,
+        "weighted_portuguese_average": 271.72,
+        "weighted_math_average": 260.34
+    },
+    "6327695": {
+        "city_code": "6327695",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 239.0,
+        "simple_portuguese_average": 295.3866666666667,
+        "simple_math_average": 286.1066666666666,
+        "weighted_portuguese_average": 284.2873221757323,
+        "weighted_math_average": 281.07682008368204
+    },
+    "6327696": {
+        "city_code": "6327696",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 21.0,
+        "simple_portuguese_average": 267.62,
+        "simple_math_average": 266.89,
+        "weighted_portuguese_average": 267.62,
+        "weighted_math_average": 266.89
+    },
+    "6327697": {
+        "city_code": "6327697",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 66.0,
+        "simple_portuguese_average": 292.2,
+        "simple_math_average": 298.72,
+        "weighted_portuguese_average": 292.2,
+        "weighted_math_average": 298.72
+    },
+    "6327698": {
+        "city_code": "6327698",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 18.0,
+        "simple_portuguese_average": 280.08,
+        "simple_math_average": 284.79,
+        "weighted_portuguese_average": 280.08,
+        "weighted_math_average": 284.79
+    },
+    "6327699": {
+        "city_code": "6327699",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 23.0,
+        "simple_portuguese_average": 289.95,
+        "simple_math_average": 293.38,
+        "weighted_portuguese_average": 289.95,
+        "weighted_math_average": 293.38
+    },
+    "6327700": {
+        "city_code": "6327700",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 37.0,
+        "simple_portuguese_average": 287.9,
+        "simple_math_average": 293.82,
+        "weighted_portuguese_average": 287.9,
+        "weighted_math_average": 293.82
+    },
+    "6327701": {
+        "city_code": "6327701",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 80.0,
+        "simple_portuguese_average": 280.79,
+        "simple_math_average": 291.05,
+        "weighted_portuguese_average": 280.79,
+        "weighted_math_average": 291.05
+    },
+    "6327702": {
+        "city_code": "6327702",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 72.0,
+        "simple_portuguese_average": 268.06,
+        "simple_math_average": 278.73,
+        "weighted_portuguese_average": 268.06,
+        "weighted_math_average": 278.73
+    },
+    "6327703": {
+        "city_code": "6327703",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 27.0,
+        "simple_portuguese_average": 287.26,
+        "simple_math_average": 278.46,
+        "weighted_portuguese_average": 287.26,
+        "weighted_math_average": 278.46
+    },
+    "6327704": {
+        "city_code": "6327704",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 486.0,
+        "simple_portuguese_average": 280.044,
+        "simple_math_average": 273.16,
+        "weighted_portuguese_average": 279.4403497942387,
+        "weighted_math_average": 271.31067901234564
+    },
+    "6327705": {
+        "city_code": "6327705",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 83.0,
+        "simple_portuguese_average": 241.90333333333334,
+        "simple_math_average": 251.68666666666664,
+        "weighted_portuguese_average": 250.29132530120484,
+        "weighted_math_average": 261.250843373494
+    },
+    "6327706": {
+        "city_code": "6327706",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 70.0,
+        "simple_portuguese_average": 281.15,
+        "simple_math_average": 270.47,
+        "weighted_portuguese_average": 281.15,
+        "weighted_math_average": 270.47
+    },
+    "6327707": {
+        "city_code": "6327707",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 68.0,
+        "simple_portuguese_average": 337.02,
+        "simple_math_average": 378.19,
+        "weighted_portuguese_average": 338.2605882352941,
+        "weighted_math_average": 377.9464705882353
+    },
+    "6327708": {
+        "city_code": "6327708",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 20.0,
+        "simple_portuguese_average": 270.5,
+        "simple_math_average": 263.7,
+        "weighted_portuguese_average": 270.5,
+        "weighted_math_average": 263.7
+    },
+    "6327709": {
+        "city_code": "6327709",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 231.0,
+        "simple_portuguese_average": 284.31,
+        "simple_math_average": 278.94666666666666,
+        "weighted_portuguese_average": 286.2474458874459,
+        "weighted_math_average": 280.16883116883116
+    },
+    "6327710": {
+        "city_code": "6327710",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 30.0,
+        "simple_portuguese_average": 273.65,
+        "simple_math_average": 282.28,
+        "weighted_portuguese_average": 273.65,
+        "weighted_math_average": 282.28
+    },
+    "6327711": {
+        "city_code": "6327711",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 207.0,
+        "simple_portuguese_average": 293.115,
+        "simple_math_average": 291.76,
+        "weighted_portuguese_average": 292.75328502415454,
+        "weighted_math_average": 291.44574879227054
+    },
+    "6327712": {
+        "city_code": "6327712",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 21.0,
+        "simple_portuguese_average": 299.55,
+        "simple_math_average": 288.65,
+        "weighted_portuguese_average": 299.55,
+        "weighted_math_average": 288.65
+    },
+    "6327713": {
+        "city_code": "6327713",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 23.0,
+        "simple_portuguese_average": 270.18,
+        "simple_math_average": 251.98,
+        "weighted_portuguese_average": 270.18,
+        "weighted_math_average": 251.98
+    },
+    "6327714": {
+        "city_code": "6327714",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 126.0,
+        "simple_portuguese_average": 292.78999999999996,
+        "simple_math_average": 285.33500000000004,
+        "weighted_portuguese_average": 293.1388888888889,
+        "weighted_math_average": 285.41738095238094
+    },
+    "6327715": {
+        "city_code": "6327715",
+        "state_code": "52",
+        "number_of_schools": 5,
+        "number_of_students": 829.0,
+        "simple_portuguese_average": 279.092,
+        "simple_math_average": 268.764,
+        "weighted_portuguese_average": 275.7233293124246,
+        "weighted_math_average": 267.4364776839566
+    },
+    "6327716": {
+        "city_code": "6327716",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 59.0,
+        "simple_portuguese_average": 298.79,
+        "simple_math_average": 270.21,
+        "weighted_portuguese_average": 298.79,
+        "weighted_math_average": 270.21
+    },
+    "6327717": {
+        "city_code": "6327717",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 99.0,
+        "simple_portuguese_average": 293.62,
+        "simple_math_average": 292.89,
+        "weighted_portuguese_average": 294.7427272727273,
+        "weighted_math_average": 293.63191919191917
+    },
+    "6327718": {
+        "city_code": "6327718",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 90.0,
+        "simple_portuguese_average": 254.69,
+        "simple_math_average": 256.05,
+        "weighted_portuguese_average": 254.69,
+        "weighted_math_average": 256.05
+    },
+    "6327719": {
+        "city_code": "6327719",
+        "state_code": "52",
+        "number_of_schools": 2,
+        "number_of_students": 36.0,
+        "simple_portuguese_average": 254.64,
+        "simple_math_average": 263.75,
+        "weighted_portuguese_average": 254.64000000000001,
+        "weighted_math_average": 263.75
+    },
+    "6327720": {
+        "city_code": "6327720",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 13.0,
+        "simple_portuguese_average": 314.63,
+        "simple_math_average": 310.59,
+        "weighted_portuguese_average": 314.63,
+        "weighted_math_average": 310.59
+    },
+    "6327721": {
+        "city_code": "6327721",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 44.0,
+        "simple_portuguese_average": 263.62,
+        "simple_math_average": 253.85,
+        "weighted_portuguese_average": 263.62,
+        "weighted_math_average": 253.85
+    },
+    "6327722": {
+        "city_code": "6327722",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 64.0,
+        "simple_portuguese_average": 263.93,
+        "simple_math_average": 268.36,
+        "weighted_portuguese_average": 263.93,
+        "weighted_math_average": 268.36
+    },
+    "6327723": {
+        "city_code": "6327723",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 21.0,
+        "simple_portuguese_average": 261.51,
+        "simple_math_average": 266.03,
+        "weighted_portuguese_average": 261.51,
+        "weighted_math_average": 266.03
+    },
+    "6327724": {
+        "city_code": "6327724",
+        "state_code": "52",
+        "number_of_schools": 14,
+        "number_of_students": 1106.0,
+        "simple_portuguese_average": 284.03642857142853,
+        "simple_math_average": 281.24071428571426,
+        "weighted_portuguese_average": 279.5120072332731,
+        "weighted_math_average": 276.30237793851717
+    },
+    "6327725": {
+        "city_code": "6327725",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 42.0,
+        "simple_portuguese_average": 283.77,
+        "simple_math_average": 272.82,
+        "weighted_portuguese_average": 283.77,
+        "weighted_math_average": 272.82
+    },
+    "6327726": {
+        "city_code": "6327726",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 47.0,
+        "simple_portuguese_average": 272.21,
+        "simple_math_average": 271.43,
+        "weighted_portuguese_average": 272.21,
+        "weighted_math_average": 271.43
+    },
+    "6327727": {
+        "city_code": "6327727",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 40.0,
+        "simple_portuguese_average": 265.77,
+        "simple_math_average": 265.55,
+        "weighted_portuguese_average": 265.77,
+        "weighted_math_average": 265.55
+    },
+    "6327729": {
+        "city_code": "6327729",
+        "state_code": "52",
+        "number_of_schools": 4,
+        "number_of_students": 210.0,
+        "simple_portuguese_average": 292.0225,
+        "simple_math_average": 292.0,
+        "weighted_portuguese_average": 290.3695714285714,
+        "weighted_math_average": 291.23747619047623
+    },
+    "6327730": {
+        "city_code": "6327730",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 146.0,
+        "simple_portuguese_average": 262.3433333333333,
+        "simple_math_average": 267.1066666666667,
+        "weighted_portuguese_average": 258.3628082191781,
+        "weighted_math_average": 262.6515753424657
+    },
+    "6327731": {
+        "city_code": "6327731",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 23.0,
+        "simple_portuguese_average": 253.2,
+        "simple_math_average": 260.84,
+        "weighted_portuguese_average": 253.2,
+        "weighted_math_average": 260.84
+    },
+    "6327732": {
+        "city_code": "6327732",
+        "state_code": "52",
+        "number_of_schools": 9,
+        "number_of_students": 1215.0,
+        "simple_portuguese_average": 279.7711111111111,
+        "simple_math_average": 271.51444444444445,
+        "weighted_portuguese_average": 279.2823127572017,
+        "weighted_math_average": 272.0253827160494
+    },
+    "6327733": {
+        "city_code": "6327733",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 41.0,
+        "simple_portuguese_average": 290.44,
+        "simple_math_average": 284.95,
+        "weighted_portuguese_average": 290.44,
+        "weighted_math_average": 284.95
+    },
+    "6327734": {
+        "city_code": "6327734",
+        "state_code": "52",
+        "number_of_schools": 3,
+        "number_of_students": 117.0,
+        "simple_portuguese_average": 289.08666666666664,
+        "simple_math_average": 293.50333333333333,
+        "weighted_portuguese_average": 288.70290598290603,
+        "weighted_math_average": 293.35512820512815
+    },
+    "6327735": {
+        "city_code": "6327735",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 43.0,
+        "simple_portuguese_average": 274.08,
+        "simple_math_average": 281.23,
+        "weighted_portuguese_average": 274.08,
+        "weighted_math_average": 281.23
+    },
+    "6327736": {
+        "city_code": "6327736",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 73.0,
+        "simple_portuguese_average": 279.82,
+        "simple_math_average": 284.39,
+        "weighted_portuguese_average": 279.82,
+        "weighted_math_average": 284.39
+    },
+    "6327737": {
+        "city_code": "6327737",
+        "state_code": "52",
+        "number_of_schools": 1,
+        "number_of_students": 32.0,
+        "simple_portuguese_average": 280.32,
+        "simple_math_average": 281.94,
+        "weighted_portuguese_average": 280.32,
+        "weighted_math_average": 281.94
+    }
+}
