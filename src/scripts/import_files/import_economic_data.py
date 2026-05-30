@@ -54,28 +54,6 @@ COLUMN_MAPPING: dict = {
     "Nome da Mesorregião": "mesoregion_name",
     "Código da Microrregião": "microregion_code",
     "Nome da Microrregião": "microregion_name",
-
-    "Valor adicionado bruto da Agropecuária, a preços correntes\n(R$ 1.000)": "gross_value_added_agriculture_current_prices",
-
-    "Valor adicionado bruto da Indústria, a preços correntes\n(R$ 1.000)": "gross_value_added_industry_current_prices",
-
-    "Valor adicionado bruto dos Serviços, a preços correntes\n- exceto Administração, defesa, educação e saúde públicas e seguridade social\n(R$ 1.000)": "gross_value_added_services_current_prices",
-
-    "Valor adicionado bruto da Administração, defesa, educação e saúde públicas e seguridade social, a preços correntes\n(R$ 1.000)": "gross_value_added_public_administration_current_prices",
-
-    "Valor adicionado bruto total, a preços correntes\n(R$ 1.000)": "gross_value_added_total_current_prices",
-
-    "Impostos, líquidos de subsídios, sobre produtos, a preços correntes\n(R$ 1.000)": "taxes_less_subsidies_on_products_current_prices",
-
-    "Produto Interno Bruto, a preços correntes\n(R$ 1.000)": "gdp_current_prices",
-
-    "Produto Interno Bruto per capita, a preços correntes\n(R$ 1,00)": "gdp_per_capita_current_prices",
-
-    "Atividade com maior valor adicionado bruto": "main_economic_activity_by_gross_value_added",
-
-    "Atividade com segundo maior valor adicionado bruto": "second_main_economic_activity_by_gross_value_added",
-
-    "Atividade com terceiro maior valor adicionado bruto": "third_main_economic_activity_by_gross_value_added",
 }
 
 NUMERIC_COLUMNS: list[str] = [
@@ -90,8 +68,10 @@ NUMERIC_COLUMNS: list[str] = [
 ]
 
 ECONOMIC_FILE_PATH: str = os.path.join("data", "raw", "economico", "PIB dos Municípios - base de dados 2010-2023.xlsx")
-OUTPUT_FOLDER_PATH: str = os.path.join("data", "process", "economic")
+
 REFERENCE_YEAR: str = "2023"
+OUTPUT_FOLDER_PATH: str = os.path.join("data", "process", "economic", REFERENCE_YEAR)
+
 
 def load_economic_data(
         economic_file_path: str = ECONOMIC_FILE_PATH,
@@ -110,7 +90,7 @@ def load_economic_data(
         dataframe[dataframe["year"].astype(str).str.strip() == year].copy()
     )
 
-    print(f"Base carregada: {economic_data.shape[0]} linhas x {economic_data.shape[1]} colunas")
+    print(f"{economic_data.shape[0]} lines x {economic_data.shape[1]} columns")
 
     return economic_data
 
@@ -229,40 +209,41 @@ def create_economic_data_by_state(
             "city_code": row.get("city_code"),
             "city_name": row.get("city_name"),
 
-            "gross_value_added_agriculture_current_prices": row.get(
-                "gross_value_added_agriculture_current_prices"
+            
+            # "gross_value_added_agriculture_current_prices": row.get(
+            #     "Valor Agricultura"
+            # ),
+            # "gross_value_added_industry_current_prices": row.get(
+            #     "Valor Industria"
+            # ),
+            # "gross_value_added_services_current_prices": row.get(
+            #     "Valor Serviços"
+            # ),
+            # "gross_value_added_public_administration_current_prices": row.get(
+            #     "Valor Administração"
+            # ),
+            # "gross_value_added_total_current_prices": row.get(
+            #     "Valor bruto total"
+            # ),
+            # "taxes_less_subsidies_on_products_current_prices": row.get(
+            #     "Impostos Liquidos"
+            # ),
+            "gdp": row.get(
+                "Produto Interno Bruto"
             ),
-            "gross_value_added_industry_current_prices": row.get(
-                "gross_value_added_industry_current_prices"
-            ),
-            "gross_value_added_services_current_prices": row.get(
-                "gross_value_added_services_current_prices"
-            ),
-            "gross_value_added_public_administration_current_prices": row.get(
-                "gross_value_added_public_administration_current_prices"
-            ),
-            "gross_value_added_total_current_prices": row.get(
-                "gross_value_added_total_current_prices"
-            ),
-            "taxes_less_subsidies_on_products_current_prices": row.get(
-                "taxes_less_subsidies_on_products_current_prices"
-            ),
-            "gdp_current_prices": row.get(
-                "gdp_current_prices"
-            ),
-            "gdp_per_capita_current": row.get(
-                "gdp_per_capita_current"
+            "gdp_per_capita": row.get(
+                "Produto Interno Bruto per capita"
             ),
 
-            "main_economic_activity_by_gross_value_added": row.get(
-                "main_economic_activity_by_gross_value_added"
-            ),
-            "second_main_economic_activity_by_gross_value_added": row.get(
-                "second_main_economic_activity_by_gross_value_added"
-            ),
-            "third_main_economic_activity_by_gross_value_added": row.get(
-                "third_main_economic_activity_by_gross_value_added"
-            ),
+            # "main_economic_activity_by_gross_value_added": row.get(
+            #     "Atividade 1"
+            # ),
+            # "second_main_economic_activity_by_gross_value_added": row.get(
+            #     "Atividade 2"
+            # ),
+            # "third_main_economic_activity_by_gross_value_added": row.get(
+            #     "Atividade 3"
+            # ),
         }
 
     return economic_data
@@ -299,51 +280,29 @@ def import_economic_data(
         economic_file_path=economic_file_path,
         year=year,
     )
-
-    print("1" * 50)
-    print(f"{economic_dataframe.shape[0]} lines x {economic_dataframe.shape[1]} columns")
-    print("1" * 50)
-
     
     for state in BRAZIL_STATES:
+
         print(f"Creating {state["state_abbr"]} file ...")
 
         state_abbr: str = state["state_abbr"]
 
-        print("2" * 50)
-        print(state_abbr)
-        print("-" * 50)
-        print(economic_dataframe)
-        print(economic_dataframe.columns)
-        print("2" * 50)
-
-        economic_dataframe: pd.DataFrame = filter_economic_data_by_state(
+        economic_dataframe_by_state: pd.DataFrame = filter_economic_data_by_state(
             economic_dataframe=economic_dataframe,
             state_abbr=state_abbr,
         )
 
-        economic_dataframe: pd.DataFrame = normalize_code_columns(
-            dataframe=economic_dataframe,
-        )
-        economic_dataframe: pd.DataFrame = convert_numeric_columns(
-            dataframe=economic_dataframe,
+        economic_dataframe_by_state: pd.DataFrame = normalize_code_columns(
+            dataframe=economic_dataframe_by_state,
         )
 
-        print("2" * 50)
-        print(state_abbr)
-        print("-" * 50)
-        print(economic_dataframe)
-        print(economic_dataframe.columns)
-        print(economic_dataframe.values)
-        print("2" * 50)
-
+        # economic_dataframe: pd.DataFrame = convert_numeric_columns(
+        #    dataframe=economic_dataframe,
+        #)
+        
         economic_data: dict = create_economic_data_by_state(
-            dataframe=economic_dataframe,
+            dataframe=economic_dataframe_by_state,
         )
-
-        print("3" * 50)
-        print(economic_data)
-        print("3" * 50)
 
         save_state_file(
             economic_data=economic_data,

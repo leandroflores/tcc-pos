@@ -1,0 +1,23 @@
+{
+    "5300108": {
+        "year": "2021",
+        "region_code": "5",
+        "region_name": "Centro-oeste",
+        "state_code": "53",
+        "state_abbr": "DF",
+        "state_name": "Distrito Federal",
+        "city_code": "5300108",
+        "city_name": "Brasília",
+        "gross_value_added_agriculture_current_prices": "2286948.384",
+        "gross_value_added_industry_current_prices": "10235489.638",
+        "gross_value_added_services_current_prices": "127696742.323",
+        "gross_value_added_public_administration_current_prices": "116809197.663",
+        "gross_value_added_total_current_prices": "257028378.008",
+        "taxes_less_subsidies_on_products_current_prices": "29915404.019",
+        "gdp_current_prices": "286943782.027",
+        "gdp_per_capita_current": "92732.27",
+        "main_economic_activity_by_gross_value_added": "Administração, defesa, educação e saúde públicas e seguridade social",
+        "second_main_economic_activity_by_gross_value_added": "Demais serviços",
+        "third_main_economic_activity_by_gross_value_added": "Comércio e reparação de veículos automotores e motocicletas"
+    }
+}
