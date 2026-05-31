@@ -1,0 +1,359 @@
+{
+    "6322222": {
+        "school": {
+            "city_code": "6322222",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 33.0,
+            "simple_portuguese_average": 258.135,
+            "simple_math_average": 274.78999999999996,
+            "weighted_portuguese_average": 257.36151515151516,
+            "weighted_math_average": 273.30060606060607
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322223": {
+        "school": {
+            "city_code": "6322223",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 58.0,
+            "simple_portuguese_average": 267.12,
+            "simple_math_average": 266.78,
+            "weighted_portuguese_average": 267.12,
+            "weighted_math_average": 266.78
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322224": {
+        "school": {
+            "city_code": "6322224",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 164.0,
+            "simple_portuguese_average": 270.02,
+            "simple_math_average": 271.82,
+            "weighted_portuguese_average": 270.73341463414636,
+            "weighted_math_average": 272.15695121951217
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322225": {
+        "school": {
+            "city_code": "6322225",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 105.0,
+            "simple_portuguese_average": 234.995,
+            "simple_math_average": 241.825,
+            "weighted_portuguese_average": 244.64942857142856,
+            "weighted_math_average": 246.2877142857143
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322226": {
+        "school": {
+            "city_code": "6322226",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 21.0,
+            "simple_portuguese_average": 264.45,
+            "simple_math_average": 261.52,
+            "weighted_portuguese_average": 264.45,
+            "weighted_math_average": 261.52
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322227": {
+        "school": {
+            "city_code": "6322227",
+            "state_code": "12",
+            "number_of_schools": 4,
+            "number_of_students": 516.0,
+            "simple_portuguese_average": 272.3025,
+            "simple_math_average": 270.515,
+            "weighted_portuguese_average": 269.5058720930233,
+            "weighted_math_average": 267.48546511627904
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322228": {
+        "school": {
+            "city_code": "6322228",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 147.0,
+            "simple_portuguese_average": 259.895,
+            "simple_math_average": 256.945,
+            "weighted_portuguese_average": 269.35632653061225,
+            "weighted_math_average": 265.6155102040816
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322229": {
+        "school": {
+            "city_code": "6322229",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 245.0,
+            "simple_portuguese_average": 250.52,
+            "simple_math_average": 254.63,
+            "weighted_portuguese_average": 250.52,
+            "weighted_math_average": 254.63
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322230": {
+        "school": {
+            "city_code": "6322230",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 55.0,
+            "simple_portuguese_average": 264.58,
+            "simple_math_average": 251.72,
+            "weighted_portuguese_average": 264.58,
+            "weighted_math_average": 251.72
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322231": {
+        "school": {
+            "city_code": "6322231",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 130.0,
+            "simple_portuguese_average": 257.58500000000004,
+            "simple_math_average": 255.60500000000002,
+            "weighted_portuguese_average": 257.5916923076923,
+            "weighted_math_average": 255.54615384615386
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322232": {
+        "school": {
+            "city_code": "6322232",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 91.0,
+            "simple_portuguese_average": 237.21,
+            "simple_math_average": 242.6,
+            "weighted_portuguese_average": 237.21,
+            "weighted_math_average": 242.6
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322234": {
+        "school": {
+            "city_code": "6322234",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 63.0,
+            "simple_portuguese_average": 262.3,
+            "simple_math_average": 271.36,
+            "weighted_portuguese_average": 262.4579365079365,
+            "weighted_math_average": 270.9726984126984
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322235": {
+        "school": {
+            "city_code": "6322235",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 89.0,
+            "simple_portuguese_average": 244.99,
+            "simple_math_average": 252.52,
+            "weighted_portuguese_average": 244.99,
+            "weighted_math_average": 252.52000000000004
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322236": {
+        "school": {
+            "city_code": "6322236",
+            "state_code": "12",
+            "number_of_schools": 21,
+            "number_of_students": 2236.0,
+            "simple_portuguese_average": 278.5366666666666,
+            "simple_math_average": 270.18619047619046,
+            "weighted_portuguese_average": 279.13436940966017,
+            "weighted_math_average": 269.8638237924865
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322237": {
+        "school": {
+            "city_code": "6322237",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 93.0,
+            "simple_portuguese_average": 261.12,
+            "simple_math_average": 258.38,
+            "weighted_portuguese_average": 261.12,
+            "weighted_math_average": 258.38
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322238": {
+        "school": {
+            "city_code": "6322238",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 38.0,
+            "simple_portuguese_average": 222.39,
+            "simple_math_average": 239.32,
+            "weighted_portuguese_average": 222.39,
+            "weighted_math_average": 239.32
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322239": {
+        "school": {
+            "city_code": "6322239",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 179.0,
+            "simple_portuguese_average": 274.655,
+            "simple_math_average": 266.09000000000003,
+            "weighted_portuguese_average": 273.8050279329609,
+            "weighted_math_average": 263.95480446927377
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322240": {
+        "school": {
+            "city_code": "6322240",
+            "state_code": "12",
+            "number_of_schools": 2,
+            "number_of_students": 186.0,
+            "simple_portuguese_average": 280.755,
+            "simple_math_average": 273.955,
+            "weighted_portuguese_average": 277.29145161290324,
+            "weighted_math_average": 269.0920967741935
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322241": {
+        "school": {
+            "city_code": "6322241",
+            "state_code": "12",
+            "number_of_schools": 4,
+            "number_of_students": 273.0,
+            "simple_portuguese_average": 254.5125,
+            "simple_math_average": 247.1575,
+            "weighted_portuguese_average": 253.35168498168503,
+            "weighted_math_average": 251.2659706959707
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322242": {
+        "school": {
+            "city_code": "6322242",
+            "state_code": "12",
+            "number_of_schools": 1,
+            "number_of_students": 40.0,
+            "simple_portuguese_average": 271.84,
+            "simple_math_average": 268.03,
+            "weighted_portuguese_average": 271.84,
+            "weighted_math_average": 268.03
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    },
+    "6322243": {
+        "school": {
+            "city_code": "6322243",
+            "state_code": "12",
+            "number_of_schools": 4,
+            "number_of_students": 133.0,
+            "simple_portuguese_average": 264.1275,
+            "simple_math_average": 264.5175,
+            "weighted_portuguese_average": 265.69375939849624,
+            "weighted_math_average": 265.65225563909775
+        },
+        "economic": {
+            "2021": {},
+            "2022": {},
+            "2023": {}
+        }
+    }
+}
