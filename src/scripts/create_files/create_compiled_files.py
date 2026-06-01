@@ -4,6 +4,30 @@ from pathlib import Path
 import json
 import os
 
+CITY_MAPPING: dict = {
+    "6322222": "1200013", # Acrelândia
+    "6322223": "1200054", # Assis Brasil
+    "6322224": "1200104", # Brasiléia
+    "6322225": "1200138", # Bujari
+    "6322226": "1200179", # Capixaba
+    "6322227": "1200203", # Cruzeiro do Sul
+    "6322228": "1200252", # Epitaciolândia
+    "6322229": "1200302", # Feijó
+    "6322230": "1200328", # Jordão
+    "6322231": "1200336", # Mâncio Lima
+    "6322232": "1200344", # Manoel Urbano
+    "6322234": "1200385", # Plácido de Castro
+    "6322235": "1200393", # Porto Walter
+    "6322236": "1200401", # Rio Branco
+    "6322237": "1200427", # Rodrigues Alves
+    "6322238": "1200435", # Santa Rosa do Purus
+    "6322239": "1200450", # Senador Guiomard
+    "6322240": "1200500", # Sena Madureira
+    "6322241": "1200609", # Tarauacá
+    "6322242": "1200708", # Xapuri
+    "6322243": "1200807", # Porto Acre
+}
+
 BRAZIL_STATES: list[dict] = [
     {"state_abbr": "AC", "state_code": "12", "state_name": "Acre"},
     {"state_abbr": "AL", "state_code": "27", "state_name": "Alagoas"},
@@ -69,12 +93,13 @@ def create_compiled_data(
     compiled_data: dict = {}
     EMPTY_VALUE: dict = {}
     for key, value in school_data.items():
-        compiled_data[key] = {
+        city_code: str = CITY_MAPPING.get(key, None)
+        compiled_data[city_code] = {
             "school": value,
             "economic": {
-                "2021": economic_2021_data.get(key, EMPTY_VALUE),
-                "2022": economic_2022_data.get(key, EMPTY_VALUE),
-                "2023": economic_2023_data.get(key, EMPTY_VALUE),
+                "2021": economic_2021_data.get(city_code, EMPTY_VALUE),
+                "2022": economic_2022_data.get(city_code, EMPTY_VALUE),
+                "2023": economic_2023_data.get(city_code, EMPTY_VALUE),
             }
         }
     return compiled_data
@@ -97,7 +122,7 @@ def save_state_file(
             indent=4,
         )
 
-def create_compiled_data(
+def create_compiled_data_by_state(
         state_abbr: str,
         economic_2021_folder_path: str = ECONOMIC_2021_FOLDER_PATH,
         economic_2022_folder_path: str = ECONOMIC_2022_FOLDER_PATH,
@@ -147,7 +172,7 @@ def create_compiled_files(
 
         state_abbr: str = state["state_abbr"]
 
-        compiled_data: dict = create_compiled_data(
+        compiled_data: dict = create_compiled_data_by_state(
             state_abbr=state_abbr,
             economic_2021_folder_path=economic_2021_folder_path,
             economic_2022_folder_path=economic_2022_folder_path,
