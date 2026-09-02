@@ -47,18 +47,32 @@ state_data = load_data("PR")
 print(state_data)
 print(state_data.columns)
 
+
+
 ideb_columns: list[str] = [
     "ideb_publica_medio_todos_1_4",
     "ideb_estadual_medio_todos_1_4",
-    "ideb_municipal_medio_todos_1_4",
     "ideb_federal_medio_todos_1_4",
-    "ideb_privada_medio_todos_1_4",
+
+    "ideb_municipal_fundamental_finais_6_9",
+    "ideb_estadual_fundamental_finais_6_9",
+    "ideb_publica_fundamental_finais_6_9",
+    "ideb_federal_fundamental_finais_6_9",
+
+    "ideb_municipal_fundamental_iniciais_1_5",
+    "ideb_publica_fundamental_iniciais_1_5",
+    "ideb_estadual_fundamental_iniciais_1_5",
+    
 ]
 
 # analysis_dataframe = prepare_analysis_dataframe(state_data, "ideb_publica_medio_todos_1_4")
 
-analysis_dataframe = prepare_analysis_dataframe(state_data, "ideb_privada_medio_todos_1_4")
+for column in ideb_columns:
+    analysis_dataframe = prepare_analysis_dataframe(state_data, column)
+    
+    print("-" * 50)
+    print(column)
+    print("-" * 50)
+    print(analysis_dataframe)
+    print("-" * 50)
 
-print(analysis_dataframe)
-
-print("0" * 50)
