@@ -1,0 +1,31 @@
+﻿Variável-alvo;Modelo;Partição;R²
+IDEB;Árvore de decisão;1;-0,2218673678528258
+IDEB;Árvore de decisão;2;-0,2526904364484832
+IDEB;Árvore de decisão;3;-0,13623163303138064
+IDEB;Árvore de decisão;4;-0,22713715184337735
+IDEB;Árvore de decisão;5;-0,40762949208145427
+IDEB;Floresta aleatória;1;0,012517073590268213
+IDEB;Floresta aleatória;2;-0,02372681838431734
+IDEB;Floresta aleatória;3;0,015733035302495924
+IDEB;Floresta aleatória;4;-0,1894356767295955
+IDEB;Floresta aleatória;5;-0,19939071349414395
+SAEB Matemática;Árvore de decisão;1;-0,07627668789744124
+SAEB Matemática;Árvore de decisão;2;-0,21602346192722788
+SAEB Matemática;Árvore de decisão;3;-0,04148826607052847
+SAEB Matemática;Árvore de decisão;4;-0,36840745938544206
+SAEB Matemática;Árvore de decisão;5;-0,215170097163216
+SAEB Matemática;Floresta aleatória;1;0,014348191342932304
+SAEB Matemática;Floresta aleatória;2;-0,11657260886947651
+SAEB Matemática;Floresta aleatória;3;0,07321065872965737
+SAEB Matemática;Floresta aleatória;4;-0,20159876668822618
+SAEB Matemática;Floresta aleatória;5;-0,18430189757951876
+SAEB Língua Portuguesa;Árvore de decisão;1;-0,19789662077676318
+SAEB Língua Portuguesa;Árvore de decisão;2;-0,23962900949429766
+SAEB Língua Portuguesa;Árvore de decisão;3;-0,1331207090678166
+SAEB Língua Portuguesa;Árvore de decisão;4;-0,3926896835380709
+SAEB Língua Portuguesa;Árvore de decisão;5;-0,4418605330465848
+SAEB Língua Portuguesa;Floresta aleatória;1;-0,015852766171872146
+SAEB Língua Portuguesa;Floresta aleatória;2;0,04677464192012537
+SAEB Língua Portuguesa;Floresta aleatória;3;0,051118365106818775
+SAEB Língua Portuguesa;Floresta aleatória;4;-0,1456665921968725
+SAEB Língua Portuguesa;Floresta aleatória;5;-0,19840777172031254
